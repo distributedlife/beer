@@ -63,7 +63,7 @@ Data I have already
 
 1. https://untappd.com/v/hopheads/2887575 -> `src/data/hopheads-point-cook.json`
 2. https://untappd.com/v/hopheads-altona/8072907 -> `src/data/hopheads-altona.json`
-3. https://untappd.com/v/hopheads-yarraville/10442156 -> `src/data/hopheads-yarravilla.json`
+3. https://untappd.com/v/hopheads-yarraville/10442156 -> `src/data/hopheads-yarraville.json`
 
 ```js
 JSON.stringify(
