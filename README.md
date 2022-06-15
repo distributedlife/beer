@@ -1,4 +1,4 @@
-# Finding new beer
+# Finding beer in new (to you) styles
 
 These scripts are finding new beers from your local beershop. You need to have two things be true for this to work:
 
