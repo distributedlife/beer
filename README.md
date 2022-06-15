@@ -52,12 +52,13 @@ JSON.stringify(
 ```
 
 ## Beershop Data
+> I chatted with peeps at Hopheads (a local beer shop near me) and they said that they add beers more readily than when they take them off from being out of stock. You may end up with some beers that are no longer available.
 
 1. Find your beershop on Untappd e.g.
 2. Filter by newest first and hide beers you've had
 3. Keep clicking the "Load More" page until you have all your beers or the beers since last extract
 4. Open console and run the script below to convert data to JSON
-5. Save the fke in `src/data/shopname.json` where `shopname` is the name you use for the shop
+5. Save the file in `src/data/shopname.json` where `shopname` is the name you use for the shop
 
 Data I have already
 
