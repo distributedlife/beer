@@ -1,0 +1,6812 @@
+[
+  {
+    "name": "Where Is the Lava?",
+    "brewery": "The Bruery Terreux",
+    "style": "Sour - Other",
+    "date": "06/14/22"
+  },
+  {
+    "name": "Tetley's Smooth Flow",
+    "brewery": "Joshua Tetley & Son",
+    "style": "English Bitter",
+    "date": "06/14/22"
+  },
+  {
+    "name": "Maccabee (מכבי)",
+    "brewery": "Tempo Beer Industries Ltd (טמפו)",
+    "style": "Lager - Pale",
+    "date": "06/14/22"
+  },
+  {
+    "name": "Club Colombia Dorada",
+    "brewery": "Cervecería Bavaria",
+    "style": "Lager - Pale",
+    "date": "06/12/22"
+  },
+  {
+    "name": "Dag & Dauw",
+    "brewery": "Brouwerij de Molen",
+    "style": "IPA - American",
+    "date": "06/12/22"
+  },
+  {
+    "name": "Counter Clockwise",
+    "brewery": "Deeds Brewing",
+    "style": "Lager - Dark",
+    "date": "06/12/22"
+  },
+  {
+    "name": "DUCKS & CAKE",
+    "brewery": "Banks Brewing",
+    "style": "IPA - Imperial / Double Milkshake",
+    "date": "06/07/22"
+  },
+  {
+    "name": "Traditional Bavarian Marzen",
+    "brewery": "Bonehead Brewing",
+    "style": "Märzen",
+    "date": "06/07/22"
+  },
+  {
+    "name": "Definitely Maybe",
+    "brewery": "Slow Lane Brewing",
+    "style": "Bock - Hell / Maibock / Lentebock",
+    "date": "06/05/22"
+  },
+  {
+    "name": "City Limits",
+    "brewery": "Banks Brewing",
+    "style": "Lager - Vienna",
+    "date": "06/05/22"
+  },
+  {
+    "name": "Bohemian Pilsner",
+    "brewery": "Burnley Brewing",
+    "style": "Pilsner - German",
+    "date": "06/05/22"
+  },
+  {
+    "name": "Made With Love",
+    "brewery": "Town Brewery",
+    "style": "Pale Ale - American",
+    "date": "05/31/22"
+  },
+  {
+    "name": "Love Affair",
+    "brewery": "Hawkers Beer",
+    "style": "Lager - Munich Dunkel",
+    "date": "05/31/22"
+  },
+  {
+    "name": "Pinot Pop",
+    "brewery": "The Bruery Terreux",
+    "style": "Farmhouse Ale - Saison",
+    "date": "05/29/22"
+  },
+  {
+    "name": "Ginger Snap",
+    "brewery": "Alesong Brewing & Blending",
+    "style": "Sour - Other",
+    "date": "05/29/22"
+  },
+  {
+    "name": "Lime and Jalapeno Lager",
+    "brewery": "Molly Rose Brewing",
+    "style": "Shandy / Radler",
+    "date": "05/28/22"
+  },
+  {
+    "name": "Moutere Double Dip IPA",
+    "brewery": "Six String Brewing Company",
+    "style": "IPA - Imperial / Double",
+    "date": "05/15/22"
+  },
+  {
+    "name": "Hop Stomper",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "IPA - American",
+    "date": "05/15/22"
+  },
+  {
+    "name": "Big Sky Park Ale",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Pale Ale - Australian",
+    "date": "05/08/22"
+  },
+  {
+    "name": "Laneway",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Lager - Helles",
+    "date": "05/08/22"
+  },
+  {
+    "name": "Tropical Smash",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Sour - Fruited Gose",
+    "date": "05/07/22"
+  },
+  {
+    "name": "PRIDElweiss Midsumma Ale 2022",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Wheat Beer - Other",
+    "date": "05/06/22"
+  },
+  {
+    "name": "Furphy Crisp Lager",
+    "brewery": "Little Creatures Brewing",
+    "style": "Lager - Pale",
+    "date": "05/06/22"
+  },
+  {
+    "name": "Wet Wet Wet Hop Pale Ale",
+    "brewery": "Six String Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "05/01/22"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Six String Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "05/01/22"
+  },
+  {
+    "name": "Into the Wood: Rosé Saison",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Farmhouse Ale - Saison",
+    "date": "05/01/22"
+  },
+  {
+    "name": "Bunker Porter",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Porter - American",
+    "date": "05/01/22"
+  },
+  {
+    "name": "RUA",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Red Ale - Irish",
+    "date": "05/01/22"
+  },
+  {
+    "name": "Dark Relic",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Dark Ale",
+    "date": "05/01/22"
+  },
+  {
+    "name": "Kellerbier",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Kellerbier / Zwickelbier",
+    "date": "05/01/22"
+  },
+  {
+    "name": "Lemon And Coriander Gose",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Sour - Other Gose",
+    "date": "05/01/22"
+  },
+  {
+    "name": "Shreddin' IPA",
+    "brewery": "Six String Brewing Company",
+    "style": "IPA - American",
+    "date": "04/29/22"
+  },
+  {
+    "name": "On Tour Mid",
+    "brewery": "Six String Brewing Company",
+    "style": "Golden Ale",
+    "date": "04/29/22"
+  },
+  {
+    "name": "Tropical Pale Ale",
+    "brewery": "Six String Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "04/24/22"
+  },
+  {
+    "name": "Cold Dip IPA",
+    "brewery": "Six String Brewing Company",
+    "style": "IPA - American",
+    "date": "04/24/22"
+  },
+  {
+    "name": "Coastie Lager ",
+    "brewery": "Six String Brewing Company",
+    "style": "Lager - Pale",
+    "date": "04/24/22"
+  },
+  {
+    "name": "Urban Bohemia, Bohemian Pilsner",
+    "brewery": "Six String Brewing Company",
+    "style": "Pilsner - Czech",
+    "date": "04/23/22"
+  },
+  {
+    "name": "Watermelon Smash",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Sour - Fruited Gose",
+    "date": "04/10/22"
+  },
+  {
+    "name": "Isbjørn Lite",
+    "brewery": "Macks Ølbryggeri",
+    "style": "Gluten-Free",
+    "date": "04/10/22"
+  },
+  {
+    "name": "Auguste's Underground",
+    "brewery": "Golden Pipes Brewing",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "04/10/22"
+  },
+  {
+    "name": "Tropical Sour",
+    "brewery": "Bridge Road Brewers",
+    "style": "Sour - Fruited Gose",
+    "date": "03/27/22"
+  },
+  {
+    "name": "Hazy IPA",
+    "brewery": "Little Creatures Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "03/27/22"
+  },
+  {
+    "name": "Initial Brewing IPA",
+    "brewery": "Pinnacle Drinks Group (Woolworths)",
+    "style": "IPA - American",
+    "date": "03/27/22"
+  },
+  {
+    "name": "Crony Refreshing Pale Ale",
+    "brewery": "Pinnacle Drinks Group (Woolworths)",
+    "style": "Pale Ale - Australian",
+    "date": "03/20/22"
+  },
+  {
+    "name": "Hawaiian Haze DDH Pale Ale",
+    "brewery": "Ballistic Beer",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "03/20/22"
+  },
+  { "name": "Trøst", "brewery": "Aass Bryggeri", "style": "Lager - Pale", "date": "03/20/22" },
+  {
+    "name": "Kōrudo Premium Dry Lager",
+    "brewery": "Orion Breweries, Ltd.",
+    "style": "Lager - Japanese Rice",
+    "date": "03/20/22"
+  },
+  {
+    "name": "Citrus X.P.A.",
+    "brewery": "Colonial Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "03/13/22"
+  },
+  {
+    "name": "Colossal Brewing Mind Harvest",
+    "brewery": "Pinnacle Drinks Group (Woolworths)",
+    "style": "IPA - New England / Hazy",
+    "date": "03/13/22"
+  },
+  {
+    "name": "Hornet",
+    "brewery": "Black Hops Brewing",
+    "style": "IPA - American",
+    "date": "03/13/22"
+  },
+  {
+    "name": "Monsuta Okinawa Dry Premium Draft",
+    "brewery": "Orion Breweries, Ltd.",
+    "style": "Lager - Japanese Rice",
+    "date": "03/13/22"
+  },
+  {
+    "name": "Jungle Juice",
+    "brewery": "Dainton Beer",
+    "style": "IPA - New England / Hazy",
+    "date": "03/06/22"
+  },
+  {
+    "name": "West Coast IPA",
+    "brewery": "Hawkers Beer",
+    "style": "IPA - American",
+    "date": "03/06/22"
+  },
+  {
+    "name": "Tropical Haze",
+    "brewery": "Zytho Brewing",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "03/06/22"
+  },
+  {
+    "name": "Colossal Brewing Hopmosphere",
+    "brewery": "Pinnacle Drinks Group (Woolworths)",
+    "style": "IPA - American",
+    "date": "03/06/22"
+  },
+  {
+    "name": "G.O.A.T.",
+    "brewery": "Black Hops Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "03/06/22"
+  },
+  {
+    "name": "1698",
+    "brewery": "Shepherd Neame",
+    "style": "Strong Ale - English",
+    "date": "02/26/22"
+  },
+  {
+    "name": "Bombardier Premium British Ale (2020)",
+    "brewery": "Eagle Brewery (formerly Charles Wells)",
+    "style": "Brown Ale - English",
+    "date": "02/25/22"
+  },
+  {
+    "name": "Brok Export",
+    "brewery": "Browar w Koszalinie",
+    "style": "Lager - Pale",
+    "date": "02/24/22"
+  },
+  {
+    "name": "Stubbie",
+    "brewery": "Pinnacle Drinks Group (Woolworths)",
+    "style": "Kölsch",
+    "date": "02/22/22"
+  },
+  {
+    "name": "Kozel Premium Lager / Kozel 11",
+    "brewery": "Pivovar Velké Popovice",
+    "style": "Pilsner - Czech",
+    "date": "02/22/22"
+  },
+  {
+    "name": "Tui East India Pale Ale",
+    "brewery": "Tui Breweries Ltd. (DB Breweries)",
+    "style": "IPA - New Zealand",
+    "date": "02/22/22"
+  },
+  {
+    "name": "Lucky Beer (Lucky Buddha)",
+    "brewery": "Hangzhou Qiandaohu Beer Co. (Cheerday Brewery - 千岛湖)",
+    "style": "Lager - Pale",
+    "date": "02/20/22"
+  },
+  {
+    "name": "Leikeim Premium Pils",
+    "brewery": "Brauhaus Leikeim",
+    "style": "Pilsner - German",
+    "date": "02/20/22"
+  },
+  { "name": "Pale Ale", "brewery": "TWØBAYS", "style": "Gluten-Free", "date": "02/20/22" },
+  {
+    "name": "Holy Watermelon & Mint",
+    "brewery": "Saintly Hard Seltzer",
+    "style": "Hard Seltzer",
+    "date": "02/20/22"
+  },
+  {
+    "name": "Sidewinder Low Alc Hazy Pale",
+    "brewery": "Brick Lane Brewing Co.",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "02/19/22"
+  },
+  {
+    "name": "La Trappe Blond",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "style": "Belgian Blonde",
+    "date": "02/19/22"
+  },
+  {
+    "name": "Nort Tropical XPA",
+    "brewery": "Nort Beer",
+    "style": "Non-Alcoholic Beer",
+    "date": "02/13/22"
+  },
+  {
+    "name": "Galactic Milk Stout",
+    "brewery": "Big Drop Brewing Co",
+    "style": "Non-Alcoholic Beer",
+    "date": "02/02/22"
+  },
+  {
+    "name": "Zero",
+    "brewery": "Great Northern Brewing Co.",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/27/22"
+  },
+  {
+    "name": "Heineken 0.0",
+    "brewery": "Heineken",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/27/22"
+  },
+  {
+    "name": "Stout",
+    "brewery": "UpFlow Brewing Co.",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/26/22"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "UpFlow Brewing Co.",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/26/22"
+  },
+  {
+    "name": "Kitten 9 Tails ",
+    "brewery": "Gulf Brewery",
+    "style": "Lager - Pale",
+    "date": "01/23/22"
+  },
+  {
+    "name": "Humpback Pale",
+    "brewery": "Gulf Brewery",
+    "style": "Pale Ale - English",
+    "date": "01/23/22"
+  },
+  {
+    "name": "Trade Winds IPA",
+    "brewery": "Gulf Brewery",
+    "style": "IPA - English",
+    "date": "01/23/22"
+  },
+  {
+    "name": "New World IPA",
+    "brewery": "UpFlow Brewing Co.",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/23/22"
+  },
+  {
+    "name": "Free",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/23/22"
+  },
+  {
+    "name": "Sou' Wester",
+    "brewery": "Gulf Brewery",
+    "style": "Stout - Other",
+    "date": "01/22/22"
+  },
+  {
+    "name": "SmokeStack Rauchbier",
+    "brewery": "Gulf Brewery",
+    "style": "Rauchbier",
+    "date": "01/22/22"
+  },
+  {
+    "name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/21/22"
+  },
+  { "name": "Parc Pils", "brewery": "Monceau", "style": "Non-Alcoholic Beer", "date": "01/21/22" },
+  {
+    "name": "Love All No Alcohol Pale Ale",
+    "brewery": "Holgate Brewhouse",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/20/22"
+  },
+  {
+    "name": "Münchner Weisse",
+    "brewery": "Staatliches Hofbräuhaus München",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "01/16/22"
+  },
+  {
+    "name": "Hofbräu Original",
+    "brewery": "Staatliches Hofbräuhaus München",
+    "style": "Lager - Helles",
+    "date": "01/16/22"
+  },
+  {
+    "name": "Nort Refreshing Ale",
+    "brewery": "Nort Beer",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/16/22"
+  },
+  {
+    "name": "Hopwork Orange",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Pale Ale - American",
+    "date": "01/16/22"
+  },
+  {
+    "name": "Baltika #0 Non-Alcoholic / Балтика #0 Безалкогольное",
+    "brewery": "Baltika Breweries (Балтика)",
+    "style": "Non-Alcoholic Beer",
+    "date": "01/15/22"
+  },
+  {
+    "name": "India Red Ale",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Red Ale - Imperial / Double",
+    "date": "01/14/22"
+  },
+  {
+    "name": "Amber Ale",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Red Ale - American Amber / Red",
+    "date": "01/14/22"
+  },
+  {
+    "name": "Black Ale",
+    "brewery": "Prancing Pony Brewery",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "date": "01/14/22"
+  },
+  {
+    "name": "Indie Kid Pilsener",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Pilsner - Other",
+    "date": "01/14/22"
+  },
+  {
+    "name": "The Zeppelin",
+    "brewery": "Prancing Pony Brewery",
+    "style": "IPA - New England / Hazy",
+    "date": "01/13/22"
+  },
+  {
+    "name": "Stage Roadie - Mid Strength",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Mild - Other",
+    "date": "01/13/22"
+  },
+  {
+    "name": "Quick Hare Cape Ale",
+    "brewery": "Loophole Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "01/13/22"
+  },
+  {
+    "name": "Sunshine Ale",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "01/12/22"
+  },
+  {
+    "name": "Pêche / Pêcheresse",
+    "brewery": "Brouwerij Lindemans",
+    "style": "Lambic - Fruit",
+    "date": "01/12/22"
+  },
+  {
+    "name": "Framboise",
+    "brewery": "Brouwerij Lindemans",
+    "style": "Lambic - Framboise",
+    "date": "01/12/22"
+  },
+  {
+    "name": "Miss Kitty",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Schwarzbier",
+    "date": "01/12/22"
+  },
+  {
+    "name": "Strawberry Sour",
+    "brewery": "Bond Store",
+    "style": "Sour - Fruited",
+    "date": "01/06/22"
+  },
+  { "name": "Oat Stout", "brewery": "Bond Store", "style": "Stout - Oatmeal", "date": "01/06/22" },
+  { "name": "Porter", "brewery": "Bond Store", "style": "Porter - Other", "date": "01/06/22" },
+  {
+    "name": "Copper Miners' Ale",
+    "brewery": "Bond Store",
+    "style": "Extra Special / Strong Bitter",
+    "date": "01/06/22"
+  },
+  {
+    "name": "SacRED Ale",
+    "brewery": "Bond Store",
+    "style": "Red Ale - American Amber / Red",
+    "date": "01/06/22"
+  },
+  { "name": "Your Mate Mid", "brewery": "Bond Store", "style": "Other", "date": "01/06/22" },
+  { "name": "Hazy", "brewery": "Bond Store", "style": "IPA - American", "date": "01/06/22" },
+  {
+    "name": "Ginger Beer",
+    "brewery": "Bond Store",
+    "style": "Hard Ginger Beer",
+    "date": "01/06/22"
+  },
+  {
+    "name": "Beach Ale",
+    "brewery": "Bond Store",
+    "style": "Pale Ale - Australian",
+    "date": "01/05/22"
+  },
+  {
+    "name": "Southwark Bitter",
+    "brewery": "South Australian Brewing Co.",
+    "style": "English Bitter",
+    "date": "01/04/22"
+  },
+  { "name": "Crisp Lager", "brewery": "Bond Store", "style": "Lager - Pale", "date": "01/03/22" },
+  { "name": "IPA", "brewery": "Bond Store", "style": "IPA - American", "date": "01/02/22" },
+  {
+    "name": "Easy Ale IPA",
+    "brewery": "Bond Store",
+    "style": "IPA - International",
+    "date": "01/02/22"
+  },
+  {
+    "name": "El Toro Margarita Sour",
+    "brewery": "Vale Brewing",
+    "style": "Sour - Other",
+    "date": "01/01/22"
+  },
+  {
+    "name": "Amber Ale",
+    "brewery": "Zierholz Premium Brewery",
+    "style": "Altbier",
+    "date": "01/01/22"
+  },
+  {
+    "name": "Wild Polly IPA",
+    "brewery": "Wild Polly Brewing Co",
+    "style": "IPA - American",
+    "date": "12/31/21"
+  },
+  {
+    "name": "Easy",
+    "brewery": "BentSpoke Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "12/31/21"
+  },
+  {
+    "name": "XPA",
+    "brewery": "Capital Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "12/31/21"
+  },
+  {
+    "name": "Amazon Ale",
+    "brewery": "Woolshed Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "12/30/21"
+  },
+  {
+    "name": "Red Nut",
+    "brewery": "BentSpoke Brewing Co",
+    "style": "IPA - Red",
+    "date": "12/30/21"
+  },
+  {
+    "name": "Hang Loose Juice ",
+    "brewery": "Capital Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "date": "12/27/21"
+  },
+  {
+    "name": "Evil Eye Red IPA",
+    "brewery": "Capital Brewing Co",
+    "style": "IPA - Red",
+    "date": "12/27/21"
+  },
+  {
+    "name": "German Ale",
+    "brewery": "Zierholz Premium Brewery",
+    "style": "Kölsch",
+    "date": "12/27/21"
+  },
+  {
+    "name": "Oktoberfest",
+    "brewery": "Zierholz Premium Brewery",
+    "style": "Märzen",
+    "date": "12/27/21"
+  },
+  {
+    "name": "Kiandra Golden Ale",
+    "brewery": "Jindabyne Brewing",
+    "style": "Golden Ale",
+    "date": "12/27/21"
+  },
+  {
+    "name": "Coast Ale",
+    "brewery": "Capital Brewing Co",
+    "style": "California Common",
+    "date": "12/26/21"
+  },
+  {
+    "name": "Alpine Red X",
+    "brewery": "Jindabyne Brewing",
+    "style": "Lager - Red",
+    "date": "12/26/21"
+  },
+  {
+    "name": "Vale Spiced Rum Porter",
+    "brewery": "Vale Brewing",
+    "style": "Porter - English",
+    "date": "12/25/21"
+  },
+  {
+    "name": "You Am IPA",
+    "brewery": "Tumut River Brewing Co",
+    "style": "IPA - International",
+    "date": "12/25/21"
+  },
+  {
+    "name": "Island Bend Pilzner",
+    "brewery": "Jindabyne Brewing",
+    "style": "Pilsner - Other",
+    "date": "12/25/21"
+  },
+  {
+    "name": "Korben Double IPA",
+    "brewery": "Akasha Brewing Company",
+    "style": "IPA - Imperial / Double",
+    "date": "12/23/21"
+  },
+  { "name": "Citra Red IPA", "brewery": "Frenchies", "style": "IPA - Red", "date": "12/23/21" },
+  {
+    "name": "Beneath the Trees We Gather",
+    "brewery": "Hawkers Beer",
+    "style": "Sour - Fruited",
+    "date": "12/23/21"
+  },
+  {
+    "name": "The Dealer",
+    "brewery": "Co-Conspirators Brewing Company",
+    "style": "IPA - American",
+    "date": "12/23/21"
+  },
+  {
+    "name": "EXTRA PALE ALE",
+    "brewery": "Banks Brewing",
+    "style": "Pale Ale - American",
+    "date": "12/23/21"
+  },
+  {
+    "name": "Premium Bounce",
+    "brewery": "White Bay Beer Co.",
+    "style": "IPA - New England / Hazy",
+    "date": "12/23/21"
+  },
+  {
+    "name": "Elsie The Milk Stout",
+    "brewery": "Batch Brewing Company",
+    "style": "Stout - Milk / Sweet",
+    "date": "12/23/21"
+  },
+  {
+    "name": "Greasey’s Lager",
+    "brewery": "Grease Monkey",
+    "style": "Lager - Pale",
+    "date": "12/23/21"
+  },
+  {
+    "name": "Isbjørn",
+    "brewery": "Macks Ølbryggeri",
+    "style": "Pilsner - Other",
+    "date": "12/23/21"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Wild Polly Brewing Co",
+    "style": "Gluten-Free",
+    "date": "12/22/21"
+  },
+  {
+    "name": "Rock Hopper",
+    "brewery": "Capital Brewing Co",
+    "style": "IPA - American",
+    "date": "12/22/21"
+  },
+  {
+    "name": "Nitro Magical Christmas Unicorn",
+    "brewery": "Bridge Road Brewers",
+    "style": "Cream Ale",
+    "date": "12/22/21"
+  },
+  {
+    "name": "Budweiser Budvar B:FREE / Nealko",
+    "brewery": "Budějovický Budvar",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/19/21"
+  },
+  {
+    "name": "Bitburger Drive 0,0% Alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/19/21"
+  },
+  {
+    "name": "Nort Pacific Ale",
+    "brewery": "Nort Beer",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/16/21"
+  },
+  {
+    "name": "Zero+ Pale Ale",
+    "brewery": "Australian Sports Brewing Co",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/14/21"
+  },
+  {
+    "name": "Peroni Libera",
+    "brewery": "Birra Peroni",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/14/21"
+  },
+  {
+    "name": "James Squire Zero",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/14/21"
+  },
+  {
+    "name": "Finger Lime Cerveza",
+    "brewery": "Sobah Beverages",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/05/21"
+  },
+  {
+    "name": "ROAD RUNNER Coffee Stout Alkoholfrei",
+    "brewery": "Kehrwieder Kreativbrauerei ",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/03/21"
+  },
+  {
+    "name": "Masala",
+    "brewery": "Duckpond Brewing",
+    "style": "Stout - Imperial / Double Milk",
+    "date": "11/28/21"
+  },
+  {
+    "name": "Strawberry Sublime",
+    "brewery": "Molly Rose Brewing",
+    "style": "Non-Alcoholic Beer",
+    "date": "11/28/21"
+  },
+  {
+    "name": "SO CITRUSY",
+    "brewery": "Banks Brewing",
+    "style": "IPA - Milkshake",
+    "date": "11/28/21"
+  },
+  {
+    "name": "In Cafruits - Apricot, Raspberry & Plum Crumble",
+    "brewery": "Amundsen Brewery",
+    "style": "Sour - Smoothie / Pastry",
+    "date": "11/28/21"
+  },
+  {
+    "name": "Squashed: Smoked Grapefruit And Rosemary Sour",
+    "brewery": "The Gipsy Hill Brewing Co.",
+    "style": "Sour - Fruited",
+    "date": "11/22/21"
+  },
+  { "name": "Laymonada", "brewery": "Hawkers Beer", "style": "Sour - Fruited", "date": "11/22/21" },
+  {
+    "name": "Stone Age Love (2021)",
+    "brewery": "The Rare Barrel",
+    "style": "Sour - Fruited",
+    "date": "11/21/21"
+  },
+  {
+    "name": "Margarita Sour",
+    "brewery": "Modus Brewing",
+    "style": "Sour - Fruited",
+    "date": "11/20/21"
+  },
+  {
+    "name": "Black Dwarf Dark Ale",
+    "brewery": "Scholars Ink",
+    "style": "Dark Ale",
+    "date": "11/20/21"
+  },
+  {
+    "name": "Backfire – Red prickly Pear and Lime Catharina Sour",
+    "brewery": "Bonehead Brewing",
+    "style": "Sour - Fruited",
+    "date": "11/18/21"
+  },
+  {
+    "name": "Quiet XPA",
+    "brewery": "Heaps Normal",
+    "style": "Non-Alcoholic Beer",
+    "date": "11/18/21"
+  },
+  {
+    "name": "The Juice",
+    "brewery": "Innate Brewers",
+    "style": "IPA - New England / Hazy",
+    "date": "11/14/21"
+  },
+  {
+    "name": "Data Points",
+    "brewery": "Equilibrium Brewery",
+    "style": "IPA - Imperial / Double",
+    "date": "11/14/21"
+  },
+  {
+    "name": "Electric Blue",
+    "brewery": "SingleCut Beersmiths",
+    "style": "IPA - New England / Hazy",
+    "date": "11/14/21"
+  },
+  {
+    "name": "Urban Jungle",
+    "brewery": "Freddo Fox",
+    "style": "Sour - Fruited Gose",
+    "date": "11/13/21"
+  },
+  {
+    "name": "Colette Farmhouse Ale",
+    "brewery": "Great Divide Brewing Company",
+    "style": "Farmhouse Ale - Saison",
+    "date": "11/13/21"
+  },
+  {
+    "name": "日本から来たネコ (Some Cat From Japan)",
+    "brewery": "SingleCut Beersmiths",
+    "style": "IPA - Session",
+    "date": "11/13/21"
+  },
+  {
+    "name": "Old Mate",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Pale Ale - American",
+    "date": "11/08/21"
+  },
+  {
+    "name": "DDH Hop Showers W/Nelson",
+    "brewery": "Other Half Brewing Co.",
+    "style": "IPA - American",
+    "date": "11/07/21"
+  },
+  {
+    "name": "Just the Two of Us",
+    "brewery": "Offshoot Beer Co.",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "date": "11/07/21"
+  },
+  {
+    "name": "Macaroon Yeti",
+    "brewery": "Great Divide Brewing Company",
+    "style": "Stout - Imperial / Double Pastry",
+    "date": "11/07/21"
+  },
+  {
+    "name": "Set Phasers To Stun",
+    "brewery": "Tallboy And Moose",
+    "style": "IPA - New England / Hazy",
+    "date": "11/06/21"
+  },
+  {
+    "name": "Blanche du Paradis",
+    "brewery": "Brasserie Dieu du Ciel!",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "11/05/21"
+  },
+  {
+    "name": "Simcoe Inoculation - First Dose",
+    "brewery": "Sauce Brewing Co",
+    "style": "IPA - American",
+    "date": "10/31/21"
+  },
+  {
+    "name": "Simcoe Inoculation - Second Dose",
+    "brewery": "Sauce Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "date": "10/31/21"
+  },
+  {
+    "name": "Daydreaming",
+    "brewery": "Freddo Fox",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "date": "10/31/21"
+  },
+  {
+    "name": "Quickchange XPA",
+    "brewery": "Panhead Custom Ales",
+    "style": "Pale Ale - New Zealand",
+    "date": "10/31/21"
+  },
+  {
+    "name": "Opium Cake",
+    "brewery": "8 Wired ",
+    "style": "Stout - Imperial / Double Milk",
+    "date": "10/30/21"
+  },
+  {
+    "name": "COLD IPA",
+    "brewery": "Blackman's Brewery",
+    "style": "Lager - IPL (India Pale Lager)",
+    "date": "10/29/21"
+  },
+  {
+    "name": "In Cafruits - Double Berry & Citrus Smoothie",
+    "brewery": "Amundsen Brewery",
+    "style": "Sour - Smoothie / Pastry",
+    "date": "10/24/21"
+  },
+  {
+    "name": "Elation - 2021 Vintage",
+    "brewery": "Bonehead Brewing",
+    "style": "Sour - Other",
+    "date": "10/24/21"
+  },
+  { "name": "Or Xata", "brewery": "The Bruery", "style": "Blonde Ale", "date": "10/17/21" },
+  {
+    "name": "Wild Times",
+    "brewery": "Bonehead Brewing",
+    "style": "Sour - Fruited",
+    "date": "10/17/21"
+  },
+  {
+    "name": "FAIRY CAKE",
+    "brewery": "Banks Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "10/17/21"
+  },
+  {
+    "name": "Queen Pineapple Sour - BEER BLENDER!",
+    "brewery": "Urbanaut Brewing",
+    "style": "Sour - Fruited",
+    "date": "10/15/21"
+  },
+  {
+    "name": "Coconut Hazy IPA - BEER BLENDER!",
+    "brewery": "Urbanaut Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "10/15/21"
+  },
+  {
+    "name": "Hi-Deas",
+    "brewery": "Burley Oak Brewing Company",
+    "style": "IPA - Imperial / Double",
+    "date": "10/11/21"
+  },
+  {
+    "name": "Sunshine & Opportunity",
+    "brewery": "Almanac Beer Company",
+    "style": "Sour - Fruited",
+    "date": "10/11/21"
+  },
+  {
+    "name": "Drifting",
+    "brewery": "Offshoot Beer Co.",
+    "style": "Pale Ale - American",
+    "date": "10/11/21"
+  },
+  {
+    "name": "Monument",
+    "brewery": "Slow Lane Brewing",
+    "style": "Sour - Other",
+    "date": "10/09/21"
+  },
+  {
+    "name": "Sorry Chicky",
+    "brewery": "Burley Oak Brewing Company",
+    "style": "Sour - Other",
+    "date": "10/08/21"
+  },
+  {
+    "name": "Grunge! DDH IIPA",
+    "brewery": "SingleCut Beersmiths",
+    "style": "IPA - Imperial / Double",
+    "date": "10/07/21"
+  },
+  {
+    "name": "Heirloom Czech Pils",
+    "brewery": "Innate Brewers",
+    "style": "Pilsner - Czech",
+    "date": "10/03/21"
+  },
+  {
+    "name": "Mellow Mood Smoothie Sour",
+    "brewery": "One Drop Brewing Co",
+    "style": "Sour - Smoothie / Pastry",
+    "date": "10/02/21"
+  },
+  {
+    "name": "Champagne IPA - BEER BLENDER",
+    "brewery": "Urbanaut Brewing",
+    "style": "IPA - Brut",
+    "date": "10/01/21"
+  },
+  {
+    "name": "Tangelo Hazy IPA - BEER BLENDER!",
+    "brewery": "Urbanaut Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "10/01/21"
+  },
+  { "name": "Lucifer", "brewery": "Brekeriet", "style": "Sour - Other", "date": "09/26/21" },
+  {
+    "name": "Bappelsin",
+    "brewery": "Morgondagens Bryggeri",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "09/26/21"
+  },
+  {
+    "name": "SITE FP Single Foedre Sour Blonde",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Sour - Other",
+    "date": "09/26/21"
+  },
+  {
+    "name": "Baroness",
+    "brewery": "Molly Rose Brewing",
+    "style": "Lager - Red",
+    "date": "09/26/21"
+  },
+  {
+    "name": "Strawberry, Apricot, Marshmallow J.R.E.A.M.",
+    "brewery": "Burley Oak Brewing Company",
+    "style": "Sour - Fruited",
+    "date": "09/25/21"
+  },
+  {
+    "name": "Water Buffalo Brown Ale",
+    "brewery": "Akasha Brewing Company",
+    "style": "Brown Ale - American",
+    "date": "09/25/21"
+  },
+  {
+    "name": "Three Threads",
+    "brewery": "Molly Rose Brewing",
+    "style": "Farmhouse Ale - Other",
+    "date": "09/24/21"
+  },
+  {
+    "name": "Briney Melon Gose",
+    "brewery": "Anderson Valley Brewing Company",
+    "style": "Sour - Fruited Gose",
+    "date": "09/20/21"
+  },
+  {
+    "name": "Bonus Worlds: Jean Schwartz",
+    "brewery": "Level Beer",
+    "style": "Schwarzbier",
+    "date": "09/20/21"
+  },
+  {
+    "name": "Equalizer",
+    "brewery": "Dainton Beer",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "09/12/21"
+  },
+  {
+    "name": "Teeny Hopper",
+    "brewery": "Blue Owl Brewing",
+    "style": "IPA - Sour",
+    "date": "09/05/21"
+  },
+  {
+    "name": "Watermelon & Marigold Berliner Weisse",
+    "brewery": "One Drop Brewing Co",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "08/29/21"
+  },
+  {
+    "name": "Jubilberry",
+    "brewery": "Blue Owl Brewing",
+    "style": "Sour - Fruited",
+    "date": "08/29/21"
+  },
+  {
+    "name": "Sour Bikini",
+    "brewery": "Evil Twin Brewing",
+    "style": "Sour - Other",
+    "date": "08/29/21"
+  },
+  {
+    "name": "Big Wig",
+    "brewery": "Burnley Brewing",
+    "style": "Belgian Blonde",
+    "date": "08/29/21"
+  },
+  {
+    "name": "Fredagsmys / Gottegris",
+    "brewery": "Morgondagens Bryggeri",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "08/22/21"
+  },
+  {
+    "name": "Cloud 9 Hazy IPA",
+    "brewery": "Akasha Brewing Company",
+    "style": "IPA - New England / Hazy",
+    "date": "08/22/21"
+  },
+  {
+    "name": "Never Late In A V8",
+    "brewery": "Last Rites Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "08/22/21"
+  },
+  { "name": "FOAM", "brewery": "Banks Brewing", "style": "Pilsner - German", "date": "08/22/21" },
+  {
+    "name": "Blood Orange Sour",
+    "brewery": "Bridge Road Brewers",
+    "style": "Sour - Fruited Gose",
+    "date": "08/20/21"
+  },
+  {
+    "name": "Aviation Cocktail Sour",
+    "brewery": "Bright Brewery",
+    "style": "Sour - Other",
+    "date": "08/15/21"
+  },
+  {
+    "name": "Hyperion V3",
+    "brewery": "Alpha Delta Brewing",
+    "style": "Pale Ale - International",
+    "date": "08/15/21"
+  },
+  {
+    "name": "Pseudo Sue",
+    "brewery": "Toppling Goliath Brewing Co.",
+    "style": "Pale Ale - American",
+    "date": "08/15/21"
+  },
+  {
+    "name": "Allagash White",
+    "brewery": "Allagash Brewing Company",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "08/15/21"
+  },
+  {
+    "name": "Staring At the Sun",
+    "brewery": "LERVIG",
+    "style": "Sour - Other",
+    "date": "08/09/21"
+  },
+  {
+    "name": "Tomorrow",
+    "brewery": "Equilibrium Brewery",
+    "style": "Pale Ale - American",
+    "date": "08/08/21"
+  },
+  {
+    "name": "Pearly White",
+    "brewery": "Springdale Beer Co.",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "08/08/21"
+  },
+  {
+    "name": "Hamer & Sikkel",
+    "brewery": "Brouwerij de Molen",
+    "style": "Porter - English",
+    "date": "08/08/21"
+  },
+  {
+    "name": "Hockeyfrilla Fizzy Dizzy",
+    "brewery": "Morgondagens Bryggeri",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "08/01/21"
+  },
+  {
+    "name": "Cucumber + Mint Sour - BEER BLENDER",
+    "brewery": "Urbanaut Brewing",
+    "style": "Sour - Fruited",
+    "date": "08/01/21"
+  },
+  {
+    "name": "Strawberry Hazy IPA - BEER BLENDER",
+    "brewery": "Urbanaut Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "08/01/21"
+  },
+  {
+    "name": "Zesty Bouquet",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Farmhouse Ale - Other",
+    "date": "08/01/21"
+  },
+  {
+    "name": "Hopulence IPA",
+    "brewery": "Wild Barrel Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "08/01/21"
+  },
+  {
+    "name": "Key Lime County Fair Cobbler",
+    "brewery": "Wiley Roots Brewing Company",
+    "style": "Sour - Smoothie / Pastry",
+    "date": "07/25/21"
+  },
+  {
+    "name": "Illusion of Safety [Calamansi + Raspberry + Mulberry] (Ghost 958)",
+    "brewery": "Adroit Theory",
+    "style": "Sour - Fruited Gose",
+    "date": "07/25/21"
+  },
+  {
+    "name": "Astroling",
+    "brewery": "Paranormal Brewing Co",
+    "style": "Sour - Fruited",
+    "date": "07/25/21"
+  },
+  {
+    "name": "Tall Boy Refreshing Ale",
+    "brewery": "Bier Hoi ",
+    "style": "Traditional Ale",
+    "date": "07/18/21"
+  },
+  {
+    "name": "Living Easy",
+    "brewery": "Deeds Brewing",
+    "style": "Sour - Fruited",
+    "date": "07/11/21"
+  },
+  {
+    "name": "Fruitopia #3",
+    "brewery": "Hargreaves Hill",
+    "style": "Fruit Beer",
+    "date": "07/11/21"
+  },
+  {
+    "name": "Twisted Karma",
+    "brewery": "Mountains Walking Brewery",
+    "style": "Sour - Fruited",
+    "date": "07/11/21"
+  },
+  {
+    "name": "Lime Sweetart",
+    "brewery": "Bright Brewery",
+    "style": "Sour - Fruited",
+    "date": "07/10/21"
+  },
+  {
+    "name": "Orange Sherbet Creamsicle Sour",
+    "brewery": "3 Ravens Brewery",
+    "style": "Sour - Fruited",
+    "date": "07/10/21"
+  },
+  {
+    "name": "Dark Love",
+    "brewery": "Duckpond Brewing",
+    "style": "Sour - Fruited Gose",
+    "date": "07/04/21"
+  },
+  {
+    "name": "Illusion of Safety [Blackberry + Apricot + Mango] (Ghost 959)",
+    "brewery": "Adroit Theory",
+    "style": "Sour - Fruited Gose",
+    "date": "07/04/21"
+  },
+  {
+    "name": "Coastal Sunset (v2): Cherry, Cream Cheese, Graham Crackers, Vanilla Beans, Marshmallow Fluff ",
+    "brewery": "Humble Forager Brewery",
+    "style": "Sour - Fruited",
+    "date": "07/04/21"
+  },
+  {
+    "name": "Wild Berry Sour (ex Blush)",
+    "brewery": "Holgate Brewhouse",
+    "style": "Sour - Fruited",
+    "date": "07/04/21"
+  },
+  {
+    "name": "Space Junk",
+    "brewery": "Paranormal Brewing Co",
+    "style": "Sour - Fruited Gose",
+    "date": "07/03/21"
+  },
+  {
+    "name": "It's Amore",
+    "brewery": "Bojak Brewing",
+    "style": "Pilsner - Other",
+    "date": "06/27/21"
+  },
+  {
+    "name": "The Big Mjau Theory",
+    "brewery": "Fermenterarna",
+    "style": "Sour - Fruited",
+    "date": "06/27/21"
+  },
+  {
+    "name": "Tahoe Pilz",
+    "brewery": "FiftyFifty Brewing Co.",
+    "style": "Pilsner - Czech",
+    "date": "06/27/21"
+  },
+  {
+    "name": "This Is Foggin Unreal",
+    "brewery": "Humble Sea Brewing Company",
+    "style": "IPA - New England / Hazy",
+    "date": "06/20/21"
+  },
+  {
+    "name": "No Thanks I'm Sweet Enough",
+    "brewery": "Range Brewing",
+    "style": "Sour - Fruited",
+    "date": "06/20/21"
+  },
+  {
+    "name": "Bière De Coupage",
+    "brewery": "Black Arts Brewers And Blenders",
+    "style": "Farmhouse Ale - Bière de Coupage",
+    "date": "06/20/21"
+  },
+  {
+    "name": "Counter Culture - Tequila Queen",
+    "brewery": "Stone & Wood",
+    "style": "Sour - Fruited Gose",
+    "date": "06/20/21"
+  },
+  {
+    "name": "LITTLE CITRA FEELS",
+    "brewery": "Banks Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "06/13/21"
+  },
+  {
+    "name": "Foggy Road",
+    "brewery": "Working Title Brew Co",
+    "style": "IPA - New England / Hazy",
+    "date": "06/13/21"
+  },
+  {
+    "name": "Shuttle Dayz",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "IPA - Session",
+    "date": "06/13/21"
+  },
+  {
+    "name": "Kickin' It Old School",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "IPA - American",
+    "date": "06/06/21"
+  },
+  {
+    "name": "Chopping Wood - German Pilsner",
+    "brewery": "Mountains Walking Brewery",
+    "style": "Pilsner - German",
+    "date": "06/06/21"
+  },
+  {
+    "name": "Kalsarikännit - Vanilla & Cacao Stout",
+    "brewery": "Two Birds Brewing",
+    "style": "Stout - Other",
+    "date": "06/06/21"
+  },
+  {
+    "name": "Salted Caramel Lucaria",
+    "brewery": "Thornbridge Brewery",
+    "style": "Porter - English",
+    "date": "06/06/21"
+  },
+  {
+    "name": "Barrel Aged Caribbean Chocolate Cake",
+    "brewery": "Siren Craft Brew",
+    "style": "Stout - Imperial / Double Milk",
+    "date": "06/05/21"
+  },
+  {
+    "name": "Knock On Wood",
+    "brewery": "Deeds Brewing",
+    "style": "Pilsner - Other",
+    "date": "05/30/21"
+  },
+  {
+    "name": "Daydreaming In Autumn",
+    "brewery": "Deeds Brewing",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "05/30/21"
+  },
+  {
+    "name": "Sweets - Banana Maple Syrup",
+    "brewery": "Mountains Walking Brewery",
+    "style": "Sour - Smoothie / Pastry",
+    "date": "05/30/21"
+  },
+  {
+    "name": "Underground Summer",
+    "brewery": "Molly Rose Brewing",
+    "style": "Farmhouse Ale - Grisette",
+    "date": "05/23/21"
+  },
+  {
+    "name": "Deep Bloom",
+    "brewery": "Wander Beyond Brewing",
+    "style": "IPA - Imperial / Double Black",
+    "date": "05/23/21"
+  },
+  {
+    "name": "Peanut Squrl",
+    "brewery": "Fierce Beer",
+    "style": "Porter - American",
+    "date": "05/23/21"
+  },
+  {
+    "name": "Cosmic Microwave ",
+    "brewery": "Bodriggy Brewing Co.",
+    "style": "IPA - New England / Hazy",
+    "date": "05/23/21"
+  },
+  {
+    "name": "Weekend Juice NEIPA",
+    "brewery": "Westside Ale Works",
+    "style": "IPA - New England / Hazy",
+    "date": "05/23/21"
+  },
+  {
+    "name": "Van Dayum!",
+    "brewery": "Blue Owl Brewing",
+    "style": "Sour - Other",
+    "date": "05/21/21"
+  },
+  {
+    "name": "Plum De Plume",
+    "brewery": "Blue Owl Brewing",
+    "style": "Sour - Fruited",
+    "date": "05/21/21"
+  },
+  {
+    "name": "Matching Pyjamas",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "IPA - Milkshake",
+    "date": "05/10/21"
+  },
+  {
+    "name": "Modern Times / Stone Wizards & Gargoyles Hazy Coffee IPA",
+    "brewery": "Stone Brewing",
+    "style": "IPA - American",
+    "date": "05/10/21"
+  },
+  {
+    "name": "Churriosity 2020",
+    "brewery": "The Bruery",
+    "style": "Stout - Imperial / Double",
+    "date": "05/05/21"
+  },
+  {
+    "name": "Billy the Mid",
+    "brewery": "Mountain Goat Beer",
+    "style": "Pale Ale - Australian",
+    "date": "04/04/21"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Jetty Road",
+    "style": "Pale Ale - American",
+    "date": "04/03/21"
+  },
+  {
+    "name": "Yebisu (Premium)",
+    "brewery": "Sapporo Breweries",
+    "style": "Lager - Dortmunder / Export",
+    "date": "03/28/21"
+  },
+  {
+    "name": "Total Eclipse of the Hop",
+    "brewery": "Two Birds Brewing",
+    "style": "Pale Ale - International",
+    "date": "03/21/21"
+  },
+  {
+    "name": "American Pale Ale",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "Pale Ale - American",
+    "date": "03/21/21"
+  },
+  {
+    "name": "Barrel Aged Penicillin Cocktail Sour",
+    "brewery": "Bright Brewery",
+    "style": "Sour - Other",
+    "date": "03/09/21"
+  },
+  {
+    "name": "Pamplemousse Bleu",
+    "brewery": "Molly Rose Brewing",
+    "style": "Belgian Dubbel",
+    "date": "03/09/21"
+  },
+  {
+    "name": "Peanut Butter Milk Stout",
+    "brewery": "Belching Beaver Brewery",
+    "style": "Stout - Milk / Sweet",
+    "date": "03/09/21"
+  },
+  {
+    "name": "Board Meeting",
+    "brewery": "Port Brewing Company",
+    "style": "Brown Ale - Imperial / Double",
+    "date": "03/08/21"
+  },
+  {
+    "name": "Stout",
+    "brewery": "Boatrocker Brewers & Distillers",
+    "style": "Stout - Other",
+    "date": "03/07/21"
+  },
+  {
+    "name": "Cloud Hops - Oat Lager",
+    "brewery": "Edge Lager Project",
+    "style": "Lager - Pale",
+    "date": "03/07/21"
+  },
+  {
+    "name": "Warrior Woman 2021",
+    "brewery": "Two Birds Brewing",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "03/07/21"
+  },
+  {
+    "name": "Series Finale Oat Cream DIPA",
+    "brewery": "One Drop Brewing Co",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "date": "03/07/21"
+  },
+  { "name": "Soukai", "brewery": "Asahi Breweries", "style": "Lager - Pale", "date": "02/28/21" },
+  {
+    "name": "Pure Blonde Organic Lager",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "02/28/21"
+  },
+  {
+    "name": "Two Suns",
+    "brewery": "Asahi Premium Beverages (Australia)",
+    "style": "Lager - Pale",
+    "date": "02/28/21"
+  },
+  {
+    "name": "Draught",
+    "brewery": "Brick Lane Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "02/22/21"
+  },
+  { "name": "Kroftmans", "brewery": "Kröftmans", "style": "Lager - Pale", "date": "02/22/21" },
+  {
+    "name": "8.6 Original",
+    "brewery": "Royal Swinkels Family Brewers",
+    "style": "Lager - Strong",
+    "date": "02/22/21"
+  },
+  {
+    "name": "Lemon Aspen Pilsner",
+    "brewery": "Sobah Beverages",
+    "style": "Non-Alcoholic Beer",
+    "date": "02/18/21"
+  },
+  {
+    "name": "Blackcurrant Gose",
+    "brewery": "Burnley Brewing",
+    "style": "Sour - Fruited Gose",
+    "date": "02/14/21"
+  },
+  {
+    "name": "Fool - Raspberry Sour",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Sour - Smoothie / Pastry",
+    "date": "02/14/21"
+  },
+  {
+    "name": "Peach Melba Neipa!",
+    "brewery": "Burnley Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "02/14/21"
+  },
+  {
+    "name": "Rice Rice Baby",
+    "brewery": "Two Birds Brewing",
+    "style": "Other",
+    "date": "02/07/21"
+  },
+  {
+    "name": "Extra Pale Ale",
+    "brewery": "Hobart Brewing Co.",
+    "style": "Pale Ale - Australian",
+    "date": "02/07/21"
+  },
+  {
+    "name": "Moon Dust",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "Stout - American",
+    "date": "02/07/21"
+  },
+  {
+    "name": "Boss Battle Golden I.P.A - Smells Like Pop Culture",
+    "brewery": "Bonehead Brewing",
+    "style": "IPA - American",
+    "date": "02/02/21"
+  },
+  {
+    "name": "Don't You Look So Surprised, Happy Birthday, Trucker",
+    "brewery": "Beerbliotek",
+    "style": "IPA - New England / Hazy",
+    "date": "01/24/21"
+  },
+  {
+    "name": "Avalanche (Green Release)",
+    "brewery": "Brick Lane Brewing Co.",
+    "style": "IPA - New England / Hazy",
+    "date": "01/24/21"
+  },
+  {
+    "name": "Kiwi Lemon NEIPA",
+    "brewery": "Burnley Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "01/24/21"
+  },
+  {
+    "name": "Batsquatch",
+    "brewery": "Rogue Ales",
+    "style": "IPA - New England / Hazy",
+    "date": "01/23/21"
+  },
+  {
+    "name": "Splice of Heaven Pine Lime Ice Cream IPA",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "IPA - Milkshake",
+    "date": "01/22/21"
+  },
+  {
+    "name": "Gin Barrel Gose (2020)",
+    "brewery": "Hargreaves Hill",
+    "style": "Sour - Traditional Gose",
+    "date": "01/17/21"
+  },
+  {
+    "name": "Shorts Weather",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "IPA - American",
+    "date": "01/17/21"
+  },
+  {
+    "name": "Sweet Sour O' Mine ~ Rhubarb N' Spice Sour",
+    "brewery": "Six String Brewing Company",
+    "style": "Sour - Fruited",
+    "date": "01/17/21"
+  },
+  {
+    "name": "Get Your Ass To Mars - Smells Like Pop Culture",
+    "brewery": "Bonehead Brewing",
+    "style": "IPA - Red",
+    "date": "01/16/21"
+  },
+  {
+    "name": "Double Red IPA",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "IPA - Red",
+    "date": "01/16/21"
+  },
+  {
+    "name": "Cherry Cream Dream Nitro Milkshake Ale",
+    "brewery": "Bright Brewery",
+    "style": "Pale Ale - Milkshake",
+    "date": "01/16/21"
+  },
+  {
+    "name": "Cucumber Hippy",
+    "brewery": "8 Wired ",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "01/13/21"
+  },
+  {
+    "name": "Canada Bay XPA",
+    "brewery": "Akasha Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "01/10/21"
+  },
+  {
+    "name": "Modus XPA",
+    "brewery": "Modus Brewing",
+    "style": "Pale Ale - International",
+    "date": "01/09/21"
+  },
+  {
+    "name": "Passionfruit Smash",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Sour - Fruited Gose",
+    "date": "01/08/21"
+  },
+  {
+    "name": "Raspberry Smash Nitro",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Sour - Fruited",
+    "date": "01/08/21"
+  },
+  {
+    "name": "Apricot & Mandarin Sour",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Sour - Fruited",
+    "date": "01/03/21"
+  },
+  {
+    "name": "Fruit Cart: Plum Sour",
+    "brewery": "Slipstream Brewing Company",
+    "style": "Sour - Fruited",
+    "date": "01/03/21"
+  },
+  {
+    "name": "Okinawa Sour",
+    "brewery": "Temple Brewing Co.",
+    "style": "Sour - Other",
+    "date": "01/03/21"
+  },
+  {
+    "name": "White Mischief",
+    "brewery": "Garage Project",
+    "style": "Sour - Fruited Gose",
+    "date": "01/03/21"
+  },
+  {
+    "name": "Melbourne Fog",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "01/02/21"
+  },
+  {
+    "name": "Salted Caramel Stout",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Stout - Milk / Sweet",
+    "date": "12/27/20"
+  },
+  {
+    "name": "Black Box - Nitro Dessert Stout",
+    "brewery": "Edge Brewing Project",
+    "style": "Stout - Imperial / Double",
+    "date": "12/27/20"
+  },
+  {
+    "name": "McConaughaze",
+    "brewery": "Banks Brewing",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "12/20/20"
+  },
+  {
+    "name": "Newport Daze",
+    "brewery": "Rogue Ales",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "12/20/20"
+  },
+  {
+    "name": "Hazelnut Brown Nectar",
+    "brewery": "Rogue Ales",
+    "style": "Brown Ale - Other",
+    "date": "12/20/20"
+  },
+  {
+    "name": "Pepperberry IPA",
+    "brewery": "Sobah Beverages",
+    "style": "Non-Alcoholic Beer",
+    "date": "12/20/20"
+  },
+  {
+    "name": "\"Freshy\" - Extra Refreshing Ale",
+    "brewery": "4 Pines Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "12/06/20"
+  },
+  {
+    "name": "Lagoona Matata",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Sour - Other",
+    "date": "12/06/20"
+  },
+  {
+    "name": "Nitro Stout",
+    "brewery": "4 Pines Brewing Company",
+    "style": "Stout - Irish Dry",
+    "date": "12/06/20"
+  },
+  {
+    "name": "King River IPA",
+    "brewery": "King River Brewing",
+    "style": "IPA - Red",
+    "date": "10/04/20"
+  },
+  {
+    "name": "Wet Hopped Ale Vic Secret",
+    "brewery": "King River Brewing",
+    "style": "Pale Ale - Australian",
+    "date": "10/04/20"
+  },
+  {
+    "name": "King Valley Kolsch",
+    "brewery": "King River Brewing",
+    "style": "Kölsch",
+    "date": "10/04/20"
+  },
+  {
+    "name": "Belgian Pale",
+    "brewery": "King River Brewing",
+    "style": "Pale Ale - Belgian",
+    "date": "09/27/20"
+  },
+  {
+    "name": "Wet Hopped Ale Galaxy",
+    "brewery": "King River Brewing",
+    "style": "IPA - American",
+    "date": "09/27/20"
+  },
+  {
+    "name": "Marzen Festbier",
+    "brewery": "King River Brewing",
+    "style": "Märzen",
+    "date": "09/27/20"
+  },
+  {
+    "name": "Mabon Doppelbock",
+    "brewery": "King River Brewing",
+    "style": "Bock - Doppelbock",
+    "date": "09/27/20"
+  },
+  {
+    "name": "Wet Hopped Ale Ella",
+    "brewery": "King River Brewing",
+    "style": "Pale Ale - English",
+    "date": "09/23/20"
+  },
+  {
+    "name": "Hazy Pale Ale",
+    "brewery": "Mountain Goat Beer",
+    "style": "Pale Ale - New England / Hazy",
+    "date": "07/07/20"
+  },
+  {
+    "name": "Henty St. Ale",
+    "brewery": "Rover Beer",
+    "style": "Pale Ale - International",
+    "date": "06/21/20"
+  },
+  {
+    "name": "Undercover Fashion Police 9: The Hops Must Be Hazy",
+    "brewery": "Little Bang Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "date": "06/16/20"
+  },
+  {
+    "name": "Dark Red IPA",
+    "brewery": "Six String Brewing Company",
+    "style": "IPA - Red",
+    "date": "06/16/20"
+  },
+  {
+    "name": "The Big Guy",
+    "brewery": "Shambles Brewery",
+    "style": "Porter - Other",
+    "date": "06/14/20"
+  },
+  {
+    "name": "Corvo Negro",
+    "brewery": "Novo Brazil Brewing",
+    "style": "Stout - Russian Imperial",
+    "date": "06/14/20"
+  },
+  {
+    "name": "One Brew Nation Wattleseed Brown Ale",
+    "brewery": "Nomad Brewing Co.",
+    "style": "Brown Ale - Other",
+    "date": "06/08/20"
+  },
+  {
+    "name": "Black Forest Russian Imperial Stout",
+    "brewery": "Dainton Beer",
+    "style": "Stout - Russian Imperial",
+    "date": "06/08/20"
+  },
+  {
+    "name": "The Big Bad Wolf",
+    "brewery": "One Drop Brewing Co",
+    "style": "Stout - Imperial / Double Pastry",
+    "date": "06/01/20"
+  },
+  {
+    "name": "Sabbath Stout '20",
+    "brewery": "Otherside Brewing Co.",
+    "style": "Stout - Pastry",
+    "date": "06/01/20"
+  },
+  {
+    "name": "Black",
+    "brewery": "3 Ravens Brewery",
+    "style": "Stout - Oatmeal",
+    "date": "05/24/20"
+  },
+  {
+    "name": "Babooshka Vanilla Milk Stout",
+    "brewery": "Hargreaves Hill",
+    "style": "Stout - Milk / Sweet",
+    "date": "05/24/20"
+  },
+  {
+    "name": "Crumblicious aka Violent Crumble",
+    "brewery": "Dainton Beer",
+    "style": "Stout - Other",
+    "date": "05/24/20"
+  },
+  {
+    "name": "Guinness Extra Stout",
+    "brewery": "Guinness",
+    "style": "Stout - Irish Dry",
+    "date": "05/17/20"
+  },
+  {
+    "name": "Sheepshaggers Gold",
+    "brewery": "Cairngorm Brewery Co.",
+    "style": "Golden Ale",
+    "date": "05/17/20"
+  },
+  {
+    "name": "Old Hooky",
+    "brewery": "Hook Norton Brewery",
+    "style": "English Bitter",
+    "date": "05/17/20"
+  },
+  {
+    "name": "Gilbert Rd. Lager",
+    "brewery": "Rover Beer",
+    "style": "Lager - Helles",
+    "date": "05/12/20"
+  },
+  {
+    "name": "Young's Double Chocolate Stout",
+    "brewery": "Eagle Brewery (formerly Charles Wells)",
+    "style": "Stout - Milk / Sweet",
+    "date": "05/10/20"
+  },
+  {
+    "name": "Single Hop Tassie Pale",
+    "brewery": "Moo Brew",
+    "style": "Pale Ale - Australian",
+    "date": "05/10/20"
+  },
+  {
+    "name": "Bicycle Beer",
+    "brewery": "Temple Brewing Co.",
+    "style": "Pale Ale - Australian",
+    "date": "05/03/20"
+  },
+  {
+    "name": "Classic Collection - Double Stout",
+    "brewery": "Shepherd Neame",
+    "style": "Stout - English",
+    "date": "05/03/20"
+  },
+  {
+    "name": "Timothy Tamothy Slam-othy",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Stout - Milk / Sweet",
+    "date": "05/03/20"
+  },
+  { "name": "Mac's Gold", "brewery": "Mac's Brewing", "style": "Lager - Pale", "date": "03/27/20" },
+  {
+    "name": "Acai & Passionfruit Sour",
+    "brewery": "Pirate Life Brewing",
+    "style": "Sour - Fruited",
+    "date": "03/07/20"
+  },
+  {
+    "name": "King River Red IPA",
+    "brewery": "King River Brewing",
+    "style": "IPA - Red",
+    "date": "02/26/20"
+  },
+  {
+    "name": "Summer Ale",
+    "brewery": "King River Brewing",
+    "style": "Pale Ale - International",
+    "date": "02/26/20"
+  },
+  {
+    "name": "Thornbury Pilsner",
+    "brewery": "3 Ravens Brewery",
+    "style": "Pilsner - Other",
+    "date": "02/05/20"
+  },
+  {
+    "name": "Sprocket",
+    "brewery": "BentSpoke Brewing Co",
+    "style": "IPA - American",
+    "date": "12/26/19"
+  },
+  {
+    "name": "Coors Light",
+    "brewery": "Coors Brewing Company",
+    "style": "Lager - American Light",
+    "date": "12/26/19"
+  },
+  {
+    "name": "Wit the Funk",
+    "brewery": "The Bruery Terreux",
+    "style": "Sour - Fruited",
+    "date": "12/26/19"
+  },
+  {
+    "name": "Premium Lager",
+    "brewery": "Byron Bay Brewery",
+    "style": "Lager - Pale",
+    "date": "12/23/19"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Forrest Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "12/14/19"
+  },
+  {
+    "name": "Brekkie Juice IPA",
+    "brewery": "Exit Brewing",
+    "style": "IPA - New England / Hazy",
+    "date": "12/10/19"
+  },
+  {
+    "name": "Stout",
+    "brewery": "Forrest Brewing Company",
+    "style": "Stout - Other",
+    "date": "12/08/19"
+  },
+  { "name": "XPA", "brewery": "Coopers", "style": "Pale Ale - Australian", "date": "12/08/19" },
+  {
+    "name": "Strawberry Parfait",
+    "brewery": "Banks Brewing",
+    "style": "Sour - Fruited",
+    "date": "12/08/19"
+  },
+  { "name": "IPA", "brewery": "Jetty Road", "style": "IPA - American", "date": "12/08/19" },
+  {
+    "name": "Bird Rock Brown",
+    "brewery": "Bells Beach Brewing",
+    "style": "Brown Ale - Other",
+    "date": "12/01/19"
+  },
+  {
+    "name": "XXXPA",
+    "brewery": "Wolf Of The Willows",
+    "style": "Pale Ale - American",
+    "date": "11/25/19"
+  },
+  {
+    "name": "Zing Tang",
+    "brewery": "Tallboy And Moose",
+    "style": "Sour - Berliner Weisse",
+    "date": "11/25/19"
+  },
+  {
+    "name": "Captain Sensible",
+    "brewery": "Balter Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "11/24/19"
+  },
+  {
+    "name": "Mango Sour",
+    "brewery": "Banks Brewing",
+    "style": "Sour - Fruited",
+    "date": "11/23/19"
+  },
+  {
+    "name": "Schlimme Ziege Hoppy Hefe",
+    "brewery": "Bad Shepherd Brewing Co.",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "11/23/19"
+  },
+  {
+    "name": "F/A-18% Rhino IIIIIPA",
+    "brewery": "Hope Brewery",
+    "style": "IPA - Quadruple",
+    "date": "11/20/19"
+  },
+  {
+    "name": "Mr. Orange 2019 Edition",
+    "brewery": "To Øl",
+    "style": "IPA - Session",
+    "date": "11/17/19"
+  },
+  {
+    "name": "Sweet Pea M.D.L",
+    "brewery": "Bonehead Brewing",
+    "style": "Lager - Dark",
+    "date": "11/17/19"
+  },
+  {
+    "name": "#023 Double Milk Stout",
+    "brewery": "Exit Brewing",
+    "style": "Stout - Imperial / Double Milk",
+    "date": "11/17/19"
+  },
+  {
+    "name": "Tretti Fire",
+    "brewery": "Molly Rose Brewing",
+    "style": "IPA - American",
+    "date": "11/08/19"
+  },
+  {
+    "name": "Wango Meis",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Stout - White",
+    "date": "11/08/19"
+  },
+  {
+    "name": "Pittwater Premium Draught",
+    "brewery": "Modus Brewing",
+    "style": "California Common",
+    "date": "11/08/19"
+  },
+  {
+    "name": "Festbier",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Festbier",
+    "date": "11/08/19"
+  },
+  {
+    "name": "Peach Sauce",
+    "brewery": "Sauce Brewing Co",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "11/08/19"
+  },
+  {
+    "name": "Silvertop",
+    "brewery": "Forrest Brewing Company",
+    "style": "Lager - Pale",
+    "date": "11/08/19"
+  },
+  {
+    "name": "Irish Red",
+    "brewery": "Forrest Brewing Company",
+    "style": "Red Ale - Irish",
+    "date": "11/03/19"
+  },
+  {
+    "name": "Summit Session Ale",
+    "brewery": "Capital Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "11/03/19"
+  },
+  {
+    "name": "Trail Pale Ale",
+    "brewery": "Capital Brewing Co",
+    "style": "Pale Ale - American",
+    "date": "11/03/19"
+  },
+  {
+    "name": "Cloud Catcher",
+    "brewery": "Stone & Wood",
+    "style": "Pale Ale - Australian",
+    "date": "11/02/19"
+  },
+  {
+    "name": "Fathom Belgian Style Red",
+    "brewery": "Green Beacon ",
+    "style": "Sour - Flanders Red Ale",
+    "date": "10/06/19"
+  },
+  {
+    "name": "Two Face",
+    "brewery": "Vocation Brewery",
+    "style": "IPA - Imperial / Double",
+    "date": "10/06/19"
+  },
+  {
+    "name": "Kentucky Breakfast Stout (KBS)",
+    "brewery": "Founders Brewing Co.",
+    "style": "Stout - Imperial / Double Coffee",
+    "date": "10/06/19"
+  },
+  {
+    "name": "Tradewind Lager",
+    "brewery": "Akasha Brewing Company",
+    "style": "Lager - Pale",
+    "date": "09/29/19"
+  },
+  {
+    "name": "Luponic Distortion: IPA Series No. 013",
+    "brewery": "Firestone Walker Brewing Company",
+    "style": "IPA - American",
+    "date": "09/29/19"
+  },
+  {
+    "name": "Más Agave (2019)",
+    "brewery": "Founders Brewing Co.",
+    "style": "Sour - Fruited Gose",
+    "date": "09/29/19"
+  },
+  {
+    "name": "Thunder Lips",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "IPA - Red",
+    "date": "09/29/19"
+  },
+  {
+    "name": "Angkor Extra Stout",
+    "brewery": "Cambrew",
+    "style": "Stout - Foreign / Export",
+    "date": "09/28/19"
+  },
+  { "name": "Angkor Beer", "brewery": "Cambrew", "style": "Lager - American", "date": "09/28/19" },
+  {
+    "name": "Lemon Lime & Bitterness Units",
+    "brewery": "Sauce Brewing Co",
+    "style": "IPA - Brut",
+    "date": "09/27/19"
+  },
+  {
+    "name": "Yes, Sensei",
+    "brewery": "8 Wired ",
+    "style": "Pale Ale - American",
+    "date": "09/26/19"
+  },
+  {
+    "name": "Fyans Street Smoker Lager",
+    "brewery": "White Rabbit",
+    "style": "Lager - Vienna",
+    "date": "09/26/19"
+  },
+  {
+    "name": "12\" Winale Remastered",
+    "brewery": "Mikkeller",
+    "style": "Bière de Champagne / Bière Brut",
+    "date": "09/22/19"
+  },
+  { "name": "Kinky Cola", "brewery": "Dainton Beer", "style": "Sour - Other", "date": "09/22/19" },
+  {
+    "name": "Cthulhu On The Moon",
+    "brewery": "KAIJU! Beer",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "date": "09/22/19"
+  },
+  {
+    "name": "Moose Mousse",
+    "brewery": "Fierce Beer",
+    "style": "Stout - Other",
+    "date": "09/20/19"
+  },
+  {
+    "name": "It's A Trap",
+    "brewery": "Mondo Brewing Company ",
+    "style": "Belgian Tripel",
+    "date": "09/15/19"
+  },
+  {
+    "name": "Vahtra (Cellar Series)",
+    "brewery": "Põhjala",
+    "style": "Stout - Imperial / Double Oatmeal",
+    "date": "09/14/19"
+  },
+  {
+    "name": "Café Racer",
+    "brewery": "Fierce Beer",
+    "style": "Porter - Coffee",
+    "date": "09/13/19"
+  },
+  {
+    "name": "Double Lamington",
+    "brewery": "Deeds Brewing",
+    "style": "Brown Ale - Imperial / Double",
+    "date": "09/11/19"
+  },
+  { "name": "Kuro", "brewery": "Molly Rose Brewing", "style": "Lager - Dark", "date": "09/10/19" },
+  {
+    "name": "Vic Ash Pilsner",
+    "brewery": "Bad Shepherd Brewing Co.",
+    "style": "Pilsner - Other",
+    "date": "09/10/19"
+  },
+  {
+    "name": "Stay Puft",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "Porter - American",
+    "date": "09/08/19"
+  },
+  {
+    "name": "Lark Barrel Aged Imperial JSP",
+    "brewery": "Wolf Of The Willows",
+    "style": "Porter - Imperial / Double",
+    "date": "09/08/19"
+  },
+  {
+    "name": "Cricketers Lager",
+    "brewery": "Cricketers Arms",
+    "style": "Lager - Pale",
+    "date": "08/31/19"
+  },
+  {
+    "name": "Fatboy’s Lager",
+    "brewery": "Fatboy’s",
+    "style": "Lager - American Light",
+    "date": "08/31/19"
+  },
+  {
+    "name": "Lorry Boys Jim And Joes Pale Ale",
+    "brewery": "Macarthur Grange Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "08/25/19"
+  },
+  {
+    "name": "One Love Pale Ale",
+    "brewery": "Brick Lane Brewing Co.",
+    "style": "Pale Ale - Australian",
+    "date": "08/25/19"
+  },
+  {
+    "name": "Urban Ale",
+    "brewery": "Urban Alley Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "08/25/19"
+  },
+  { "name": "Falcon", "brewery": "Parrotdog", "style": "Pale Ale - American", "date": "08/25/19" },
+  {
+    "name": "Rifleman XPA",
+    "brewery": "Parrotdog",
+    "style": "Pale Ale - Australian",
+    "date": "08/25/19"
+  },
+  { "name": "Hawkeye", "brewery": "Parrotdog", "style": "IPA - Session", "date": "08/25/19" },
+  {
+    "name": "Karma Citra",
+    "brewery": "Feral Brewing Company",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "date": "08/18/19"
+  },
+  {
+    "name": "Blush - Rosè Sour",
+    "brewery": "Green Beacon ",
+    "style": "Sour - Other",
+    "date": "07/28/19"
+  },
+  {
+    "name": "Choc Mint Shake",
+    "brewery": "3 Ravens Brewery",
+    "style": "IPA - Milkshake",
+    "date": "07/19/19"
+  },
+  {
+    "name": "Star Maps Kolsch",
+    "brewery": "Maui Brewing Company",
+    "style": "Kölsch",
+    "date": "07/19/19"
+  },
+  {
+    "name": "Sake Kasu & Persimmon",
+    "brewery": "Sailors Grave Brewing",
+    "style": "Sour - Other",
+    "date": "07/18/19"
+  },
+  {
+    "name": "Milky Way",
+    "brewery": "Sailors Grave Brewing",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "07/17/19"
+  },
+  {
+    "name": "Shinboner Stout - Saltbush And Peppercorn Stout",
+    "brewery": "Bonehead Brewing",
+    "style": "Stout - Other",
+    "date": "07/14/19"
+  },
+  {
+    "name": "Barrel Farm Quince & Honey Saison",
+    "brewery": "Blackman's Brewery",
+    "style": "Farmhouse Ale - Saison",
+    "date": "07/14/19"
+  },
+  {
+    "name": "Alexander",
+    "brewery": "Brouwerij Rodenbach",
+    "style": "Sour - Flanders Red Ale",
+    "date": "07/14/19"
+  },
+  {
+    "name": "Raspberry Saison",
+    "brewery": "Brouhaha Brewery",
+    "style": "Farmhouse Ale - Saison",
+    "date": "07/14/19"
+  },
+  {
+    "name": "iStout Affogato",
+    "brewery": "8 Wired ",
+    "style": "Stout - Imperial / Double Coffee",
+    "date": "07/14/19"
+  },
+  {
+    "name": "Straffe Hendrik Brugs Quadrupel Bier 11°",
+    "brewery": "Brouwerij De Halve Maan",
+    "style": "Belgian Quadrupel",
+    "date": "07/07/19"
+  },
+  {
+    "name": "Tripel Take",
+    "brewery": "Sixpoint Brewery",
+    "style": "Belgian Tripel",
+    "date": "07/07/19"
+  },
+  {
+    "name": "Coconut Hiwa",
+    "brewery": "Maui Brewing Company",
+    "style": "Porter - American",
+    "date": "07/07/19"
+  },
+  {
+    "name": "Brown",
+    "brewery": "Cavalier Brewing",
+    "style": "Brown Ale - American",
+    "date": "07/05/19"
+  },
+  {
+    "name": "Dirty Word Lager",
+    "brewery": "Ballistic Beer",
+    "style": "Lager - Pale",
+    "date": "06/28/19"
+  },
+  {
+    "name": "Shelterstone",
+    "brewery": "Buxton Brewery",
+    "style": "IPA - International",
+    "date": "06/16/19"
+  },
+  {
+    "name": "Day Job",
+    "brewery": "Three Weavers Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "06/16/19"
+  },
+  {
+    "name": "Praga Premium Pils",
+    "brewery": "Praga",
+    "style": "Pilsner - Czech",
+    "date": "06/16/19"
+  },
+  {
+    "name": "Pacific Ale",
+    "brewery": "4 Pines Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "06/15/19"
+  },
+  { "name": "IPA", "brewery": "Detour Beer - Co.", "style": "IPA - American", "date": "06/15/19" },
+  {
+    "name": "Pale Ale",
+    "brewery": "The Mansfield Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "06/09/19"
+  },
+  {
+    "name": "Patio Pale",
+    "brewery": "Hawke's Brewing Co. ",
+    "style": "Pale Ale - Australian",
+    "date": "06/09/19"
+  },
+  {
+    "name": "Weird Weather IIPA",
+    "brewery": "Mikkeller",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "date": "06/07/19"
+  },
+  {
+    "name": "Tempus Project: Metamorph April 18",
+    "brewery": "Beavertown",
+    "style": "IPA - Belgian",
+    "date": "06/07/19"
+  },
+  {
+    "name": "Sound Wave Sessions: Milkshake",
+    "brewery": "Siren Craft Brew",
+    "style": "IPA - Milkshake",
+    "date": "05/26/19"
+  },
+  {
+    "name": "Breaking the Waves",
+    "brewery": "Evil Twin Brewing",
+    "style": "IPA - Imperial / Double",
+    "date": "05/26/19"
+  },
+  { "name": "Tasty Juice", "brewery": "LERVIG", "style": "IPA - American", "date": "05/26/19" },
+  {
+    "name": "Uppe Hela Natten",
+    "brewery": "Marble Beers Ltd",
+    "style": "Porter - Coffee",
+    "date": "05/26/19"
+  },
+  {
+    "name": "Spellcaster Sour",
+    "brewery": "Ballistic Beer",
+    "style": "IPA - New England / Hazy",
+    "date": "05/23/19"
+  },
+  {
+    "name": "Mexican Vanilla Piña Colada Milkshake IPA",
+    "brewery": "Omnipollo",
+    "style": "IPA - Milkshake",
+    "date": "05/12/19"
+  },
+  {
+    "name": "Relax [it's just a hazy IPA]",
+    "brewery": "Offshoot Beer Co.",
+    "style": "IPA - New England / Hazy",
+    "date": "05/12/19"
+  },
+  {
+    "name": "Sommar Sour",
+    "brewery": "Old Wives Ales",
+    "style": "Sour - Fruited",
+    "date": "05/05/19"
+  },
+  {
+    "name": "Russian Imperial Stout",
+    "brewery": "Bad Shepherd Brewing Co.",
+    "style": "Stout - Russian Imperial",
+    "date": "05/05/19"
+  },
+  {
+    "name": "Quiet Deeds: Nuke Point",
+    "brewery": "Deeds Brewing",
+    "style": "IPA - American",
+    "date": "05/05/19"
+  },
+  {
+    "name": "Fall of Troy",
+    "brewery": "Belching Beaver Brewery",
+    "style": "IPA - Imperial / Double Milkshake",
+    "date": "05/05/19"
+  },
+  {
+    "name": "Heavy Double IPA",
+    "brewery": "3 Ravens Brewery",
+    "style": "IPA - Imperial / Double",
+    "date": "05/05/19"
+  },
+  {
+    "name": "Galactic Criminal",
+    "brewery": "Epic Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "05/04/19"
+  },
+  {
+    "name": "Boss Level",
+    "brewery": "Garage Project",
+    "style": "IPA - Imperial / Double",
+    "date": "05/04/19"
+  },
+  {
+    "name": "10 Apple Stout (Cellar Series)",
+    "brewery": "Põhjala",
+    "style": "Stout - Imperial / Double",
+    "date": "04/28/19"
+  },
+  { "name": "Raceday", "brewery": "Evil Twin Brewing", "style": "IPA - Sour", "date": "04/28/19" },
+  {
+    "name": "Dusty Gringo",
+    "brewery": "Deep Creek Brewing Co.",
+    "style": "Brown Ale - American",
+    "date": "04/28/19"
+  },
+  {
+    "name": "Kentucky Woods",
+    "brewery": "Buxton Brewery",
+    "style": "Stout - Imperial / Double",
+    "date": "04/28/19"
+  },
+  {
+    "name": "Commonfolk Brown",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "Brown Ale - Other",
+    "date": "04/24/19"
+  },
+  { "name": "Dark Orbit", "brewery": "LERVIG", "style": "Porter - American", "date": "04/24/19" },
+  {
+    "name": "Cherry Gose",
+    "brewery": "Anderson Valley Brewing Company",
+    "style": "Sour - Fruited Gose",
+    "date": "04/23/19"
+  },
+  {
+    "name": "Brae #2, Barrel Aged Mountain Pepper Leaf Saison",
+    "brewery": "Edge Brewing Project",
+    "style": "Farmhouse Ale - Saison",
+    "date": "04/23/19"
+  },
+  { "name": "Dark Ale", "brewery": "Sorrento Brewhouse", "style": "Dark Ale", "date": "04/19/19" },
+  {
+    "name": "La Mūre",
+    "brewery": "North End Brewing",
+    "style": "Farmhouse Ale - Saison",
+    "date": "03/31/19"
+  },
+  { "name": "Palate Trip", "brewery": "8 Wired ", "style": "IPA - Sour", "date": "03/31/19" },
+  { "name": "IPA", "brewery": "Brouhaha Brewery", "style": "IPA - English", "date": "03/31/19" },
+  {
+    "name": "People Power",
+    "brewery": "Oliver Brewing Co.",
+    "style": "Pale Ale - American",
+    "date": "03/28/19"
+  },
+  {
+    "name": "Altona Ale Pale Ale",
+    "brewery": "Prickly Moses",
+    "style": "Pale Ale - Australian",
+    "date": "03/17/19"
+  },
+  {
+    "name": "Flyktsoda IPA",
+    "brewery": "Omnipollo",
+    "style": "IPA - American",
+    "date": "03/17/19"
+  },
+  {
+    "name": "An Eternity",
+    "brewery": "Anchorage Brewing Company",
+    "style": "Farmhouse Ale - Saison",
+    "date": "03/17/19"
+  },
+  {
+    "name": "Rock-A-Bye Baby",
+    "brewery": "Rocky Ridge Brewing Co.",
+    "style": "Porter - Baltic",
+    "date": "03/16/19"
+  },
+  {
+    "name": "Strawberry and Rhubarb Sour",
+    "brewery": "Brouhaha Brewery",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "03/10/19"
+  },
+  {
+    "name": "Hop Pop Brut IPA",
+    "brewery": "Cheeky Monkey Brewing Co",
+    "style": "IPA - Brut",
+    "date": "03/09/19"
+  },
+  {
+    "name": "Black Brute",
+    "brewery": "Rocky Ridge Brewing Co.",
+    "style": "IPA - Brut",
+    "date": "03/04/19"
+  },
+  {
+    "name": "Gin Lane",
+    "brewery": "Brains Craft Brewery",
+    "style": "Blonde Ale",
+    "date": "03/02/19"
+  },
+  {
+    "name": "Sainte Etienne",
+    "brewery": "ALDI France",
+    "style": "Lager - Pale",
+    "date": "02/24/19"
+  },
+  {
+    "name": "Hop House 13 Lager",
+    "brewery": "Guinness",
+    "style": "Lager - Pale",
+    "date": "02/24/19"
+  },
+  { "name": "Prudence Lager", "brewery": "Prudence", "style": "Lager - Pale", "date": "02/22/19" },
+  {
+    "name": "The Guardhouse Golden Ale",
+    "brewery": "John Boston",
+    "style": "Golden Ale",
+    "date": "02/07/19"
+  },
+  {
+    "name": "IPA (Australia)",
+    "brewery": "Colonial Brewing Co",
+    "style": "IPA - International",
+    "date": "02/02/19"
+  },
+  {
+    "name": "The Barber",
+    "brewery": "Monteith's Brewing Co. ",
+    "style": "Lager - Pale",
+    "date": "02/02/19"
+  },
+  {
+    "name": "Boston Lager",
+    "brewery": "Samuel Adams",
+    "style": "Lager - Vienna",
+    "date": "02/02/19"
+  },
+  {
+    "name": "Change the Date",
+    "brewery": "Sparkke Change Beverage Co.",
+    "style": "Pilsner - Czech",
+    "date": "02/02/19"
+  },
+  {
+    "name": "Featherweight",
+    "brewery": "Public Brewing Co.",
+    "style": "IPA - Session",
+    "date": "01/27/19"
+  },
+  {
+    "name": "Funky Town Brown",
+    "brewery": "Public Brewing Co.",
+    "style": "Brown Ale - American",
+    "date": "01/27/19"
+  },
+  {
+    "name": "Lager",
+    "brewery": "Hargreaves Hill",
+    "style": "Lager - Dortmunder / Export",
+    "date": "01/27/19"
+  },
+  {
+    "name": "Extra Strong Vintage Ale (2018)",
+    "brewery": "Coopers",
+    "style": "Strong Ale - English",
+    "date": "01/27/19"
+  },
+  {
+    "name": "Blood Orange Spritz",
+    "brewery": "Sample Brew",
+    "style": "Australian Sparkling Ale",
+    "date": "01/26/19"
+  },
+  {
+    "name": "Stout",
+    "brewery": "Watts River Brewing",
+    "style": "Stout - Foreign / Export",
+    "date": "01/26/19"
+  },
+  {
+    "name": "Easy Entertainer",
+    "brewery": "Banks Brewing",
+    "style": "IPA - Milkshake",
+    "date": "01/20/19"
+  },
+  {
+    "name": "R.I.S.",
+    "brewery": "Hargreaves Hill",
+    "style": "Stout - Russian Imperial",
+    "date": "01/20/19"
+  },
+  {
+    "name": "Twelve Days",
+    "brewery": "Hook Norton Brewery",
+    "style": "Porter - English",
+    "date": "01/20/19"
+  },
+  {
+    "name": "Menabrea Bionda",
+    "brewery": "G. Menabrea & Figli",
+    "style": "Lager - Pale",
+    "date": "01/13/19"
+  },
+  { "name": "Draught", "brewery": "Colonial Brewing Co", "style": "Kölsch", "date": "01/13/19" },
+  {
+    "name": "Old Man Yells At Cloud",
+    "brewery": "Old Wives Ales",
+    "style": "IPA - New England / Hazy",
+    "date": "01/13/19"
+  },
+  {
+    "name": "Bubble & Squeak",
+    "brewery": "Sauce Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "date": "01/13/19"
+  },
+  {
+    "name": "Citray Sour",
+    "brewery": "La Sirène Brewing",
+    "style": "Sour - Fruited",
+    "date": "01/12/19"
+  },
+  {
+    "name": "Hof's Lager",
+    "brewery": "The Hof Downtown",
+    "style": "Lager - Pale",
+    "date": "01/11/19"
+  },
+  {
+    "name": "Saucy Saison",
+    "brewery": "Sauce Brewing Co",
+    "style": "Farmhouse Ale - Saison",
+    "date": "01/06/19"
+  },
+  {
+    "name": "J-Juice",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "date": "01/06/19"
+  },
+  {
+    "name": "Weihenstephaner Tradition",
+    "brewery": "Bayerische Staatsbrauerei Weihenstephan",
+    "style": "Lager - Munich Dunkel",
+    "date": "01/06/19"
+  },
+  {
+    "name": "4 Seasons Lager",
+    "brewery": "Rocky Ridge Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "01/04/19"
+  },
+  {
+    "name": "The Legend of Goat",
+    "brewery": "Mountain Goat Beer",
+    "style": "IPA - Imperial / Double",
+    "date": "01/04/19"
+  },
+  {
+    "name": "Thrice Spiced Porter",
+    "brewery": "Cavalier Brewing",
+    "style": "Porter - Other",
+    "date": "01/03/19"
+  },
+  {
+    "name": "The Brown Note",
+    "brewery": "Against the Grain Brewery",
+    "style": "Brown Ale - American",
+    "date": "01/01/19"
+  },
+  {
+    "name": "Salted Caramel Shake",
+    "brewery": "3 Ravens Brewery",
+    "style": "IPA - Milkshake",
+    "date": "01/01/19"
+  },
+  {
+    "name": "Stout: The Fuggle Is Real",
+    "brewery": "Little Creatures Brewing",
+    "style": "Stout - Other",
+    "date": "12/31/18"
+  },
+  {
+    "name": "Strong Pale Ale",
+    "brewery": "Balter Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "12/31/18"
+  },
+  {
+    "name": "XPA",
+    "brewery": "West City Brewing",
+    "style": "Pale Ale - Australian",
+    "date": "12/31/18"
+  },
+  {
+    "name": "Ahornberger Landbier Würzig",
+    "brewery": "Frankenwälder Brauhaus",
+    "style": "Lager - Helles",
+    "date": "12/30/18"
+  },
+  {
+    "name": "Teddywidder",
+    "brewery": "White Rabbit",
+    "style": "Sour - Berliner Weisse",
+    "date": "12/30/18"
+  },
+  {
+    "name": "Carlton Dry Hard Lager",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Strong",
+    "date": "12/20/18"
+  },
+  {
+    "name": "Almighty Light",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Lager - American Light",
+    "date": "12/20/18"
+  },
+  {
+    "name": "Solar Aussie Lager",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Lager - Pale",
+    "date": "12/19/18"
+  },
+  {
+    "name": "Solar Summer Ale",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "12/19/18"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Pale Ale - American",
+    "date": "12/19/18"
+  },
+  {
+    "name": "Winter Warmer",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Stout - Milk / Sweet",
+    "date": "12/17/18"
+  },
+  {
+    "name": "Natural Blonde",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "12/17/18"
+  },
+  {
+    "name": "Phoenix Beer",
+    "brewery": "Phoenix Beverages",
+    "style": "Lager - Pale",
+    "date": "12/14/18"
+  },
+  {
+    "name": "Tango & Splash",
+    "brewery": "Brewmanity",
+    "style": "Lager - Pale",
+    "date": "12/10/18"
+  },
+  {
+    "name": "Base Lager",
+    "brewery": "Brick Lane Brewing Co.",
+    "style": "Lager - Helles",
+    "date": "12/10/18"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Boatrocker Brewers & Distillers",
+    "style": "Pale Ale - Australian",
+    "date": "12/06/18"
+  },
+  {
+    "name": "Sculpin",
+    "brewery": "Ballast Point Brewing Company",
+    "style": "IPA - American",
+    "date": "12/01/18"
+  },
+  {
+    "name": "Pilsner",
+    "brewery": "Balter Brewing Company",
+    "style": "Pilsner - German",
+    "date": "12/01/18"
+  },
+  {
+    "name": "Żywiec Porter",
+    "brewery": "Grupa Żywiec",
+    "style": "Porter - Baltic",
+    "date": "11/30/18"
+  },
+  {
+    "name": "Robust Porter",
+    "brewery": "Bridge Road Brewers",
+    "style": "Porter - Other",
+    "date": "11/30/18"
+  },
+  {
+    "name": "Scottish Ale",
+    "brewery": "Belhaven Brewery",
+    "style": "Scottish Ale",
+    "date": "11/30/18"
+  },
+  {
+    "name": "RIPA Red IPA",
+    "brewery": "Monteith's Brewing Co. ",
+    "style": "IPA - Red",
+    "date": "11/21/18"
+  },
+  {
+    "name": "Original",
+    "brewery": "Innis & Gunn",
+    "style": "Scottish Export Ale",
+    "date": "11/21/18"
+  },
+  {
+    "name": "La Chouffe Blond",
+    "brewery": "Brasserie d'Achouffe",
+    "style": "Belgian Strong Golden Ale",
+    "date": "11/18/18"
+  },
+  {
+    "name": "Beer Can",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Lager - Pale",
+    "date": "11/17/18"
+  },
+  {
+    "name": "Kozel Černý / Dark",
+    "brewery": "Pivovar Velké Popovice",
+    "style": "Lager - Dark",
+    "date": "11/17/18"
+  },
+  {
+    "name": "Session Ale",
+    "brewery": "South Session Brewery",
+    "style": "IPA - Session",
+    "date": "11/14/18"
+  },
+  {
+    "name": "Carlton Zero",
+    "brewery": "Carlton & United Breweries",
+    "style": "Non-Alcoholic Beer",
+    "date": "11/14/18"
+  },
+  {
+    "name": "Pinnacle Amber",
+    "brewery": "Phillip Island Brewing Co",
+    "style": "Red Ale - American Amber / Red",
+    "date": "11/05/18"
+  },
+  {
+    "name": "Shipwreck IPA",
+    "brewery": "Phillip Island Brewing Co",
+    "style": "IPA - American",
+    "date": "11/03/18"
+  },
+  {
+    "name": "Pyramid Brown",
+    "brewery": "Phillip Island Brewing Co",
+    "style": "Brown Ale - English",
+    "date": "11/03/18"
+  },
+  {
+    "name": "Sunset Golden Ale",
+    "brewery": "Phillip Island Brewing Co",
+    "style": "Golden Ale",
+    "date": "11/03/18"
+  },
+  {
+    "name": "Chicory Stout",
+    "brewery": "Phillip Island Brewing Co",
+    "style": "Stout - Irish Dry",
+    "date": "11/03/18"
+  },
+  {
+    "name": "Frothy",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Lager - Pale",
+    "date": "10/28/18"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Colonial Brewing Co",
+    "style": "Pale Ale - American",
+    "date": "10/27/18"
+  },
+  { "name": "Session IPA", "brewery": "Tinnies", "style": "IPA - Session", "date": "10/25/18" },
+  {
+    "name": "Big Nut",
+    "brewery": "BentSpoke Brewing Co",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "date": "10/25/18"
+  },
+  {
+    "name": "Tropical XPA",
+    "brewery": "Tinnies",
+    "style": "Pale Ale - Australian",
+    "date": "10/25/18"
+  },
+  {
+    "name": "Upside Down",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Brown Ale - American",
+    "date": "10/24/18"
+  },
+  { "name": "Pilsner", "brewery": "Moo Brew", "style": "Pilsner - Czech", "date": "10/23/18" },
+  {
+    "name": "Hefeweizen",
+    "brewery": "Moo Brew",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "10/23/18"
+  },
+  {
+    "name": "Night Heron Lager",
+    "brewery": "The Night Heron",
+    "style": "Lager - Pale",
+    "date": "10/05/18"
+  },
+  {
+    "name": "Bob",
+    "brewery": "Blackman's Brewery",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "08/27/18"
+  },
+  {
+    "name": "Reginald",
+    "brewery": "Blackman's Brewery",
+    "style": "IPA - American",
+    "date": "08/27/18"
+  },
+  { "name": "Arthur", "brewery": "Blackman's Brewery", "style": "Smoked Beer", "date": "08/05/18" },
+  {
+    "name": "Ernie",
+    "brewery": "Blackman's Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "08/05/18"
+  },
+  {
+    "name": "Juicy Banger",
+    "brewery": "Blackman's Brewery",
+    "style": "Lager - IPL (India Pale Lager)",
+    "date": "07/30/18"
+  },
+  {
+    "name": "Ocho Reales Porter",
+    "brewery": "Sierra Madre Brewing Co.",
+    "style": "Porter - Other",
+    "date": "07/14/18"
+  },
+  {
+    "name": "Garden Ale",
+    "brewery": "Stone & Wood",
+    "style": "Pale Ale - Australian",
+    "date": "07/14/18"
+  },
+  {
+    "name": "Escargose",
+    "brewery": "Blackman's Brewery",
+    "style": "Sour - Traditional Gose",
+    "date": "07/12/18"
+  },
+  {
+    "name": "Mervyn",
+    "brewery": "Blackman's Brewery",
+    "style": "Pale Ale - American",
+    "date": "07/12/18"
+  },
+  {
+    "name": "South West Sour",
+    "brewery": "Colonial Brewing Co",
+    "style": "Sour - Other",
+    "date": "07/12/18"
+  },
+  {
+    "name": "Smooth Stout",
+    "brewery": "Blackman's Brewery",
+    "style": "Stout - Other",
+    "date": "07/08/18"
+  },
+  {
+    "name": "Juicy Juicy Bang Bang Double IPL",
+    "brewery": "Blackman's Brewery",
+    "style": "Lager - IPL (India Pale Lager)",
+    "date": "07/08/18"
+  },
+  { "name": "Ink", "brewery": "Salt Brewing Co", "style": "Stout - Coffee", "date": "07/06/18" },
+  {
+    "name": "Cranky Mrs",
+    "brewery": "Salt Brewing Co",
+    "style": "IPA - Imperial / Double",
+    "date": "07/06/18"
+  },
+  { "name": "Kook", "brewery": "Salt Brewing Co", "style": "IPA - Session", "date": "07/06/18" },
+  {
+    "name": "Moby",
+    "brewery": "Salt Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "07/06/18"
+  },
+  {
+    "name": "Session Ale",
+    "brewery": "Salt Brewing Co",
+    "style": "Golden Ale",
+    "date": "07/06/18"
+  },
+  { "name": "Salt", "brewery": "Salt Brewing Co", "style": "Lager - Pale", "date": "07/06/18" },
+  {
+    "name": "Chocolate Sanchez Stout",
+    "brewery": "Tooborac Beer",
+    "style": "Stout - Other",
+    "date": "06/23/18"
+  },
+  {
+    "name": "Vanilla Oatmeal Stout",
+    "brewery": "Southern Bay Brewery",
+    "style": "Stout - Oatmeal",
+    "date": "06/01/18"
+  },
+  {
+    "name": "Koko Brown",
+    "brewery": "Kona Brewing Company",
+    "style": "Brown Ale - American",
+    "date": "06/01/18"
+  },
+  {
+    "name": "Hazy Lager",
+    "brewery": "Byron Bay Brewery",
+    "style": "Lager - Pale",
+    "date": "05/31/18"
+  },
+  {
+    "name": "Quiet Deeds Vanilla Porter",
+    "brewery": "Deeds Brewing",
+    "style": "Porter - Other",
+    "date": "05/25/18"
+  },
+  {
+    "name": "KAIJU KRUSH!",
+    "brewery": "KAIJU! Beer",
+    "style": "Pale Ale - American",
+    "date": "05/25/18"
+  },
+  {
+    "name": "Bohemian Pilsener",
+    "brewery": "Cerveza Patagonia",
+    "style": "Pilsner - Czech",
+    "date": "05/23/18"
+  },
+  { "name": "Lager", "brewery": "Two Birds Brewing", "style": "Lager - Pale", "date": "05/18/18" },
+  {
+    "name": "Gavroche",
+    "brewery": "Brasserie 3 MONTS",
+    "style": "Farmhouse Ale - Bière de Garde",
+    "date": "05/18/18"
+  },
+  {
+    "name": "Gipps St.",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Pale Ale - American",
+    "date": "05/11/18"
+  },
+  {
+    "name": "PRIDElweiss 2017",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "05/11/18"
+  },
+  {
+    "name": "Rodenbach Grand Cru",
+    "brewery": "Brouwerij Rodenbach",
+    "style": "Sour - Flanders Red Ale",
+    "date": "04/30/18"
+  },
+  {
+    "name": "Boris",
+    "brewery": "Feral Brewing Company",
+    "style": "Stout - Russian Imperial",
+    "date": "04/30/18"
+  },
+  { "name": "Elvis Juice", "brewery": "BrewDog", "style": "IPA - American", "date": "04/30/18" },
+  {
+    "name": "Quiet Deeds Pale Ale",
+    "brewery": "Deeds Brewing",
+    "style": "Pale Ale - Australian",
+    "date": "04/30/18"
+  },
+  {
+    "name": "Lamington Ale",
+    "brewery": "Deeds Brewing",
+    "style": "Brown Ale - American",
+    "date": "04/30/18"
+  },
+  {
+    "name": "Brown Ale",
+    "brewery": "Banks Brewing",
+    "style": "Brown Ale - American",
+    "date": "04/30/18"
+  },
+  {
+    "name": "Lazy Yak Stadia Edition",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "03/30/18"
+  },
+  {
+    "name": "Reserve Amber Ale",
+    "brewery": "ENDEAVOUR Brewing Co.",
+    "style": "Red Ale - Other",
+    "date": "03/25/18"
+  },
+  {
+    "name": "2016 Reserve Pale Ale",
+    "brewery": "ENDEAVOUR Brewing Co.",
+    "style": "Pale Ale - Australian",
+    "date": "03/25/18"
+  },
+  {
+    "name": "Fresh Hop (2017)",
+    "brewery": "Hargreaves Hill",
+    "style": "Wheat Beer - American Pale Wheat",
+    "date": "03/25/18"
+  },
+  {
+    "name": "Hef",
+    "brewery": "Burleigh Brewing Co.",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "03/25/18"
+  },
+  {
+    "name": "Whale Ale",
+    "brewery": "Murray's Brewing Co",
+    "style": "Wheat Beer - American Pale Wheat",
+    "date": "03/22/18"
+  },
+  {
+    "name": "Spitfire Golden Ale",
+    "brewery": "Shepherd Neame",
+    "style": "Golden Ale",
+    "date": "03/15/18"
+  },
+  {
+    "name": "Barleywine",
+    "brewery": "Hickinbotham of Dromana",
+    "style": "Barleywine - American",
+    "date": "03/08/18"
+  },
+  {
+    "name": "Hatlifter Stout",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Stout - Other",
+    "date": "03/08/18"
+  },
+  {
+    "name": "Spitfire Amber Kentish Ale",
+    "brewery": "Shepherd Neame",
+    "style": "English Bitter",
+    "date": "02/22/18"
+  },
+  {
+    "name": "Old Fart",
+    "brewery": "MerriMen Brewing Ltd",
+    "style": "Mild - Other",
+    "date": "02/22/18"
+  },
+  {
+    "name": "XPA",
+    "brewery": "Balter Brewing Company",
+    "style": "Pale Ale - International",
+    "date": "02/16/18"
+  },
+  {
+    "name": "Classic Collection - India Pale Ale",
+    "brewery": "Shepherd Neame",
+    "style": "IPA - English",
+    "date": "02/15/18"
+  },
+  { "name": "Ghost Ship", "brewery": "Adnams", "style": "Pale Ale - English", "date": "02/15/18" },
+  {
+    "name": "Tower 10 IPA",
+    "brewery": "Karl Strauss Brewing Company",
+    "style": "IPA - American",
+    "date": "02/08/18"
+  },
+  {
+    "name": "The Naked Objector",
+    "brewery": "Little Bang Brewing Co",
+    "style": "IPA - American",
+    "date": "02/08/18"
+  },
+  {
+    "name": "Highbinder",
+    "brewery": "Bodriggy Brewing Co.",
+    "style": "Pale Ale - International",
+    "date": "02/01/18"
+  },
+  {
+    "name": "Even Keel",
+    "brewery": "Ballast Point Brewing Company",
+    "style": "IPA - Session",
+    "date": "02/01/18"
+  },
+  {
+    "name": "Double Rainbow XXPA",
+    "brewery": "Batch Brewing Company",
+    "style": "IPA - Imperial / Double",
+    "date": "01/28/18"
+  },
+  { "name": "Lager ", "brewery": "Omission Brewing", "style": "Gluten-Free", "date": "01/20/18" },
+  {
+    "name": "Red Trolley Ale",
+    "brewery": "Karl Strauss Brewing Company",
+    "style": "Red Ale - Irish",
+    "date": "01/20/18"
+  },
+  {
+    "name": "Little Ravens Barleywine",
+    "brewery": "3 Ravens Brewery",
+    "style": "Barleywine - Other",
+    "date": "01/18/18"
+  },
+  {
+    "name": "Old Money (2017)",
+    "brewery": "Stockade Brew Co",
+    "style": "Stout - Russian Imperial",
+    "date": "01/18/18"
+  },
+  {
+    "name": "Mayday Hills: Green T",
+    "brewery": "Bridge Road Brewers",
+    "style": "IPA - Brett",
+    "date": "01/13/18"
+  },
+  {
+    "name": "Limited Release Coffee IPA",
+    "brewery": "Southern Bay Brewery",
+    "style": "IPA - American",
+    "date": "01/11/18"
+  },
+  {
+    "name": "Hazelnut Brown",
+    "brewery": "Bad Shepherd Brewing Co.",
+    "style": "Brown Ale - American",
+    "date": "01/11/18"
+  },
+  {
+    "name": "Choc Orange Porter",
+    "brewery": "Dainton Beer",
+    "style": "Porter - Other",
+    "date": "01/05/18"
+  },
+  {
+    "name": "Magical Christmas Unicorn",
+    "brewery": "Bridge Road Brewers",
+    "style": "Cream Ale",
+    "date": "01/05/18"
+  },
+  {
+    "name": "Dangerously Close To Stupid Amount of Apricot",
+    "brewery": "To Øl",
+    "style": "IPA - Imperial / Double",
+    "date": "01/05/18"
+  },
+  {
+    "name": "Miss Pinky",
+    "brewery": "Boatrocker Brewers & Distillers",
+    "style": "Sour - Fruited Berliner Weisse",
+    "date": "01/02/18"
+  },
+  { "name": "Broadside", "brewery": "Adnams", "style": "English Bitter", "date": "12/31/17" },
+  {
+    "name": "Fancy Pants",
+    "brewery": "Mountain Goat Beer",
+    "style": "Red Ale - American Amber / Red",
+    "date": "12/30/17"
+  },
+  {
+    "name": "Celtic Red Ale",
+    "brewery": "Bridge Road Brewers",
+    "style": "Red Ale - Irish",
+    "date": "12/30/17"
+  },
+  {
+    "name": "Crankshaft",
+    "brewery": "BentSpoke Brewing Co",
+    "style": "IPA - American",
+    "date": "12/25/17"
+  },
+  {
+    "name": "XPA",
+    "brewery": "Philter Brewing",
+    "style": "Pale Ale - Australian",
+    "date": "12/25/17"
+  },
+  {
+    "name": "Mort's Gold",
+    "brewery": "BentSpoke Brewing Co",
+    "style": "Lager - Pale",
+    "date": "12/25/17"
+  },
+  {
+    "name": "Throwback IPA",
+    "brewery": "Pirate Life Brewing",
+    "style": "IPA - Session",
+    "date": "12/23/17"
+  },
+  {
+    "name": "Barley Griffin",
+    "brewery": "BentSpoke Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "12/21/17"
+  },
+  {
+    "name": "Spearhead Pale Ale",
+    "brewery": "Cricketers Arms",
+    "style": "Pale Ale - Australian",
+    "date": "12/10/17"
+  },
+  {
+    "name": "Lion Strong",
+    "brewery": "Lion Brewery Ceylon",
+    "style": "Lager - Strong",
+    "date": "12/09/17"
+  },
+  {
+    "name": "Coburg Lager",
+    "brewery": "Coburg Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "12/09/17"
+  },
+  { "name": "Bigmouth", "brewery": "Yeastie Boys", "style": "IPA - Session", "date": "12/09/17" },
+  {
+    "name": "Midway IPA",
+    "brewery": "Goose Island Beer Co.",
+    "style": "IPA - Session",
+    "date": "11/09/17"
+  },
+  {
+    "name": "XPA",
+    "brewery": "Monteith's Brewing Co. ",
+    "style": "Pale Ale - American",
+    "date": "11/09/17"
+  },
+  {
+    "name": "Iron Jack",
+    "brewery": "Legendary Brewing Co",
+    "style": "Lager - Pale",
+    "date": "11/04/17"
+  },
+  {
+    "name": "Social Beast",
+    "brewery": "Brewmanity",
+    "style": "Pale Ale - Australian",
+    "date": "07/29/17"
+  },
+  {
+    "name": "Phat Mongrel",
+    "brewery": "Fox Hat Brewing",
+    "style": "Stout - Oatmeal",
+    "date": "07/28/17"
+  },
+  {
+    "name": "KeTo Reporter",
+    "brewery": "Birra Del Borgo",
+    "style": "Porter - Other",
+    "date": "07/28/17"
+  },
+  {
+    "name": "Hop Hog",
+    "brewery": "Feral Brewing Company",
+    "style": "IPA - American",
+    "date": "07/26/17"
+  },
+  {
+    "name": "In Ya Face",
+    "brewery": "Chur Brewing Company",
+    "style": "IPA - Imperial / Double",
+    "date": "07/26/17"
+  },
+  {
+    "name": "Scotch Ale",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Scotch Ale / Wee Heavy",
+    "date": "07/26/17"
+  },
+  {
+    "name": "India Pale Ale",
+    "brewery": "Pirate Life Brewing",
+    "style": "IPA - American",
+    "date": "07/14/17"
+  },
+  {
+    "name": "New World Lager",
+    "brewery": "Hawthorn Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "07/10/17"
+  },
+  {
+    "name": "Castello La Decisa",
+    "brewery": "Birra Castello",
+    "style": "Lager - Pale",
+    "date": "06/27/17"
+  },
+  {
+    "name": "Paulaner Hefe-Weißbier Naturtrüb 4.6%",
+    "brewery": "Paulaner Brauerei",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "05/28/17"
+  },
+  {
+    "name": "Aguila",
+    "brewery": "Cervecería Bavaria",
+    "style": "Lager - American",
+    "date": "05/16/17"
+  },
+  {
+    "name": "Arequipeña",
+    "brewery": "Unión de Cervecerías Peruanas Backus y Johnston",
+    "style": "Lager - Pale",
+    "date": "05/16/17"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Red Duck",
+    "style": "Pale Ale - Australian",
+    "date": "05/13/17"
+  },
+  {
+    "name": "Malt Shovel Brewers: Interceptor BIPA",
+    "brewery": "Malt Shovel Brewery",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "date": "04/09/17"
+  },
+  {
+    "name": "Dog Days",
+    "brewery": "Little Creatures Brewing",
+    "style": "IPA - Session",
+    "date": "04/04/17"
+  },
+  {
+    "name": "IPA",
+    "brewery": "Balter Brewing Company",
+    "style": "IPA - American",
+    "date": "04/04/17"
+  },
+  {
+    "name": "Floris Kriek",
+    "brewery": "Delirium - Huyghe Brewery",
+    "style": "Fruit Beer",
+    "date": "04/01/17"
+  },
+  {
+    "name": "Tuatara American Pale Ale",
+    "brewery": "Tuatara Brewery",
+    "style": "Pale Ale - American",
+    "date": "04/01/17"
+  },
+  {
+    "name": "Skull Splitter",
+    "brewery": "Orkney Brewery",
+    "style": "Scotch Ale / Wee Heavy",
+    "date": "04/01/17"
+  },
+  { "name": "Lia Fail", "brewery": "Inveralmond Brewery", "style": "Dark Ale", "date": "04/01/17" },
+  {
+    "name": "James Squire Mid River",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "03/26/17"
+  },
+  {
+    "name": "Malt Shovel Brewers: La La Lager",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Lager - IPL (India Pale Lager)",
+    "date": "03/26/17"
+  },
+  {
+    "name": "James Squire Colonial Wheat Beer",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "03/26/17"
+  },
+  {
+    "name": "Crafty Lager",
+    "brewery": "The Crafty Squire",
+    "style": "Lager - Amber",
+    "date": "03/26/17"
+  },
+  {
+    "name": "Red Pig Mexican Ale",
+    "brewery": "Cervecería Mexicana",
+    "style": "Red Ale - American Amber / Red",
+    "date": "03/18/17"
+  },
+  {
+    "name": "Beerito",
+    "brewery": "Oskar Blues Brewery",
+    "style": "Lager - Vienna",
+    "date": "03/09/17"
+  },
+  {
+    "name": "Cockies Surf Coast Blonde",
+    "brewery": "Barrabool Hills Brewing Co.",
+    "style": "Blonde Ale",
+    "date": "03/04/17"
+  },
+  {
+    "name": "Abbotsford Invalid Stout",
+    "brewery": "Carlton & United Breweries",
+    "style": "Stout - Other",
+    "date": "01/08/17"
+  },
+  {
+    "name": "Laote Beer (崂特啤酒)",
+    "brewery": "Qingdao Laote Beer (青岛崂特啤酒)",
+    "style": "Lager - Pale",
+    "date": "01/07/17"
+  },
+  {
+    "name": "O'Brien Pale Ale",
+    "brewery": "Rebellion Brewery",
+    "style": "Gluten-Free",
+    "date": "12/31/16"
+  },
+  {
+    "name": "The Swindler Summer Ale",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Blonde Ale",
+    "date": "12/31/16"
+  },
+  {
+    "name": "Wizard Smith's Ale",
+    "brewery": "James Boag's",
+    "style": "Pale Ale - English",
+    "date": "12/30/16"
+  },
+  {
+    "name": "O’Brien Premium Lager",
+    "brewery": "Rebellion Brewery",
+    "style": "Gluten-Free",
+    "date": "12/27/16"
+  },
+  { "name": "IPA", "brewery": "Hawkers Beer", "style": "IPA - American", "date": "12/09/16" },
+  {
+    "name": "Growler",
+    "brewery": "2 Brothers Brewery ",
+    "style": "Brown Ale - American",
+    "date": "12/07/16"
+  },
+  {
+    "name": "Southern Bay Australian Lager",
+    "brewery": "Southern Bay Brewery",
+    "style": "Lager - Pale",
+    "date": "12/07/16"
+  },
+  {
+    "name": "Bitterbitch",
+    "brewery": "Parrotdog",
+    "style": "IPA - International",
+    "date": "12/03/16"
+  },
+  {
+    "name": "Sleeping Giant",
+    "brewery": "Gage Roads Brew Co ",
+    "style": "IPA - English",
+    "date": "12/02/16"
+  },
+  {
+    "name": "Chevalier Saison",
+    "brewery": "Bridge Road Brewers",
+    "style": "Farmhouse Ale - Saison",
+    "date": "12/02/16"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Mountain Goat Beer",
+    "style": "Pale Ale - American",
+    "date": "11/25/16"
+  },
+  {
+    "name": "8 Bit IPA",
+    "brewery": "Stockade Brew Co",
+    "style": "IPA - American",
+    "date": "11/18/16"
+  },
+  {
+    "name": "The Buzz",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Red Ale - American Amber / Red",
+    "date": "11/18/16"
+  },
+  {
+    "name": "Grab Him By the Peaches",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Sour - Fruited",
+    "date": "11/12/16"
+  },
+  {
+    "name": "Schwarzwalder Kirschtorte",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Schwarzbier",
+    "date": "11/12/16"
+  },
+  {
+    "name": "Scotchy Scotch Scotch",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Black & Tan",
+    "date": "11/12/16"
+  },
+  {
+    "name": "Big Truffle In Little Porter",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Porter - Other",
+    "date": "11/12/16"
+  },
+  { "name": "Otway Light", "brewery": "Prickly Moses", "style": "Blonde Ale", "date": "11/11/16" },
+  {
+    "name": "Rio Bravo Lager",
+    "brewery": "Cervecería Mexicana",
+    "style": "Lager - American",
+    "date": "11/11/16"
+  },
+  {
+    "name": "ESB",
+    "brewery": "Fuller's Brewery",
+    "style": "Extra Special / Strong Bitter",
+    "date": "11/06/16"
+  },
+  {
+    "name": "London Pride",
+    "brewery": "Fuller's Brewery",
+    "style": "English Bitter",
+    "date": "11/06/16"
+  },
+  {
+    "name": "Sir Veza Lager",
+    "brewery": "Sir Veza",
+    "style": "Lager - American",
+    "date": "11/04/16"
+  },
+  {
+    "name": "Newtowner",
+    "brewery": "Young Henrys",
+    "style": "Pale Ale - Australian",
+    "date": "11/04/16"
+  },
+  {
+    "name": "Red Stripe",
+    "brewery": "Desnoes & Geddes",
+    "style": "Lager - American",
+    "date": "11/04/16"
+  },
+  {
+    "name": "Wild Yak",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "11/04/16"
+  },
+  {
+    "name": "Cantina",
+    "brewery": "Industrias La Constancia",
+    "style": "Lager - Pale",
+    "date": "10/21/16"
+  },
+  {
+    "name": "Taco Cerveza",
+    "brewery": "Two Birds Brewing",
+    "style": "Pale Ale - International",
+    "date": "10/20/16"
+  },
+  { "name": "Cheeky Charlie", "brewery": "3 Pub Circus", "style": "Kölsch", "date": "10/04/16" },
+  {
+    "name": "Gippsland Gold",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Pale Ale - English",
+    "date": "10/04/16"
+  },
+  {
+    "name": "Veras 1866",
+    "brewery": "Brasserie de Saint-Omer",
+    "style": "Lager - Pale",
+    "date": "08/28/16"
+  },
+  {
+    "name": "Bavaria",
+    "brewery": "Royal Swinkels Family Brewers",
+    "style": "Pilsner - Other",
+    "date": "08/28/16"
+  },
+  { "name": "Punk IPA", "brewery": "BrewDog", "style": "IPA - American", "date": "08/26/16" },
+  {
+    "name": "Grünbacher Altweisse Dunkel",
+    "brewery": "Schloßbrauerei Grünbach",
+    "style": "Wheat Beer - Dunkelweizen",
+    "date": "08/26/16"
+  },
+  {
+    "name": "Schloss Dunkel",
+    "brewery": "Arcobräu Gräfliches Brauhaus",
+    "style": "Lager - Munich Dunkel",
+    "date": "08/26/16"
+  },
+  { "name": "Pale", "brewery": "E.B.P", "style": "Lager - Pale", "date": "08/23/16" },
+  {
+    "name": "Chestnut Pilsner",
+    "brewery": "Bridge Road Brewers",
+    "style": "Pilsner - Other",
+    "date": "08/23/16"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Hargreaves Hill",
+    "style": "Pale Ale - American",
+    "date": "07/09/16"
+  },
+  {
+    "name": "IPA",
+    "brewery": "Watts River Brewing",
+    "style": "IPA - American",
+    "date": "07/09/16"
+  },
+  { "name": "Blonde", "brewery": "Watts River Brewing", "style": "Blonde Ale", "date": "07/02/16" },
+  {
+    "name": "Real Original Ale",
+    "brewery": "Coldstream Brewery",
+    "style": "English Bitter",
+    "date": "07/02/16"
+  },
+  {
+    "name": "Australian Pale Ale",
+    "brewery": "Coldstream Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "06/21/16"
+  },
+  {
+    "name": "ESB",
+    "brewery": "Hargreaves Hill",
+    "style": "Extra Special / Strong Bitter",
+    "date": "06/21/16"
+  },
+  {
+    "name": "Czech Pilsner",
+    "brewery": "Coldstream Brewery",
+    "style": "Pilsner - Other",
+    "date": "06/21/16"
+  },
+  {
+    "name": "Grand Porter",
+    "brewery": "Coldstream Brewery",
+    "style": "Porter - Other",
+    "date": "06/14/16"
+  },
+  {
+    "name": "Shift Brewers Stash: Amber Amber",
+    "brewery": "Little Creatures Brewing",
+    "style": "Lager - Amber",
+    "date": "06/03/16"
+  },
+  {
+    "name": "The Hotchkiss Six",
+    "brewery": "Little Creatures Brewing",
+    "style": "Stout - Other",
+    "date": "06/03/16"
+  },
+  {
+    "name": "Belgian Pale Pony",
+    "brewery": "White Rabbit",
+    "style": "Belgian Strong Golden Ale",
+    "date": "06/03/16"
+  },
+  {
+    "name": "Journeyman",
+    "brewery": "Cricketers Arms",
+    "style": "Lager - Pale",
+    "date": "05/27/16"
+  },
+  {
+    "name": "Henry Ford's Girthsome Fjord",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Brown Ale - Belgian",
+    "date": "05/26/16"
+  },
+  {
+    "name": "Bad Daughter Choc Orange Porter",
+    "brewery": "Dainton Beer",
+    "style": "Porter - Other",
+    "date": "05/26/16"
+  },
+  {
+    "name": "Chuckaboo",
+    "brewery": "Bodriggy Brewing Co.",
+    "style": "IPA - White",
+    "date": "05/26/16"
+  },
+  {
+    "name": "Negroni IPA",
+    "brewery": "Mismatch Brewing Company",
+    "style": "IPA - International",
+    "date": "05/26/16"
+  },
+  {
+    "name": "The Continuous Daryl",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "IPA - Imperial / Double",
+    "date": "05/22/16"
+  },
+  {
+    "name": "Imperial IPA",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "IPA - Imperial / Double",
+    "date": "05/22/16"
+  },
+  {
+    "name": "Sorachi",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "Kölsch",
+    "date": "05/22/16"
+  },
+  {
+    "name": "Lager",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "Lager - Helles",
+    "date": "05/22/16"
+  },
+  {
+    "name": "Scotch Ale",
+    "brewery": "Red Hill Brewery",
+    "style": "Scotch Ale / Wee Heavy",
+    "date": "05/21/16"
+  },
+  {
+    "name": "White Christmas",
+    "brewery": "Mildura Brewery",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "05/21/16"
+  },
+  {
+    "name": "Yenda Hell",
+    "brewery": "Australian Beer Co.",
+    "style": "Lager - Helles",
+    "date": "05/20/16"
+  },
+  {
+    "name": "Royal Dutch Post Horn",
+    "brewery": "United Dutch Breweries",
+    "style": "Lager - Pale",
+    "date": "05/20/16"
+  },
+  {
+    "name": "Quiet Deeds IPA",
+    "brewery": "Deeds Brewing",
+    "style": "IPA - English",
+    "date": "04/16/16"
+  },
+  {
+    "name": "Trumer Pils",
+    "brewery": "Trumer Privatbrauerei",
+    "style": "Pilsner - German",
+    "date": "04/16/16"
+  },
+  {
+    "name": "Turbodog",
+    "brewery": "Abita Brewing Company",
+    "style": "Brown Ale - English",
+    "date": "04/07/16"
+  },
+  {
+    "name": "Robot Ninja Sorachi Lager",
+    "brewery": "Kooinda Brewing Company",
+    "style": "Lager - Japanese Rice",
+    "date": "03/28/16"
+  },
+  {
+    "name": "Pabst Blue Ribbon",
+    "brewery": "Pabst Brewing Company",
+    "style": "Lager - American",
+    "date": "03/10/16"
+  },
+  {
+    "name": "Lorry Boys Jim And Joes Bright Lager",
+    "brewery": "Macarthur Grange Brewery",
+    "style": "Lager - Pale",
+    "date": "03/09/16"
+  },
+  {
+    "name": "Grisette",
+    "brewery": "Shenanigans Brewing Co.",
+    "style": "Farmhouse Ale - Grisette",
+    "date": "03/05/16"
+  },
+  {
+    "name": "Red Sky",
+    "brewery": "Shenanigans Brewing Co.",
+    "style": "IPA - American",
+    "date": "03/05/16"
+  },
+  {
+    "name": "Stout",
+    "brewery": "Hargreaves Hill",
+    "style": "Stout - Foreign / Export",
+    "date": "03/05/16"
+  },
+  {
+    "name": "Wigged-Out Wonder Woman",
+    "brewery": "Kettle Green Brewing Co.",
+    "style": "Lager - Dortmunder / Export",
+    "date": "03/05/16"
+  },
+  {
+    "name": "Monteith's Summer Ale",
+    "brewery": "Monteith's Brewing Co. ",
+    "style": "Golden Ale",
+    "date": "03/04/16"
+  },
+  {
+    "name": "James Squire Jack of Spades",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Porter - English",
+    "date": "03/02/16"
+  },
+  {
+    "name": "Wood Duck Pale",
+    "brewery": "Red Tape Brewing Co.",
+    "style": "Cream Ale",
+    "date": "03/01/16"
+  },
+  {
+    "name": "Single Batch: Amber Ale",
+    "brewery": "Red Tape Brewing Co.",
+    "style": "Red Ale - American Amber / Red",
+    "date": "03/01/16"
+  },
+  {
+    "name": "Old Brown Duck",
+    "brewery": "Red Tape Brewing Co.",
+    "style": "Brown Ale - English",
+    "date": "03/01/16"
+  },
+  { "name": "Real Ale", "brewery": "Young Henrys", "style": "English Bitter", "date": "03/01/16" },
+  {
+    "name": "Artisan Ale",
+    "brewery": "3 Pub Circus",
+    "style": "Pale Ale - Australian",
+    "date": "03/01/16"
+  },
+  {
+    "name": "Hairy Mary",
+    "brewery": "3 Pub Circus",
+    "style": "Pale Ale - Australian",
+    "date": "02/29/16"
+  },
+  {
+    "name": "Indian Summer Ale",
+    "brewery": "4 Pines Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "02/29/16"
+  },
+  {
+    "name": "The Surprize Summer Ale",
+    "brewery": "John Boston",
+    "style": "Golden Ale",
+    "date": "02/26/16"
+  },
+  {
+    "name": "Molson Canadian",
+    "brewery": "Molson Coors Canada",
+    "style": "Lager - American",
+    "date": "02/26/16"
+  },
+  {
+    "name": "Lorry Boys Jim And Joe's Golden Ale",
+    "brewery": "Macarthur Grange Brewery",
+    "style": "Golden Ale",
+    "date": "02/26/16"
+  },
+  {
+    "name": "Bastard Son",
+    "brewery": "Little Smith Brewing",
+    "style": "Pale Ale - American",
+    "date": "02/20/16"
+  },
+  {
+    "name": "Mack Daddy",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Dark Ale",
+    "date": "02/19/16"
+  },
+  {
+    "name": "Pacific Breeze",
+    "brewery": "Thunder Road Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "02/17/16"
+  },
+  {
+    "name": "Small Ale",
+    "brewery": "Colonial Brewing Co",
+    "style": "Pale Ale - Australian",
+    "date": "02/16/16"
+  },
+  {
+    "name": "Steinlager Pure",
+    "brewery": "Lion Breweries NZ",
+    "style": "Lager - Pale",
+    "date": "02/14/16"
+  },
+  {
+    "name": "Draught ",
+    "brewery": "Globe Brewing Company ",
+    "style": "Lager - Pale",
+    "date": "02/14/16"
+  },
+  {
+    "name": "Boont Amber Ale",
+    "brewery": "Anderson Valley Brewing Company",
+    "style": "Red Ale - American Amber / Red",
+    "date": "02/10/16"
+  },
+  {
+    "name": "Lola Deville",
+    "brewery": "Panhead Custom Ales",
+    "style": "Farmhouse Ale - Saison",
+    "date": "02/10/16"
+  },
+  {
+    "name": "Johnny Octane",
+    "brewery": "Panhead Custom Ales",
+    "style": "Red Ale - Imperial / Double",
+    "date": "02/09/16"
+  },
+  {
+    "name": "Rosita Original Blond Ale",
+    "brewery": "Cerveses La Gardènia",
+    "style": "Honey Beer",
+    "date": "02/09/16"
+  },
+  {
+    "name": "Sweet Action (2011-2017)",
+    "brewery": "Sixpoint Brewery",
+    "style": "Cream Ale",
+    "date": "02/06/16"
+  },
+  {
+    "name": "Hermann Holeshot",
+    "brewery": "Panhead Custom Ales",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "02/06/16"
+  },
+  { "name": "Dead Pony Club", "brewery": "BrewDog", "style": "IPA - Session", "date": "02/06/16" },
+  {
+    "name": "Hardtail Henry",
+    "brewery": "Panhead Custom Ales",
+    "style": "Stout - Other",
+    "date": "02/06/16"
+  },
+  {
+    "name": "Wolf Among Weeds",
+    "brewery": "Golden Road Brewing",
+    "style": "IPA - Imperial / Double",
+    "date": "02/03/16"
+  },
+  {
+    "name": "Bengali",
+    "brewery": "Sixpoint Brewery",
+    "style": "IPA - American",
+    "date": "02/03/16"
+  },
+  {
+    "name": "Global Warmer",
+    "brewery": "Sixpoint Brewery",
+    "style": "Red Ale - Imperial / Double",
+    "date": "02/03/16"
+  },
+  {
+    "name": "White Trash",
+    "brewery": "Garage Project",
+    "style": "Wheat Beer - American Pale Wheat",
+    "date": "02/03/16"
+  },
+  {
+    "name": "Lucky Amber",
+    "brewery": "Steamrail Brewing Company",
+    "style": "Red Ale - Other",
+    "date": "01/29/16"
+  },
+  {
+    "name": "Hops Dropper",
+    "brewery": "Steamrail Brewing Company",
+    "style": "Pilsner - Other",
+    "date": "01/29/16"
+  },
+  {
+    "name": "Santa's Private Reserve Ale",
+    "brewery": "Rogue Ales",
+    "style": "Strong Ale - Other",
+    "date": "01/22/16"
+  },
+  {
+    "name": "Golden Ale",
+    "brewery": "Hawthorn Brewing Co.",
+    "style": "Golden Ale",
+    "date": "01/22/16"
+  },
+  {
+    "name": "Norton Lager",
+    "brewery": "Holgate Brewhouse",
+    "style": "Lager - Helles",
+    "date": "01/15/16"
+  },
+  {
+    "name": "Scorcher Summer Ale",
+    "brewery": "Cricketers Arms",
+    "style": "Golden Ale",
+    "date": "01/12/16"
+  },
+  {
+    "name": "2014 Growers Bright Ale",
+    "brewery": "ENDEAVOUR Brewing Co.",
+    "style": "Pale Ale - Australian",
+    "date": "01/08/16"
+  },
+  {
+    "name": "Single Fin Summer Ale",
+    "brewery": "Gage Roads Brew Co ",
+    "style": "Golden Ale",
+    "date": "01/08/16"
+  },
+  {
+    "name": "Break Water",
+    "brewery": "Gage Roads Brew Co ",
+    "style": "Pale Ale - Australian",
+    "date": "01/07/16"
+  },
+  {
+    "name": "Yenda Golden Ale",
+    "brewery": "Australian Beer Co.",
+    "style": "Golden Ale",
+    "date": "01/05/16"
+  },
+  {
+    "name": "Big Eye",
+    "brewery": "Ballast Point Brewing Company",
+    "style": "IPA - American",
+    "date": "01/04/16"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Atomic",
+    "style": "Pale Ale - International",
+    "date": "01/03/16"
+  },
+  {
+    "name": "Pintail Pale Ale",
+    "brewery": "Karl Strauss Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "01/02/16"
+  },
+  {
+    "name": "Dundee India Pale Ale",
+    "brewery": "Dundee Brewing Co",
+    "style": "IPA - American",
+    "date": "01/02/16"
+  },
+  {
+    "name": "Beechworth Pale Ale",
+    "brewery": "Bridge Road Brewers",
+    "style": "Pale Ale - American",
+    "date": "01/02/16"
+  },
+  {
+    "name": "Green Coast",
+    "brewery": "Stone & Wood",
+    "style": "Kellerbier / Zwickelbier",
+    "date": "12/27/15"
+  },
+  {
+    "name": "Rising Sun Pale Ale",
+    "brewery": "Baird Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "12/18/15"
+  },
+  { "name": "Copy Cat", "brewery": "Mash Brewing", "style": "IPA - American", "date": "12/08/15" },
+  { "name": "Golden Ale", "brewery": "Venom Brewing", "style": "Golden Ale", "date": "12/08/15" },
+  {
+    "name": "Menabrea Original",
+    "brewery": "G. Menabrea & Figli",
+    "style": "Lager - Pale",
+    "date": "12/05/15"
+  },
+  {
+    "name": "Brooklyn Lager",
+    "brewery": "Brooklyn Brewery",
+    "style": "Lager - Vienna",
+    "date": "12/04/15"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Pirate Life Brewing",
+    "style": "Pale Ale - American",
+    "date": "12/04/15"
+  },
+  { "name": "Rye Pilsner", "brewery": "E.B.P", "style": "Pilsner - Other", "date": "11/28/15" },
+  {
+    "name": "#011 American Red IPA",
+    "brewery": "Exit Brewing",
+    "style": "IPA - American",
+    "date": "11/28/15"
+  },
+  {
+    "name": "Wolf In The Woods 2013",
+    "brewery": "Pike Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "11/26/15"
+  },
+  {
+    "name": "Pedlars Pale",
+    "brewery": "Barrow Boys Brewing",
+    "style": "Pale Ale - American",
+    "date": "11/20/15"
+  },
+  {
+    "name": "Stormy Lager",
+    "brewery": "Barrow Boys Brewing",
+    "style": "Lager - Dark",
+    "date": "11/20/15"
+  },
+  {
+    "name": "Fraser Briggs",
+    "brewery": "ALDI New Zealand",
+    "style": "Lager - Pale",
+    "date": "11/14/15"
+  },
+  {
+    "name": "Love Tap Lager",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Lager - Pale",
+    "date": "11/14/15"
+  },
+  {
+    "name": "Pilsner",
+    "brewery": "Three Troupers",
+    "style": "Pilsner - Other",
+    "date": "11/03/15"
+  },
+  { "name": "Siciliana", "brewery": "Birra Moretti", "style": "Lager - Pale", "date": "11/03/15" },
+  {
+    "name": "Sista Ginger",
+    "brewery": "Forrest Brewing Company",
+    "style": "Hard Ginger Beer",
+    "date": "11/03/15"
+  },
+  {
+    "name": "Schöfferhofer Weizen Kristall",
+    "brewery": "Radeberger Gruppe",
+    "style": "Wheat Beer - Kristallweizen",
+    "date": "10/30/15"
+  },
+  {
+    "name": "Hop Bazooka IPA",
+    "brewery": "Southern Bay Brewery",
+    "style": "IPA - American",
+    "date": "10/30/15"
+  },
+  {
+    "name": "Big Love Suburban Pale",
+    "brewery": "Boatrocker Brewers & Distillers",
+    "style": "Pale Ale - Australian",
+    "date": "10/25/15"
+  },
+  {
+    "name": "American Pale Ale",
+    "brewery": "Kooinda Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "10/25/15"
+  },
+  {
+    "name": "American Amber",
+    "brewery": "Grizz Brew",
+    "style": "Red Ale - American Amber / Red",
+    "date": "10/25/15"
+  },
+  {
+    "name": "Sunset Ale",
+    "brewery": "Two Birds Brewing",
+    "style": "Red Ale - American Amber / Red",
+    "date": "10/23/15"
+  },
+  {
+    "name": "Nail Red Ale",
+    "brewery": "Nail Brewing Australia",
+    "style": "Red Ale - American Amber / Red",
+    "date": "10/22/15"
+  },
+  {
+    "name": "Amber",
+    "brewery": "Abita Brewing Company",
+    "style": "Lager - American Amber / Red",
+    "date": "10/18/15"
+  },
+  {
+    "name": "KAIJU! Robohop ",
+    "brewery": "KAIJU! Beer",
+    "style": "IPA - American",
+    "date": "10/16/15"
+  },
+  {
+    "name": "Pearl River Beer",
+    "brewery": "Guangzhou Zhujiang Brewery Group Co Ltd",
+    "style": "Lager - Pale",
+    "date": "10/16/15"
+  },
+  { "name": "Überbräu", "brewery": "Überbräu", "style": "Lager - Pale", "date": "10/07/15" },
+  {
+    "name": "Mocha Porter",
+    "brewery": "Rogue Ales",
+    "style": "Porter - Coffee",
+    "date": "09/30/15"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Epic Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "09/30/15"
+  },
+  {
+    "name": "Super Bock",
+    "brewery": "Super Bock Group",
+    "style": "Lager - Pale",
+    "date": "09/30/15"
+  },
+  {
+    "name": "Furphy",
+    "brewery": "Little Creatures Brewing",
+    "style": "Kölsch",
+    "date": "09/29/15"
+  },
+  {
+    "name": "Monteith's American Pale Ale",
+    "brewery": "Monteith's Brewing Co. ",
+    "style": "Pale Ale - American",
+    "date": "09/11/15"
+  },
+  { "name": "VALE Lager", "brewery": "Vale Brewing", "style": "Lager - Pale", "date": "09/09/15" },
+  {
+    "name": "Black & Tan",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Black & Tan",
+    "date": "09/09/15"
+  },
+  {
+    "name": "Silver Bottle",
+    "brewery": "Ginga Kogen Beer Co.",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "09/05/15"
+  },
+  {
+    "name": "Stand Up Pilsner",
+    "brewery": "Hawthorn Brewing Co.",
+    "style": "Pilsner - Czech",
+    "date": "09/04/15"
+  },
+  {
+    "name": "Kellerbier",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Kellerbier / Zwickelbier",
+    "date": "09/04/15"
+  },
+  {
+    "name": "Pacific Ale",
+    "brewery": "Stone & Wood",
+    "style": "Pale Ale - Australian",
+    "date": "09/04/15"
+  },
+  {
+    "name": "WHOA! - Wet Hopped Oatmeal Ale",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Golden Ale",
+    "date": "09/01/15"
+  },
+  {
+    "name": "Mirboo Madness",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Red Ale - American Amber / Red",
+    "date": "09/01/15"
+  },
+  {
+    "name": "Los Portales Dark",
+    "brewery": "Cervecería Mexicana",
+    "style": "Dark Ale",
+    "date": "08/30/15"
+  },
+  {
+    "name": "Yenda Red Mid",
+    "brewery": "Australian Beer Co.",
+    "style": "Pale Ale - Australian",
+    "date": "08/30/15"
+  },
+  { "name": "Gold Ale", "brewery": "Sample Brew", "style": "Golden Ale", "date": "08/23/15" },
+  {
+    "name": "Pale Ale",
+    "brewery": "Sample Brew",
+    "style": "Pale Ale - American",
+    "date": "08/23/15"
+  },
+  {
+    "name": "Angry Boy Brown Ale",
+    "brewery": "Baird Brewing Company",
+    "style": "Brown Ale - American",
+    "date": "08/22/15"
+  },
+  {
+    "name": "Blonde Brunette",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Wheat Beer - Dunkelweizen",
+    "date": "08/16/15"
+  },
+  {
+    "name": "Go Figa!",
+    "brewery": "Grand Ridge Brewery",
+    "style": "Hard Ginger Beer",
+    "date": "08/16/15"
+  },
+  {
+    "name": "Amber Ale",
+    "brewery": "Hawthorn Brewing Co.",
+    "style": "Red Ale - Other",
+    "date": "08/14/15"
+  },
+  {
+    "name": "All Day IPA",
+    "brewery": "Founders Brewing Co.",
+    "style": "IPA - Session",
+    "date": "08/14/15"
+  },
+  {
+    "name": "Mahou Cinco Estrellas",
+    "brewery": "Grupo Mahou-San Miguel",
+    "style": "Lager - Pale",
+    "date": "08/08/15"
+  },
+  {
+    "name": "Cristal (2003-2017)",
+    "brewery": "Cervecería y Maltería Quilmes",
+    "style": "Lager - American",
+    "date": "07/31/15"
+  },
+  {
+    "name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "style": "Pilsner - Czech",
+    "date": "07/31/15"
+  },
+  {
+    "name": "Inedit Damm",
+    "brewery": "Damm",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "07/26/15"
+  },
+  {
+    "name": "Vintage Ale (2013)",
+    "brewery": "Batemans",
+    "style": "Barleywine - English",
+    "date": "07/25/15"
+  },
+  {
+    "name": "Henninger Premium Lager",
+    "brewery": "Radeberger Gruppe",
+    "style": "Lager - Helles",
+    "date": "07/24/15"
+  },
+  {
+    "name": "Monteith's Black Beer",
+    "brewery": "Monteith's Brewing Co. ",
+    "style": "Lager - Dark",
+    "date": "07/24/15"
+  },
+  {
+    "name": "Taxi",
+    "brewery": "2 Brothers Brewery ",
+    "style": "Pilsner - German",
+    "date": "07/19/15"
+  },
+  {
+    "name": "Kolsch - Golden Ale",
+    "brewery": "Red Hill Brewery",
+    "style": "Kölsch",
+    "date": "07/19/15"
+  },
+  { "name": "Pilsner", "brewery": "Hawkers Beer", "style": "Pilsner - German", "date": "07/18/15" },
+  {
+    "name": "Bantam Session India Pale Ale",
+    "brewery": "Two Birds Brewing",
+    "style": "IPA - Session",
+    "date": "07/18/15"
+  },
+  {
+    "name": "Modestly Amused English Mild",
+    "brewery": "Kettle Green Brewing Co.",
+    "style": "Mild - Other",
+    "date": "07/18/15"
+  },
+  {
+    "name": "Imperial Stout",
+    "brewery": "Red Hill Brewery",
+    "style": "Stout - Imperial / Double",
+    "date": "07/18/15"
+  },
+  {
+    "name": "Belgian White",
+    "brewery": "Blue Moon Brewing Company",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "07/17/15"
+  },
+  {
+    "name": "My Wife's Bitter",
+    "brewery": "Burleigh Brewing Co.",
+    "style": "English Bitter",
+    "date": "07/13/15"
+  },
+  {
+    "name": "Unfiltered Lager",
+    "brewery": "Blackman's Brewery",
+    "style": "Kellerbier / Zwickelbier",
+    "date": "07/13/15"
+  },
+  {
+    "name": "Southern Ocean Ale",
+    "brewery": "Southern Bay Brewery",
+    "style": "Pale Ale - American",
+    "date": "07/13/15"
+  },
+  {
+    "name": "Requiem Pilsner",
+    "brewery": "Southern Bay Brewery",
+    "style": "Pilsner - Other",
+    "date": "07/13/15"
+  },
+  {
+    "name": "James Squire Hop Thief 7",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Pale Ale - American",
+    "date": "07/10/15"
+  },
+  {
+    "name": "Thomas Cooper's Selection: Celebration Ale",
+    "brewery": "Coopers",
+    "style": "Red Ale - American Amber / Red",
+    "date": "07/10/15"
+  },
+  {
+    "name": "Return of the Dread",
+    "brewery": "Little Creatures Brewing",
+    "style": "Stout - Foreign / Export",
+    "date": "06/28/15"
+  },
+  {
+    "name": "Ghost of Eyre",
+    "brewery": "Steamrail Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "06/26/15"
+  },
+  {
+    "name": "Monteith's Doppelbock Winter Ale",
+    "brewery": "Monteith's Brewing Co. ",
+    "style": "Bock - Doppelbock",
+    "date": "06/26/15"
+  },
+  {
+    "name": "2 Sorelle Agricola Bionda",
+    "brewery": "Birrificio 2 Sorelle",
+    "style": "Belgian Blonde",
+    "date": "06/26/15"
+  },
+  {
+    "name": "Hightail Ale",
+    "brewery": "Mountain Goat Beer",
+    "style": "Red Ale - American Amber / Red",
+    "date": "06/24/15"
+  },
+  {
+    "name": "The Local Australian IPA",
+    "brewery": "Hawthorn Brewing Co.",
+    "style": "IPA - International",
+    "date": "06/19/15"
+  },
+  {
+    "name": "Doss Blockos Pale Lager",
+    "brewery": "East 9th Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "06/19/15"
+  },
+  {
+    "name": "Alhambra Reserva 1925",
+    "brewery": "Grupo Cervezas Alhambra",
+    "style": "Lager - Strong",
+    "date": "06/12/15"
+  },
+  {
+    "name": "Pale",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "Pale Ale - American",
+    "date": "06/05/15"
+  },
+  {
+    "name": "Orion Premium Draft",
+    "brewery": "Orion Breweries, Ltd.",
+    "style": "Lager - Japanese Rice",
+    "date": "06/05/15"
+  },
+  { "name": "Pale Ale", "brewery": "Wilde Beer", "style": "Gluten-Free", "date": "05/30/15" },
+  { "name": "VALE Dark", "brewery": "Vale Brewing", "style": "Lager - Dark", "date": "05/29/15" },
+  { "name": "Hunter Kolsch", "brewery": "Hunter Beer Co", "style": "Kölsch", "date": "05/29/15" },
+  {
+    "name": "Ferrari Rocher - B20",
+    "brewery": "Bacchus Brewing Co.",
+    "style": "Specialty Grain",
+    "date": "05/24/15"
+  },
+  {
+    "name": "Great White",
+    "brewery": "Lost Coast Brewery",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "05/23/15"
+  },
+  {
+    "name": "Knappstein Reserve Lager",
+    "brewery": "Knappstein Enterprise Winery & Brewery",
+    "style": "Lager - Pale",
+    "date": "05/23/15"
+  },
+  {
+    "name": "Alpha Pale Ale",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "05/23/15"
+  },
+  {
+    "name": "Ruby Tuesday",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Red Ale - American Amber / Red",
+    "date": "05/23/15"
+  },
+  {
+    "name": "Carlton Draught Unpasteurised",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "05/23/15"
+  },
+  {
+    "name": "James Squire Four Wives",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Pilsner - Other",
+    "date": "05/22/15"
+  },
+  {
+    "name": "Brown",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "Brown Ale - English",
+    "date": "05/22/15"
+  },
+  {
+    "name": "Session Pale Ale",
+    "brewery": "Moa Brewing Company",
+    "style": "Pale Ale - New Zealand",
+    "date": "05/22/15"
+  },
+  {
+    "name": "Pilsen Callao",
+    "brewery": "Unión de Cervecerías Peruanas Backus y Johnston",
+    "style": "Pilsner - German",
+    "date": "05/11/15"
+  },
+  { "name": "Dark Ale", "brewery": "Moo Brew", "style": "Dark Ale", "date": "05/08/15" },
+  {
+    "name": "Yenda Pale Ale",
+    "brewery": "Australian Beer Co.",
+    "style": "Pale Ale - Australian",
+    "date": "05/08/15"
+  },
+  {
+    "name": "Holgate's 15th Birthday White Ale",
+    "brewery": "Holgate Brewhouse",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "05/02/15"
+  },
+  {
+    "name": "Venusian Pale Ale",
+    "brewery": "Garage Project",
+    "style": "Pale Ale - New Zealand",
+    "date": "05/02/15"
+  },
+  {
+    "name": "Crown Golden Ale",
+    "brewery": "Carlton & United Breweries",
+    "style": "Golden Ale",
+    "date": "05/02/15"
+  },
+  {
+    "name": "Queen of the Night",
+    "brewery": "Cervecería Mexicana",
+    "style": "Pale Ale - American",
+    "date": "05/01/15"
+  },
+  {
+    "name": "Radeberger Pilsner",
+    "brewery": "Radeberger Gruppe",
+    "style": "Pilsner - German",
+    "date": "05/01/15"
+  },
+  { "name": "Moritz", "brewery": "Moritz", "style": "Lager - Pale", "date": "04/26/15" },
+  {
+    "name": "Saison",
+    "brewery": "La Sirène Brewing",
+    "style": "Farmhouse Ale - Saison",
+    "date": "04/25/15"
+  },
+  {
+    "name": "Nut Brown Ale",
+    "brewery": "Samuel Smith",
+    "style": "Brown Ale - English",
+    "date": "04/25/15"
+  },
+  {
+    "name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "style": "IPA - American",
+    "date": "04/25/15"
+  },
+  {
+    "name": "Warka Strong / Premium / High Quality Beer",
+    "brewery": "Browar Warka",
+    "style": "Lager - Strong",
+    "date": "04/25/15"
+  },
+  {
+    "name": "IPA",
+    "brewery": "Mornington Peninsula Brewery",
+    "style": "IPA - American",
+    "date": "04/24/15"
+  },
+  {
+    "name": "Castello Premium",
+    "brewery": "Birra Castello",
+    "style": "Lager - Pale",
+    "date": "04/22/15"
+  },
+  {
+    "name": "Astor Ale",
+    "brewery": "Mildura Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "04/20/15"
+  },
+  {
+    "name": "Kellerweis",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "04/18/15"
+  },
+  {
+    "name": "Angry Man Pale Ale",
+    "brewery": "Murray's Brewing Co",
+    "style": "Pale Ale - American",
+    "date": "04/18/15"
+  },
+  {
+    "name": "Modelo Especial",
+    "brewery": "Grupo Modelo",
+    "style": "Lager - American",
+    "date": "04/17/15"
+  },
+  {
+    "name": "Ichnusa Anima Sarda",
+    "brewery": "Ichnusa",
+    "style": "Lager - Pale",
+    "date": "04/12/15"
+  },
+  {
+    "name": "Koshihikari Echigo Beer (こしひかり越後ビール)",
+    "brewery": "Echigo Beer Co., Ltd.",
+    "style": "Lager - Japanese Rice",
+    "date": "04/09/15"
+  },
+  {
+    "name": "Scarecrow Organic",
+    "brewery": "Wychwood Brewery",
+    "style": "Pale Ale - English",
+    "date": "04/04/15"
+  },
+  { "name": "Spotted Ale", "brewery": "Prickly Moses", "style": "Golden Ale", "date": "04/04/15" },
+  {
+    "name": "Landlord",
+    "brewery": "Timothy Taylor's Brewery",
+    "style": "Pale Ale - English",
+    "date": "04/04/15"
+  },
+  {
+    "name": "Super Crisp Lager",
+    "brewery": "Great Northern Brewing Co.",
+    "style": "Lager - American",
+    "date": "04/02/15"
+  },
+  {
+    "name": "James Squire The Constable",
+    "brewery": "Malt Shovel Brewery",
+    "style": "English Bitter",
+    "date": "04/01/15"
+  },
+  {
+    "name": "New Norcia Abbey Ale",
+    "brewery": "Mash Brewing",
+    "style": "Belgian Strong Golden Ale",
+    "date": "04/01/15"
+  },
+  {
+    "name": "Brewsvegas (2015)",
+    "brewery": "Green Beacon ",
+    "style": "Pale Ale - Australian",
+    "date": "04/01/15"
+  },
+  {
+    "name": "The Old Persuader",
+    "brewery": "The Mash Collective",
+    "style": "Bock - Single / Traditional",
+    "date": "04/01/15"
+  },
+  {
+    "name": "NZ Pure Lager",
+    "brewery": "Boundary Road Brewery",
+    "style": "Lager - Pale",
+    "date": "04/01/15"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "White Rabbit",
+    "style": "Pale Ale - Belgian",
+    "date": "04/01/15"
+  },
+  { "name": "Summer Ale", "brewery": "Prickly Moses", "style": "Golden Ale", "date": "03/22/15" },
+  {
+    "name": "Otway Pale Ale",
+    "brewery": "Prickly Moses",
+    "style": "Pale Ale - International",
+    "date": "03/22/15"
+  },
+  {
+    "name": "ChainSAW",
+    "brewery": "Prickly Moses",
+    "style": "Australian Sparkling Ale",
+    "date": "03/22/15"
+  },
+  { "name": "Praga Dark Lager", "brewery": "Praga", "style": "Lager - Dark", "date": "03/18/15" },
+  {
+    "name": "Elephant",
+    "brewery": "Carlsberg Group",
+    "style": "Lager - Strong",
+    "date": "03/11/15"
+  },
+  {
+    "name": "Pacífico Clara",
+    "brewery": "Grupo Modelo",
+    "style": "Lager - American",
+    "date": "03/11/15"
+  },
+  { "name": "Leggera", "brewery": "Birra Peroni", "style": "Lager - Pale", "date": "03/03/15" },
+  {
+    "name": "Itchy Green Pants (I.G.P)",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Pale Ale - Australian",
+    "date": "02/28/15"
+  },
+  {
+    "name": "Brunswick Bitter",
+    "brewery": "Thunder Road Brewing Company",
+    "style": "Australian Sparkling Ale",
+    "date": "02/28/15"
+  },
+  {
+    "name": "Cisk Lager",
+    "brewery": "Simonds Farsons Cisk",
+    "style": "Lager - Pale",
+    "date": "02/21/15"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Thunder Road Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "02/20/15"
+  },
+  {
+    "name": "William's Organic Pale Ale",
+    "brewery": "William Bull Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "02/20/15"
+  },
+  {
+    "name": "Session Ale",
+    "brewery": "Matso's Broome Brewery",
+    "style": "Pale Ale - American",
+    "date": "02/20/15"
+  },
+  {
+    "name": "Ranga Premium Red Ale",
+    "brewery": "Ranga Brewing Co.",
+    "style": "Red Ale - American Amber / Red",
+    "date": "02/20/15"
+  },
+  {
+    "name": "James Squire Hop Thief (2012 - prior)",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Pale Ale - American",
+    "date": "02/11/15"
+  },
+  {
+    "name": "Burleigh 28",
+    "brewery": "Burleigh Brewing Co.",
+    "style": "Pale Ale - American",
+    "date": "02/02/15"
+  },
+  {
+    "name": "Birra Messina",
+    "brewery": "Heineken (Italia)",
+    "style": "Lager - Pale",
+    "date": "01/31/15"
+  },
+  {
+    "name": "Birra Moretti L'Autentica / Ricetta Originale",
+    "brewery": "Birra Moretti",
+    "style": "Lager - Pale",
+    "date": "01/31/15"
+  },
+  {
+    "name": "Mt. Macedon Pale Ale",
+    "brewery": "Holgate Brewhouse",
+    "style": "Pale Ale - Australian",
+    "date": "01/29/15"
+  },
+  {
+    "name": "Draught",
+    "brewery": "4 Pines Brewing Company",
+    "style": "Kölsch",
+    "date": "01/29/15"
+  },
+  {
+    "name": "The Gold Digger",
+    "brewery": "Steamrail Brewing Company",
+    "style": "Golden Ale",
+    "date": "01/25/15"
+  },
+  { "name": "Summer Dry Lager", "brewery": "Metcash", "style": "Lager - Pale", "date": "01/25/15" },
+  {
+    "name": "3 MONTS",
+    "brewery": "Brasserie 3 MONTS",
+    "style": "Farmhouse Ale - Other",
+    "date": "01/24/15"
+  },
+  {
+    "name": "Fortitude Original Golden Ale",
+    "brewery": "Fortitude Brewing Company",
+    "style": "Golden Ale",
+    "date": "01/21/15"
+  },
+  {
+    "name": "Franziskaner Premium Weissbier Dunkel",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "style": "Wheat Beer - Dunkelweizen",
+    "date": "01/21/15"
+  },
+  {
+    "name": "Franziskaner Premium Weissbier Naturtrüb",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "01/21/15"
+  },
+  {
+    "name": "Hofbräu Dunkel / Dunkel Gold",
+    "brewery": "Staatliches Hofbräuhaus München",
+    "style": "Lager - Munich Dunkel",
+    "date": "01/21/15"
+  },
+  {
+    "name": "Paulaner Pils / Münchner Pils",
+    "brewery": "Paulaner Brauerei",
+    "style": "Pilsner - German",
+    "date": "01/21/15"
+  },
+  {
+    "name": "Spaten München / Münchner Hell / Premium Lager",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "style": "Lager - Helles",
+    "date": "01/21/15"
+  },
+  {
+    "name": "Paulaner Münchner Hell / Münchner Lager / Original Munich Lager",
+    "brewery": "Paulaner Brauerei",
+    "style": "Lager - Helles",
+    "date": "01/21/15"
+  },
+  { "name": "Mythos", "brewery": "Olympic Brewery", "style": "Lager - Pale", "date": "01/21/15" },
+  {
+    "name": "Organic Pale Ale",
+    "brewery": "Redoak Boutique Beer Cafe",
+    "style": "Pale Ale - English",
+    "date": "01/20/15"
+  },
+  {
+    "name": "Wicked Elf Pale Ale",
+    "brewery": "Wicked Elf Beer",
+    "style": "Pale Ale - American",
+    "date": "01/20/15"
+  },
+  {
+    "name": "Jasper Ale (pre 2017)",
+    "brewery": "Stone & Wood",
+    "style": "Red Ale - Other",
+    "date": "01/20/15"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "style": "Pale Ale - American",
+    "date": "01/19/15"
+  },
+  {
+    "name": "Old Engine Oil",
+    "brewery": "Harviestoun Brewery",
+    "style": "Porter - English",
+    "date": "01/16/15"
+  },
+  {
+    "name": "Kung Foo",
+    "brewery": "2 Brothers Brewery ",
+    "style": "Lager - Japanese Rice",
+    "date": "01/14/15"
+  },
+  {
+    "name": "Valhalla Golden Ale",
+    "brewery": "Kooinda Brewing Company",
+    "style": "Golden Ale",
+    "date": "01/14/15"
+  },
+  {
+    "name": "Nagoya Akamiso Lager (名古屋赤味噌ラガー)",
+    "brewery": "Morita Kinshachi Beer",
+    "style": "Spiced / Herbed Beer",
+    "date": "01/11/15"
+  },
+  { "name": "Ossian", "brewery": "Inveralmond Brewery", "style": "Golden Ale", "date": "01/11/15" },
+  {
+    "name": "Golden Ale",
+    "brewery": "Two Birds Brewing",
+    "style": "Golden Ale",
+    "date": "01/11/15"
+  },
+  {
+    "name": "Maharajah's Premium Lager",
+    "brewery": "Ostindo International PTY Ltd",
+    "style": "Lager - Pale",
+    "date": "01/01/15"
+  },
+  {
+    "name": "Sol",
+    "brewery": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+    "style": "Lager - American",
+    "date": "12/23/14"
+  },
+  {
+    "name": "VALE Ale",
+    "brewery": "Vale Brewing",
+    "style": "Pale Ale - Australian",
+    "date": "12/23/14"
+  },
+  {
+    "name": "Oettinger Pils",
+    "brewery": "Oettinger Brauerei",
+    "style": "Pilsner - German",
+    "date": "12/23/14"
+  },
+  {
+    "name": "Bitburger Premium Pils",
+    "brewery": "Bitburger Brauerei",
+    "style": "Pilsner - German",
+    "date": "12/23/14"
+  },
+  {
+    "name": "Super Dry",
+    "brewery": "Hahn Brewing",
+    "style": "Lager - American",
+    "date": "12/23/14"
+  },
+  {
+    "name": "Minimum Chips",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Lager - Pale",
+    "date": "12/23/14"
+  },
+  {
+    "name": "Burleigh Bighead",
+    "brewery": "Burleigh Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "12/19/14"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "4 Pines Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "12/19/14"
+  },
+  {
+    "name": "Pearlers Pale Ale",
+    "brewery": "Matso's Broome Brewery",
+    "style": "Pale Ale - English",
+    "date": "12/19/14"
+  },
+  {
+    "name": "King's Black Label Premium Pilsner",
+    "brewery": "Impala Distillery & Brewery",
+    "style": "Pilsner - Other",
+    "date": "12/08/14"
+  },
+  {
+    "name": "Kingfisher Ultra",
+    "brewery": "United Breweries",
+    "style": "Lager - Pale",
+    "date": "12/04/14"
+  },
+  {
+    "name": "Haywards 5000 Super Strong Beer",
+    "brewery": "SABMiller India",
+    "style": "Lager - Strong",
+    "date": "12/01/14"
+  },
+  {
+    "name": "Kingfisher Strong",
+    "brewery": "United Breweries",
+    "style": "Lager - Strong",
+    "date": "11/30/14"
+  },
+  {
+    "name": "Inferno",
+    "brewery": "Devans Modern Brewery",
+    "style": "Malt Beer",
+    "date": "11/30/14"
+  },
+  {
+    "name": "Golden Tiger",
+    "brewery": "Mount Everest Brewery",
+    "style": "Lager - Dortmunder / Export",
+    "date": "11/11/14"
+  },
+  {
+    "name": "Nepal Ice Natura",
+    "brewery": "Sungold Brewery (Chaudhary Group)",
+    "style": "Lager - Pale",
+    "date": "11/09/14"
+  },
+  {
+    "name": "Gorkha Beer",
+    "brewery": "Gorkha Brewery",
+    "style": "Lager - Pale",
+    "date": "11/04/14"
+  },
+  {
+    "name": "Commando Super Strong Beer",
+    "brewery": "Himalayan Brewery Limited",
+    "style": "Pilsner - Other",
+    "date": "11/03/14"
+  },
+  {
+    "name": "Nepal Ice Strong",
+    "brewery": "Sungold Brewery (Chaudhary Group)",
+    "style": "Lager - Pale",
+    "date": "11/03/14"
+  },
+  {
+    "name": "Everest Premium Lager Beer Special Limited Edition ",
+    "brewery": "Mount Everest Brewery",
+    "style": "Lager - Pale",
+    "date": "11/03/14"
+  },
+  {
+    "name": "Snow Draft 8.0°P",
+    "brewery": "China Resources Snow Breweries",
+    "style": "Lager - American",
+    "date": "10/31/14"
+  },
+  {
+    "name": "Snow Beer (雪花啤酒)",
+    "brewery": "China Resources Snow Breweries",
+    "style": "Lager - Pale",
+    "date": "10/31/14"
+  },
+  {
+    "name": "Hans Dry Beer 10°",
+    "brewery": "Hans Beer",
+    "style": "Lager - American",
+    "date": "10/20/14"
+  },
+  {
+    "name": "Yanjing 10° Premium",
+    "brewery": "Beijing Yanjing Brewery (北京燕京)",
+    "style": "Lager - American",
+    "date": "10/19/14"
+  },
+  {
+    "name": "Harbin Ice",
+    "brewery": "Harbin Brewing (哈尔滨啤酒)",
+    "style": "Lager - Pale",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Tsingtao Draft Beer 11º (Pure Draft Beer)",
+    "brewery": "Tsingtao (青岛啤酒) Brewery",
+    "style": "Lager - American",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Chang Classic",
+    "brewery": "Thai Beverage PLC",
+    "style": "Lager - Pale",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Chang Beer",
+    "brewery": "Thai Beverage PLC",
+    "style": "Lager - Pale",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Modelo Negra",
+    "brewery": "Grupo Modelo",
+    "style": "Lager - Munich Dunkel",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Cusqueña Dorada / Golden Lager",
+    "brewery": "Unión de Cervecerías Peruanas Backus y Johnston",
+    "style": "Lager - Pale",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Cusqueña Cerveza Malta",
+    "brewery": "Unión de Cervecerías Peruanas Backus y Johnston",
+    "style": "Schwarzbier",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Cusqueña Negra / Dark Lager",
+    "brewery": "Unión de Cervecerías Peruanas Backus y Johnston",
+    "style": "Lager - Dark",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Saranac Adirondack Lager",
+    "brewery": "Saranac Brewery (F.X. Matt Brewing Co.)",
+    "style": "Lager - Amber",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Yanjing Beer",
+    "brewery": "Beijing Yanjing Brewery (北京燕京)",
+    "style": "Lager - Pale",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Gulden Draak 9000 Quadruple",
+    "brewery": "Brouwerij Van Steenberge",
+    "style": "Belgian Quadrupel",
+    "date": "10/15/14"
+  },
+  {
+    "name": "Golden Eagle",
+    "brewery": "Mohan Meakin",
+    "style": "Lager - Pale",
+    "date": "10/09/14"
+  },
+  {
+    "name": "Kloud Original Gravity",
+    "brewery": "Lotte Chilsung Beverage",
+    "style": "Lager - Pale",
+    "date": "10/08/14"
+  },
+  {
+    "name": "Mac's Light",
+    "brewery": "Mac's Brewing",
+    "style": "Lager - Pale",
+    "date": "10/05/14"
+  },
+  {
+    "name": "Moosehead Lager",
+    "brewery": "Moosehead Breweries Limited",
+    "style": "Lager - American",
+    "date": "10/04/14"
+  },
+  {
+    "name": "Hite D Dry Finish",
+    "brewery": "HiteJinro",
+    "style": "Lager - American",
+    "date": "10/03/14"
+  },
+  {
+    "name": "Cass Light",
+    "brewery": "Oriental Brewery",
+    "style": "Lager - Pale",
+    "date": "09/30/14"
+  },
+  {
+    "name": "Cass Lemon",
+    "brewery": "Oriental Brewery",
+    "style": "Shandy / Radler",
+    "date": "09/30/14"
+  },
+  { "name": "Hite", "brewery": "HiteJinro", "style": "Lager - American", "date": "09/29/14" },
+  {
+    "name": "Cafri",
+    "brewery": "Oriental Brewery",
+    "style": "Lager - American Light",
+    "date": "09/28/14"
+  },
+  {
+    "name": "Aleston Black Ale",
+    "brewery": "Oriental Brewery",
+    "style": "Dark Ale",
+    "date": "09/27/14"
+  },
+  {
+    "name": "OB Golden Lager",
+    "brewery": "Oriental Brewery",
+    "style": "Lager - American Light",
+    "date": "09/27/14"
+  },
+  { "name": "Max", "brewery": "HiteJinro", "style": "Lager - Pale", "date": "09/27/14" },
+  {
+    "name": "Black Stout Lager Type",
+    "brewery": "HiteJinro",
+    "style": "Lager - Dark",
+    "date": "09/27/14"
+  },
+  {
+    "name": "Cass Fresh",
+    "brewery": "Oriental Brewery",
+    "style": "Lager - American",
+    "date": "09/27/14"
+  },
+  {
+    "name": "Mugi to Hop The gold (麦とホップ The gold)",
+    "brewery": "Sapporo Breweries",
+    "style": "Happoshu",
+    "date": "09/24/14"
+  },
+  {
+    "name": "Grand Kirin The Aroma",
+    "brewery": "Kirin Brewery Company",
+    "style": "Golden Ale",
+    "date": "09/24/14"
+  },
+  { "name": "Saigon Special", "brewery": "Sabeco", "style": "Lager - Pale", "date": "09/24/14" },
+  {
+    "name": "333 Premium Export",
+    "brewery": "Sabeco",
+    "style": "Lager - Pale",
+    "date": "09/24/14"
+  },
+  {
+    "name": "Indian Boss Premium Lager Beer",
+    "brewery": "Lilasons",
+    "style": "Lager - American Light",
+    "date": "09/24/14"
+  },
+  {
+    "name": "The Premium Malt's",
+    "brewery": "Suntory Beer Limited",
+    "style": "Pilsner - Other",
+    "date": "09/24/14"
+  },
+  {
+    "name": "Yasumuhi no Alc.0.00% (休むひのAlc.0.00%)",
+    "brewery": "Kirin Brewery Company",
+    "style": "Non-Alcoholic Beer",
+    "date": "09/24/14"
+  },
+  {
+    "name": "Premium Alcohol Free Black",
+    "brewery": "Sapporo Breweries",
+    "style": "Non-Alcoholic Beer",
+    "date": "09/24/14"
+  },
+  {
+    "name": "Asahi Dry Zero",
+    "brewery": "Asahi Breweries",
+    "style": "Non-Alcoholic Beer",
+    "date": "09/23/14"
+  },
+  {
+    "name": "Löwenbräu Original",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "style": "Lager - Helles",
+    "date": "09/21/14"
+  },
+  {
+    "name": "All-Free",
+    "brewery": "Suntory Beer Limited",
+    "style": "Non-Alcoholic Beer",
+    "date": "09/21/14"
+  },
+  {
+    "name": "Kinmugi Rich Malt (金麦)",
+    "brewery": "Suntory Beer Limited",
+    "style": "Happoshu",
+    "date": "09/20/14"
+  },
+  {
+    "name": "Kyoto Bakushu Alt (京都麦酒 アルト)",
+    "brewery": "Kizakura Co.",
+    "style": "Altbier",
+    "date": "09/20/14"
+  },
+  {
+    "name": "James Squire Sundown Lager",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Lager - Pale",
+    "date": "09/20/14"
+  },
+  {
+    "name": "James Squire Stow Away",
+    "brewery": "Malt Shovel Brewery",
+    "style": "IPA - English",
+    "date": "09/20/14"
+  },
+  {
+    "name": "James Squire Nine Tales",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Brown Ale - English",
+    "date": "09/20/14"
+  },
+  {
+    "name": "James Squire The Chancer",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Golden Ale",
+    "date": "09/20/14"
+  },
+  {
+    "name": "James Squire One Fifty Lashes",
+    "brewery": "Malt Shovel Brewery",
+    "style": "Pale Ale - Australian",
+    "date": "09/20/14"
+  },
+  {
+    "name": "Kyoto Bakushu Kölsch (京都麦酒 ケルシュ)",
+    "brewery": "Kizakura Co.",
+    "style": "Kölsch",
+    "date": "09/20/14"
+  },
+  {
+    "name": "Kyoto Bakushu Kura no Kahori (京都麦酒 蔵のかほり)",
+    "brewery": "Kizakura Co.",
+    "style": "Koji / Ginjo Beer",
+    "date": "09/20/14"
+  },
+  { "name": "Pilsner", "brewery": "Miyajima Beer", "style": "Pilsner - Other", "date": "09/15/14" },
+  {
+    "name": "Caramel Blond",
+    "brewery": "Miyajima Beer",
+    "style": "Blonde Ale",
+    "date": "09/15/14"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Miyajima Beer",
+    "style": "Pale Ale - English",
+    "date": "09/15/14"
+  },
+  {
+    "name": "Grand Kirin",
+    "brewery": "Kirin Brewery Company",
+    "style": "Pilsner - Other",
+    "date": "09/14/14"
+  },
+  {
+    "name": "Grand Kirin Mild Rich",
+    "brewery": "Kirin Brewery Company",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "09/13/14"
+  },
+  {
+    "name": "Himeji Beer",
+    "brewery": "Akashi Brewery",
+    "style": "Lager - Dark",
+    "date": "09/13/14"
+  },
+  {
+    "name": "Mitsuboshi Vienna Lager",
+    "brewery": "Morita Kinshachi Beer",
+    "style": "Lager - Vienna",
+    "date": "09/12/14"
+  },
+  {
+    "name": "Hitachino Nest Dai Dai Ale",
+    "brewery": "Kiuchi Brewery",
+    "style": "IPA - English",
+    "date": "09/12/14"
+  },
+  {
+    "name": "Yebisu Ume-tsukiyo",
+    "brewery": "Sapporo Breweries",
+    "style": "Fruit Beer",
+    "date": "09/10/14"
+  },
+  {
+    "name": "Rikyu",
+    "brewery": "Sapporo Breweries",
+    "style": "Lager - American",
+    "date": "09/10/14"
+  },
+  {
+    "name": "Kohaku Yebisu (琥珀ヱビス)",
+    "brewery": "Sapporo Breweries",
+    "style": "Lager - Vienna",
+    "date": "09/10/14"
+  },
+  {
+    "name": "Maredsous Triple / Tripel",
+    "brewery": "Abbaye de Maredsous",
+    "style": "Belgian Tripel",
+    "date": "09/10/14"
+  },
+  { "name": "Kriek", "brewery": "Belle-Vue", "style": "Lambic - Kriek", "date": "09/10/14" },
+  {
+    "name": "Tripel Karmeliet",
+    "brewery": "Brouwerij Bosteels",
+    "style": "Belgian Tripel",
+    "date": "09/10/14"
+  },
+  {
+    "name": "Pauwel Kwak",
+    "brewery": "Brouwerij Bosteels",
+    "style": "Pale Ale - Belgian",
+    "date": "09/10/14"
+  },
+  {
+    "name": "Mitsuboshi Pale Ale",
+    "brewery": "Morita Kinshachi Beer",
+    "style": "Pale Ale - English",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Iwate Kura Oyster Stout",
+    "brewery": "Sekinoichi Shuzo",
+    "style": "Stout - Oyster",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Akiaji (秋味)",
+    "brewery": "Kirin Brewery Company",
+    "style": "Lager - Japanese Rice",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Daidai IPA",
+    "brewery": "Baird Brewing Company",
+    "style": "IPA - American",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Asahi Dry Black",
+    "brewery": "Asahi Breweries",
+    "style": "Lager - Dark",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Ichtegem's Grand Cru",
+    "brewery": "Brouwerij Strubbe",
+    "style": "Sour - Flanders Red Ale",
+    "date": "09/09/14"
+  },
+  {
+    "name": "GBC 10th Anniversary Imperial Oatmeal Stout",
+    "brewery": "Honda Sangyo Inc.",
+    "style": "Stout - Oatmeal",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Swan Lake Amber Swan Ale",
+    "brewery": "Hyouko Yashiki no Mori Brewery",
+    "style": "Red Ale - American Amber / Red",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Oni Densetsu Kin-oni Pale Ale (金鬼ペールエール)",
+    "brewery": "Wakasaimo Honpo",
+    "style": "Pale Ale - American",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Maria Ale",
+    "brewery": "Ise Kadoya Brewery",
+    "style": "Belgian Blonde",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Imperial Red Ale",
+    "brewery": "Ise Kadoya Brewery",
+    "style": "Red Ale - Imperial / Double",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Golden Slumber",
+    "brewery": "Strange Brewing & Lab",
+    "style": "Pale Ale - American",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Aooni (インドの青鬼)",
+    "brewery": "Yo-Ho Brewing Company",
+    "style": "IPA - American",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Yona Yona Ale (よなよなエール)",
+    "brewery": "Yo-Ho Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Tokyo Black (東京ブラック)",
+    "brewery": "Yo-Ho Brewing Company",
+    "style": "Porter - English",
+    "date": "09/09/14"
+  },
+  {
+    "name": "Suiyoubi no Neko (水曜日のネコ)",
+    "brewery": "Yo-Ho Brewing Company",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "09/09/14"
+  },
+  {
+    "name": "San Miguel (5.0%)",
+    "brewery": "Carlsberg UK",
+    "style": "Lager - Pale",
+    "date": "09/07/14"
+  },
+  {
+    "name": "San Miguel Pale Pilsen",
+    "brewery": "San Miguel Brewery",
+    "style": "Pilsner - Other",
+    "date": "09/07/14"
+  },
+  {
+    "name": "Monster C IPA",
+    "brewery": "Nide Beer",
+    "style": "IPA - American",
+    "date": "09/07/14"
+  },
+  {
+    "name": "GBF Smoke Pump Stout",
+    "brewery": "Nide Beer",
+    "style": "Smoked Beer",
+    "date": "09/07/14"
+  },
+  {
+    "name": "North Island Coriander White",
+    "brewery": "SOC Brewing Inc.",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "09/07/14"
+  },
+  {
+    "name": "GBF Endless Brown Ale",
+    "brewery": "Nide Beer",
+    "style": "Brown Ale - English",
+    "date": "09/07/14"
+  },
+  { "name": "Cream Ale", "brewery": "Nide Beer", "style": "Cream Ale", "date": "09/07/14" },
+  {
+    "name": "First Light Golden Ale",
+    "brewery": "Devil's Peak Brewing Company",
+    "style": "Golden Ale",
+    "date": "09/04/14"
+  },
+  {
+    "name": "Monty Python's Holy Grail Ale",
+    "brewery": "Black Sheep",
+    "style": "Golden Ale",
+    "date": "09/02/14"
+  },
+  {
+    "name": "Flying Fish - Crushed Orange",
+    "brewery": "South African Breweries",
+    "style": "Fruit Beer",
+    "date": "09/02/14"
+  },
+  {
+    "name": "Maluti Premium Lager",
+    "brewery": "Maluti Mountain Brewery",
+    "style": "Lager - Pale",
+    "date": "08/31/14"
+  },
+  {
+    "name": "Cambodia Lager",
+    "brewery": "Khmer Brewery",
+    "style": "Lager - American",
+    "date": "08/26/14"
+  },
+  {
+    "name": "Taiwan Beer Classic",
+    "brewery": "Taiwan Tobacco & Liquor Corporation",
+    "style": "Lager - Pale",
+    "date": "08/26/14"
+  },
+  {
+    "name": "Gold Medal Taiwan Beer",
+    "brewery": "Taiwan Tobacco & Liquor Corporation",
+    "style": "Lager - Japanese Rice",
+    "date": "08/26/14"
+  },
+  { "name": "Efes Dark", "brewery": "Anadolu Efes", "style": "Lager - Dark", "date": "08/26/14" },
+  {
+    "name": "Efes Pilsen",
+    "brewery": "Anadolu Efes",
+    "style": "Pilsner - Other",
+    "date": "08/26/14"
+  },
+  {
+    "name": "CBC Amber Weiss",
+    "brewery": "Cape Brewing Co.",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "08/26/14"
+  },
+  {
+    "name": "Brewers Lager",
+    "brewery": "Jack Black's Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "08/26/14"
+  },
+  {
+    "name": "Flying Fish - Pressed Lemon",
+    "brewery": "South African Breweries",
+    "style": "Fruit Beer",
+    "date": "08/25/14"
+  },
+  {
+    "name": "Golden Brau",
+    "brewery": "Heineken Romania",
+    "style": "Pilsner - Other",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Ciuc Premium",
+    "brewery": "Heineken Romania",
+    "style": "Lager - Pale",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Silva Original Pils",
+    "brewery": "Heineken Romania",
+    "style": "Lager - Pale",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Silva Strong Dark Lager",
+    "brewery": "Heineken Romania",
+    "style": "Lager - Dark",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Leffe Triple / Tripel",
+    "brewery": "Abbaye de Leffe",
+    "style": "Belgian Tripel",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Leffe Brune / Bruin",
+    "brewery": "Abbaye de Leffe",
+    "style": "Brown Ale - Belgian",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Leffe Blonde / Blond",
+    "brewery": "Abbaye de Leffe",
+    "style": "Belgian Blonde",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Dos Equis Lager Especial",
+    "brewery": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+    "style": "Lager - American",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Corona Extra",
+    "brewery": "Grupo Modelo",
+    "style": "Lager - American",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Swan Draught",
+    "brewery": "South Australian Brewing Co.",
+    "style": "Lager - Pale",
+    "date": "08/24/14"
+  },
+  { "name": "Draught", "brewery": "West End Brewery", "style": "Lager - Pale", "date": "08/24/14" },
+  {
+    "name": "Bishop's Best",
+    "brewery": "Matso's Broome Brewery",
+    "style": "Lager - Munich Dunkel",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Mango Beer",
+    "brewery": "Matso's Broome Brewery",
+    "style": "Fruit Beer",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Jack Tar Imperial Stout",
+    "brewery": "Sail & Anchor",
+    "style": "Stout - Russian Imperial",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Devil Dodger IPA",
+    "brewery": "Sail & Anchor",
+    "style": "IPA - American",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Bud Light",
+    "brewery": "Anheuser-Busch",
+    "style": "Lager - American Light",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Hoegaarden Wit / Blanche",
+    "brewery": "Brouwerij Hoegaarden",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Newcastle Brown Ale",
+    "brewery": "John Smith's",
+    "style": "Brown Ale - English",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Storm Pale Ale",
+    "brewery": "ALDI Stores Australia",
+    "style": "Pale Ale - Australian",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Tennent's Lager",
+    "brewery": "Tennent's Caledonian Brewery",
+    "style": "Lager - Pale",
+    "date": "08/24/14"
+  },
+  { "name": "Beck's", "brewery": "Brauerei Beck", "style": "Pilsner - German", "date": "08/24/14" },
+  {
+    "name": "Dogbolter Winter Ale",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Dark Ale",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Bohemian Pilsner",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Pilsner - Czech",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Redback Original",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Wheat Beer - Kristallweizen",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Fat Yak",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Pale Ale - American",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Beez Neez",
+    "brewery": "Matilda Bay Brewing Company",
+    "style": "Wheat Beer - Other",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Storm",
+    "brewery": "Mildura Brewery",
+    "style": "Pale Ale - American",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Honey Wheat",
+    "brewery": "Mildura Brewery",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "08/24/14"
+  },
+  { "name": "Kilkenny", "brewery": "Guinness", "style": "Red Ale - Irish", "date": "08/24/14" },
+  {
+    "name": "Windhoek Light",
+    "brewery": "Namibia Breweries",
+    "style": "Lager - American Light",
+    "date": "08/24/14"
+  },
+  {
+    "name": "Lumberjack",
+    "brewery": "Jack Black's Brewing Co.",
+    "style": "Red Ale - American Amber / Red",
+    "date": "08/22/14"
+  },
+  {
+    "name": "Naked Mexican",
+    "brewery": "Boston Breweries",
+    "style": "Lager - Pale",
+    "date": "08/19/14"
+  },
+  {
+    "name": "Erdinger Weißbier / Hefe-Weizen",
+    "brewery": "Erdinger Weissbräu",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "08/12/14"
+  },
+  {
+    "name": "Schöfferhofer Weizen",
+    "brewery": "Radeberger Gruppe",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "08/11/14"
+  },
+  {
+    "name": "Weiss",
+    "brewery": "Camelthorn Breweries",
+    "style": "Wheat Beer - Kristallweizen",
+    "date": "08/11/14"
+  },
+  {
+    "name": "Urbock",
+    "brewery": "Namibia Breweries",
+    "style": "Bock - Single / Traditional",
+    "date": "08/11/14"
+  },
+  {
+    "name": "St Louis Lager Special Light",
+    "brewery": "Kgalagadi Breweries",
+    "style": "Lager - American Light",
+    "date": "08/06/14"
+  },
+  {
+    "name": "St. Louis Premium Export",
+    "brewery": "Kgalagadi Breweries",
+    "style": "Lager - American",
+    "date": "08/06/14"
+  },
+  {
+    "name": "Hansa Pilsener",
+    "brewery": "South African Breweries",
+    "style": "Pilsner - Other",
+    "date": "08/06/14"
+  },
+  {
+    "name": "Tafel Lager",
+    "brewery": "Namibia Breweries",
+    "style": "Lager - Pale",
+    "date": "08/06/14"
+  },
+  {
+    "name": "Ohlsson's Lager",
+    "brewery": "South African Breweries",
+    "style": "Lager - Pale",
+    "date": "07/30/14"
+  },
+  {
+    "name": "Windhoek Draught",
+    "brewery": "Namibia Breweries",
+    "style": "Lager - Pale",
+    "date": "07/30/14"
+  },
+  {
+    "name": "Carling Black Label",
+    "brewery": "South African Breweries",
+    "style": "Lager - Pale",
+    "date": "07/28/14"
+  },
+  {
+    "name": "Guinness Draught",
+    "brewery": "Guinness",
+    "style": "Stout - Irish Dry",
+    "date": "07/27/14"
+  },
+  { "name": "Dark Ale", "brewery": "White Rabbit", "style": "Dark Ale", "date": "07/27/14" },
+  {
+    "name": "Original Pilsner",
+    "brewery": "Little Creatures Brewing",
+    "style": "Pilsner - Other",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Rogers' Beer",
+    "brewery": "Little Creatures Brewing",
+    "style": "Red Ale - American Amber / Red",
+    "date": "07/27/14"
+  },
+  {
+    "name": "White Ale",
+    "brewery": "White Rabbit",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "07/27/14"
+  },
+  {
+    "name": "IPA (India Pale Ale)",
+    "brewery": "Little Creatures Brewing",
+    "style": "IPA - American",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Little Creatures Brewing",
+    "style": "Pale Ale - American",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Boags Bitter Beer",
+    "brewery": "James Boag's",
+    "style": "Pilsner - Other",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Bright Ale",
+    "brewery": "Little Creatures Brewing",
+    "style": "Australian Sparkling Ale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Honey Porter",
+    "brewery": "James Boag's",
+    "style": "Porter - Other",
+    "date": "07/27/14"
+  },
+  {
+    "name": "St. George",
+    "brewery": "James Boag's",
+    "style": "Lager - American",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Classic Blonde",
+    "brewery": "James Boag's",
+    "style": "Lager - American",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Premium Light",
+    "brewery": "James Boag's",
+    "style": "Lager - American Light",
+    "date": "07/27/14"
+  },
+  { "name": "Pure", "brewery": "James Boag's", "style": "Lager - Pale", "date": "07/27/14" },
+  {
+    "name": "Premium Lager",
+    "brewery": "James Boag's",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  { "name": "Draught", "brewery": "James Boag's", "style": "Lager - Pale", "date": "07/27/14" },
+  {
+    "name": "Cascade Blonde",
+    "brewery": "Cascade Brewery Co",
+    "style": "Blonde Ale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Spring Fest",
+    "brewery": "Cascade Brewery Co",
+    "style": "Lager - Helles",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cascade Amber Ale",
+    "brewery": "Cascade Brewery Co",
+    "style": "Brown Ale - English",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cascade Pure",
+    "brewery": "Cascade Brewery Co",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cascade Draught",
+    "brewery": "Cascade Brewery Co",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Bright Ale",
+    "brewery": "Cascade Brewery Co",
+    "style": "Pale Ale - Australian",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cascade Premium Lager",
+    "brewery": "Cascade Brewery Co",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cascade Green",
+    "brewery": "Cascade Brewery Co",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cascade Premium Light",
+    "brewery": "Cascade Brewery Co",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Premium Light",
+    "brewery": "Coopers",
+    "style": "Lager - American Light",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cooper's Special Old Stout",
+    "brewery": "Coopers",
+    "style": "Stout - Other",
+    "date": "07/27/14"
+  },
+  { "name": "Dark Ale", "brewery": "Coopers", "style": "Brown Ale - English", "date": "07/27/14" },
+  {
+    "name": "Sparkling Ale",
+    "brewery": "Coopers",
+    "style": "Australian Sparkling Ale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Coopers 62 Pilsner",
+    "brewery": "Coopers",
+    "style": "Pilsner - Czech",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Original Pale Ale",
+    "brewery": "Coopers",
+    "style": "Pale Ale - Australian",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Light Ice",
+    "brewery": "Foster's Group",
+    "style": "Lager - American Light",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Pure Blonde Premium Mid",
+    "brewery": "Foster's Group",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Cold Filtered",
+    "brewery": "Foster's Group",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Foster's Lager",
+    "brewery": "Foster's Group",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  { "name": "Pils", "brewery": "Tooheys Brewing", "style": "Pilsner - Czech", "date": "07/27/14" },
+  { "name": "Old", "brewery": "Tooheys Brewing", "style": "Dark Ale", "date": "07/27/14" },
+  { "name": "Ice", "brewery": "Tooheys Brewing", "style": "Lager - Pale", "date": "07/27/14" },
+  {
+    "name": "Extra Dry (TED)",
+    "brewery": "Tooheys Brewing",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  { "name": "New", "brewery": "Tooheys Brewing", "style": "Lager - Pale", "date": "07/27/14" },
+  {
+    "name": "Extra Dry Platinum",
+    "brewery": "Tooheys Brewing",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "XXXX Gold",
+    "brewery": "Castlemaine Perkins",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Mosi Gold Export Lager",
+    "brewery": "Zambian Breweries",
+    "style": "Lager - Pale",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Chibuku Shake Shake",
+    "brewery": "Delta Breweries",
+    "style": "Specialty Grain",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Mosi Lager",
+    "brewery": "Zambian Breweries",
+    "style": "Lager - American",
+    "date": "07/27/14"
+  },
+  {
+    "name": "Kuche Kuche",
+    "brewery": "Carlsberg Group",
+    "style": "Pilsner - Other",
+    "date": "07/21/14"
+  },
+  {
+    "name": "Special Brew",
+    "brewery": "Carlsberg Group",
+    "style": "Pilsner - Imperial / Double",
+    "date": "07/21/14"
+  },
+  { "name": "Stout", "brewery": "Carlsberg Malawi", "style": "Stout - Other", "date": "07/21/14" },
+  {
+    "name": "Carlsberg Chill",
+    "brewery": "Carlsberg Malawi",
+    "style": "Lager - Pale",
+    "date": "07/17/14"
+  },
+  {
+    "name": "Miller Genuine Draft",
+    "brewery": "Miller Brewing Company",
+    "style": "Lager - American",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Tsingtao Draft",
+    "brewery": "Tsingtao (青岛啤酒) Brewery",
+    "style": "Lager - Pale",
+    "date": "07/14/14"
+  },
+  { "name": "1664", "brewery": "Kronenbourg Brewery", "style": "Lager - Pale", "date": "07/14/14" },
+  { "name": "Heineken", "brewery": "Heineken", "style": "Lager - Pale", "date": "07/14/14" },
+  {
+    "name": "Heineken Light",
+    "brewery": "Heineken",
+    "style": "Lager - American Light",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Carlsberg",
+    "brewery": "Carlsberg Group",
+    "style": "Lager - Pale",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Tuborg Guld/Gold",
+    "brewery": "Carlsberg Group",
+    "style": "Lager - Pale",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Tuborg Grøn",
+    "brewery": "Carlsberg Group",
+    "style": "Pilsner - Other",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Pilsner Urquell",
+    "brewery": "Plzeňský Prazdroj",
+    "style": "Pilsner - Czech",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Grolsch Premium Lager",
+    "brewery": "Koninklijke Grolsch",
+    "style": "Pilsner - Other",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Peroni Original",
+    "brewery": "Birra Peroni",
+    "style": "Lager - Pale",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Nastro Azzurro",
+    "brewery": "Birra Peroni",
+    "style": "Lager - Pale",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Stella Artois",
+    "brewery": "Stella Artois",
+    "style": "Pilsner - Other",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Kingfisher Premium Lager",
+    "brewery": "United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Yebisu Premium Black",
+    "brewery": "Sapporo Breweries",
+    "style": "Schwarzbier",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Silk Yebisu",
+    "brewery": "Sapporo Breweries",
+    "style": "Lager - Dortmunder / Export",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Lager",
+    "brewery": "Kirin Brewery Company",
+    "style": "Lager - Japanese Rice",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Shikkoku",
+    "brewery": "Kyodo Shoji Coedo Brewery",
+    "style": "Lager - Dark",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Kyara",
+    "brewery": "Kyodo Shoji Coedo Brewery",
+    "style": "Lager - IPL (India Pale Lager)",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Coedo Beniaka (-2014)",
+    "brewery": "Kyodo Shoji Coedo Brewery",
+    "style": "Red Ale - American Amber / Red",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Shiro",
+    "brewery": "Kyodo Shoji Coedo Brewery",
+    "style": "Wheat Beer - Hefeweizen",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Sapporo Premium Beer",
+    "brewery": "Sapporo Breweries",
+    "style": "Lager - Pale",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Ruri",
+    "brewery": "Kyodo Shoji Coedo Brewery",
+    "style": "Pilsner - Other",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Honnama Draft (本生)",
+    "brewery": "Asahi Breweries",
+    "style": "Happoshu",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Asahi Super Dry",
+    "brewery": "Asahi Breweries",
+    "style": "Lager - Japanese Rice",
+    "date": "07/14/14"
+  },
+  {
+    "name": "Tiger Radler",
+    "brewery": "Heineken Asia Pacific",
+    "style": "Shandy / Radler",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Anchor Smooth",
+    "brewery": "Heineken Asia Pacific",
+    "style": "Pilsner - Other",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Tiger",
+    "brewery": "Heineken Asia Pacific",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Carlton Light",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "NT Draught",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Reschs Real Bitter Beer",
+    "brewery": "Carlton & United Breweries",
+    "style": "Pale Ale - Australian",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Pure Blonde Ultra Low Carb",
+    "brewery": "Foster's Group",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Natural Blonde",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "VB Gold",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Carlton Black",
+    "brewery": "Carlton & United Breweries",
+    "style": "Dark Ale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Carlton Cold",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - American",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Carlton Midstrength",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - American",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Melbourne Bitter",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Carlton Dry",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Carlton Draught",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Victoria Bitter (VB)",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Crown Lager",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Carlton Sterling",
+    "brewery": "Carlton & United Breweries",
+    "style": "Lager - American",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Castle Lite",
+    "brewery": "South African Breweries",
+    "style": "Lager - American Light",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Tusker Lager",
+    "brewery": "Kenya Breweries Limited",
+    "style": "Lager - Pale",
+    "date": "07/13/14"
+  },
+  {
+    "name": "Club Pilsener",
+    "brewery": "Nile Breweries",
+    "style": "Pilsner - Other",
+    "date": "07/11/14"
+  },
+  { "name": "Nile Gold", "brewery": "Nile Breweries", "style": "Malt Beer", "date": "07/11/14" },
+  {
+    "name": "Nile Special",
+    "brewery": "Nile Breweries",
+    "style": "Lager - Pale",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Bell Lager",
+    "brewery": "Uganda Breweries Limited",
+    "style": "Lager - Pale",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Virunga Mist",
+    "brewery": "Brasserie des Mille Collines",
+    "style": "Schwarzbier",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Primus",
+    "brewery": "Brouwerij Haacht Brasserie",
+    "style": "Lager - Pale",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Serengeti Premium Lager",
+    "brewery": "Serengeti Breweries Ltd",
+    "style": "Lager - Pale",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Safari Lager",
+    "brewery": "Tanzania Breweries",
+    "style": "Pilsner - Other",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Kilimanjaro Premium Lager",
+    "brewery": "Tanzania Breweries",
+    "style": "Lager - Pale",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Ndovu Special Malt",
+    "brewery": "Tanzania Breweries",
+    "style": "Lager - Pale",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Castle Lager",
+    "brewery": "South African Breweries",
+    "style": "Lager - Pale",
+    "date": "07/11/14"
+  },
+  {
+    "name": "Castle Milk Stout",
+    "brewery": "South African Breweries",
+    "style": "Stout - Milk / Sweet",
+    "date": "07/11/14"
+  }
+]
