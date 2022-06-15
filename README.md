@@ -3,7 +3,7 @@
 These scripts are finding new beers from your local beershop. You need to have two things be true for this to work:
 
 1. You record your unique beers in untappd
-2. You consider "new beers" being beers from a **style** you've not had before
+2. You consider "new beers" being beers from a **style** you've not had before. There are 224 different styles of beer on untappd but it's really hard to see how a beer is classified just by looking at the can.
 3. Your local puts their beers on untappd too
 4. You're comfortable with some JS scripting.
 
