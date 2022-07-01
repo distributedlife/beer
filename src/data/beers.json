@@ -1,5 +1,101 @@
 [
   {
+    "name": "Into The 'Wood: Monk’s Tipple",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Belgian Tripel",
+    "date": "06/28/22"
+  },
+  {
+    "name": "Lobo Trad",
+    "brewery": "Lobo Juice and Cider Pty Ltd",
+    "style": "Cider - Traditional / Apfelwein",
+    "date": "06/28/22"
+  },
+  {
+    "name": "La Trappe Tripel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "style": "Belgian Tripel",
+    "date": "06/26/22"
+  },
+  {
+    "name": "Into The 'Wood: De Bollekes",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Pale Ale - Belgian",
+    "date": "06/25/22"
+  },
+  {
+    "name": "Into The'Wood: Bonnet Rouge Framboise-Witbier",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "06/24/22"
+  },
+  {
+    "name": "Wieken & Krieken",
+    "brewery": "Brouwerij de Molen",
+    "style": "Barleywine - Other",
+    "date": "06/19/22"
+  },
+  {
+    "name": "La Trappe Witte Trappist",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "06/19/22"
+  },
+  {
+    "name": "La Trappe Isid'or",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "style": "Belgian Strong Golden Ale",
+    "date": "06/19/22"
+  },
+  {
+    "name": "Kriek Boon (2020)",
+    "brewery": "Brouwerij Boon",
+    "style": "Lambic - Kriek",
+    "date": "06/19/22"
+  },
+  {
+    "name": "Into The 'Wood: Chai and Chai Again",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Belgian Dubbel",
+    "date": "06/18/22"
+  },
+  {
+    "name": "Gettin' Juicy Wit-It",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "06/18/22"
+  },
+  {
+    "name": "Doppelbock",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Bock - Doppelbock",
+    "date": "06/18/22"
+  },
+  {
+    "name": "Hanging Rauch",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Rauchbier",
+    "date": "06/18/22"
+  },
+  {
+    "name": "Piney Radler",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Shandy / Radler",
+    "date": "06/18/22"
+  },
+  {
+    "name": "Deep Fake",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Sour - Fruited",
+    "date": "06/18/22"
+  },
+  {
+    "name": "Raspberry Smash",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Sour - Fruited",
+    "date": "06/16/22"
+  },
+  {
     "name": "Where Is the Lava?",
     "brewery": "The Bruery Terreux",
     "style": "Sour - Other",
