@@ -1,5 +1,1820 @@
 [
   {
+    "name": "2. Director’s Cut NEPA",
+    "brewery": "Two Rupees Brewing Company",
+    "style": "Pale Ale - New England / Hazy",
+    "prices": [
+      { "size": "150ml", "price": "5.00 AUD" },
+      { "size": "Pot", "price": "8.00 AUD" },
+      { "size": "Schooner", "price": "11.50 AUD" },
+      { "size": "1L Takeaway", "price": "21.00 AUD" }
+    ]
+  },
+  {
+    "name": "Salt Water Stout Porter #4 Barrel Aged",
+    "brewery": "Loophole Brewing Co",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "18.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "61.00 AUD" }
+    ]
+  },
+  {
+    "name": "9. Wild Mango Sour",
+    "brewery": "Ida Pruul ",
+    "style": "Wild Ale - Other",
+    "prices": [
+      { "size": "150ml", "price": "7.00 AUD" },
+      { "size": "Pot", "price": "11.00 AUD" },
+      { "size": "Schooner", "price": "16.50 AUD" },
+      { "size": "1L Takeaway", "price": "31.00 AUD" }
+    ]
+  },
+  {
+    "name": "10. The Renegade",
+    "brewery": "Co-Conspirators Brewing Company",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "150ml", "price": "5.00 AUD" },
+      { "size": "Pot", "price": "7.50 AUD" },
+      { "size": "Schooner", "price": "11.50 AUD" },
+      { "size": "1L Takeaway", "price": "21.00 AUD" },
+      { "size": "355ml Can", "price": "7.00 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "23.00 AUD" }
+    ]
+  },
+  {
+    "name": "Just Another IPA: Citra + Motueka",
+    "brewery": "Blackman's Brewery",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "500ml Can", "price": "11.50 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "39.00 AUD" }
+    ]
+  },
+  {
+    "name": "Single Origin Coffee Stout",
+    "brewery": "Hargreaves Hill",
+    "style": "Stout - Foreign / Export",
+    "prices": [
+      { "size": "440ml Can", "price": "9.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "32.00 AUD" }
+    ]
+  },
+  {
+    "name": "Red Vienna Lager",
+    "brewery": "Hargreaves Hill",
+    "style": "Lager - Vienna",
+    "prices": [
+      { "size": "440ml Can", "price": "9.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "29.50 AUD" }
+    ]
+  },
+  {
+    "name": "Magnificent Desolation IPA",
+    "brewery": "Hargreaves Hill",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "36.50 AUD" }
+    ]
+  },
+  {
+    "name": "Toasted Marshmallow & Salted Caramel Pecan Mudcake Nitro Imperial Pastry Stout",
+    "brewery": "One Drop Brewing Co",
+    "style": "Stout - Imperial / Double Pastry",
+    "prices": [
+      { "size": "440ml Can", "price": "20.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "67.50 AUD" }
+    ]
+  },
+  {
+    "name": "BBAWM",
+    "brewery": "Molly Rose Brewing",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "375ml Can", "price": "8.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "27.00 AUD" }
+    ]
+  },
+  {
+    "name": "Staycation",
+    "brewery": "Fox Friday Craft Brewery",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "10.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "34.00 AUD" }
+    ]
+  },
+  {
+    "name": "SMS",
+    "brewery": "Fox Friday Craft Brewery",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "11.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "39.50 AUD" }
+    ]
+  },
+  {
+    "name": "Shred the Gnar",
+    "brewery": "Fox Friday Craft Brewery",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Buzz the Tower",
+    "brewery": "Fox Friday Craft Brewery",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "11.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "39.00 AUD" }
+    ]
+  },
+  {
+    "name": "West Coast IPA",
+    "brewery": "Fox Friday Craft Brewery",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "9.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "31.50 AUD" }
+    ]
+  },
+  {
+    "name": "Regeneration",
+    "brewery": "Bonehead Brewing",
+    "style": "IPA - English",
+    "prices": [
+      { "size": "375ml Can", "price": "7.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "22.50 AUD" }
+    ]
+  },
+  {
+    "name": "Strawberry Dream",
+    "brewery": "Bright Brewery",
+    "style": "IPA - Milkshake",
+    "prices": [
+      { "size": "355ml Can", "price": "8.00 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "26.00 AUD" }
+    ]
+  },
+  {
+    "name": "Black Diamond",
+    "brewery": "Bright Brewery",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "prices": [
+      { "size": "355ml Can", "price": "7.00 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "23.00 AUD" }
+    ]
+  },
+  {
+    "name": "Culture Kick Gose - Peach & Passionfruit Sour Beer",
+    "brewery": "10 Toes Brewery",
+    "style": "Sour - Fruited Gose",
+    "prices": [
+      { "size": "375ml Can", "price": "7.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "24.00 AUD" }
+    ]
+  },
+  {
+    "name": "Culture Kick - Mandarin & Lemon Myrtle",
+    "brewery": "10 Toes Brewery",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "375ml Can", "price": "7.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "24.00 AUD" }
+    ]
+  },
+  {
+    "name": "Imperial Strawberry Sour",
+    "brewery": "10 Toes Brewery",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "375ml Can", "price": "9.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "32.50 AUD" }
+    ]
+  },
+  {
+    "name": "Bang Lassi Sourloops Blood Plum + Vanilla",
+    "brewery": "Loophole Brewing Co",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "375ml Can", "price": "8.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "27.00 AUD" }
+    ]
+  },
+  {
+    "name": "Sabbra Cadabra IPA",
+    "brewery": "Valhalla Brewing",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "36.50 AUD" }
+    ]
+  },
+  {
+    "name": "11. Party Starter",
+    "brewery": "Hawkers Beer",
+    "style": "IPA - Triple New England / Hazy",
+    "prices": [
+      { "size": "150ml", "price": "8.50 AUD" },
+      { "size": "Pot", "price": "13.50 AUD" },
+      { "size": "Schooner", "price": "20.00 AUD" },
+      { "size": "1L Takeaway", "price": "38.00 AUD" },
+      { "size": "440ml Can", "price": "14.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "46.50 AUD" }
+    ]
+  },
+  {
+    "name": "Ramble On Rose",
+    "brewery": "Future Mountain Brewing And Blending",
+    "style": "Sour - Fruited",
+    "prices": [{ "size": "750ml Bottle", "price": "40.00 AUD" }]
+  },
+  {
+    "name": "Vault Barrel Aged Sour (Bunker)",
+    "brewery": "Ballistic Beer",
+    "style": "Sour - Other",
+    "prices": [{ "size": "750ml Bottle", "price": "29.00 AUD" }]
+  },
+  {
+    "name": "Splashdown At Sunrise",
+    "brewery": "Bottle Logic Brewing",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "473ml Can", "price": "23.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "83.00 AUD" }
+    ]
+  },
+  {
+    "name": "Tropical Hideaway",
+    "brewery": "Bottle Logic Brewing",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "473ml Can", "price": "23.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "83.00 AUD" }
+    ]
+  },
+  {
+    "name": "Krakatoa!",
+    "brewery": "Bottle Logic Brewing",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "473ml Can", "price": "23.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "83.00 AUD" }
+    ]
+  },
+  {
+    "name": "Bianca Noa Strawberry Pecan Mud Cake",
+    "brewery": "Omnipollo",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [{ "size": "440ml Can", "price": "27.00 AUD" }]
+  },
+  {
+    "name": "HORAL's Oude Geuze Mega Blend (2021)",
+    "brewery": "Brouwerij Boon",
+    "style": "Lambic - Gueuze",
+    "prices": [{ "size": "750ml Bottle", "price": "30.50 AUD" }]
+  },
+  {
+    "name": "Choke Berry's New Sound - Chokeberry & Marshmallow Sour",
+    "brewery": "Bonehead Brewing",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "375ml Can", "price": "9.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "30.50 AUD" }
+    ]
+  },
+  {
+    "name": "Gemini | Plum + Pineapple + Crepe Crumble",
+    "brewery": "Mortalis Brewing Company",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "473ml Can", "price": "25.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "88.00 AUD" }
+    ]
+  },
+  {
+    "name": "Never Never Meant Meant",
+    "brewery": "The Veil Brewing Co.",
+    "style": "Sour - Fruited Gose",
+    "prices": [
+      { "size": "473ml Can", "price": "20.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "71.00 AUD" }
+    ]
+  },
+  {
+    "name": "Late Lunch",
+    "brewery": "Fairweather Brewing Company",
+    "style": "IPA - Sour",
+    "prices": [
+      { "size": "473ml Can", "price": "16.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "59.00 AUD" }
+    ]
+  },
+  {
+    "name": "Reaching Skyward",
+    "brewery": "Finback Brewery",
+    "style": "Sour - Fruited",
+    "prices": [{ "size": "500ml Bottle", "price": "38.00 AUD" }]
+  },
+  {
+    "name": "Into the Forest, I Go",
+    "brewery": "Hawkers Beer",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "375ml Can", "price": "6.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "20.50 AUD" }
+    ]
+  },
+  {
+    "name": "Ngongo (2021)",
+    "brewery": "The Bruery Terreux",
+    "style": "Farmhouse Ale - Saison",
+    "prices": [
+      { "size": "473ml Can", "price": "12.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "44.50 AUD" }
+    ]
+  },
+  {
+    "name": "Hipster Sweet Dreams",
+    "brewery": "Wild Barrel Brewing",
+    "style": "Stout - Imperial / Double Pastry",
+    "prices": [
+      { "size": "473ml Can", "price": "21.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "77.50 AUD" }
+    ]
+  },
+  {
+    "name": "Hammer of the Shaolin",
+    "brewery": "Clown Shoes",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "568mL Can", "price": "29.50 AUD" },
+      { "size": "568mL Can 4 Pack", "price": "105.50 AUD" }
+    ]
+  },
+  {
+    "name": "Hidden Lake",
+    "brewery": "Paranormal Brewing Co",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "330ml Can", "price": "18.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "63.50 AUD" }
+    ]
+  },
+  {
+    "name": "Catch Me If You Can",
+    "brewery": "The Bruery",
+    "style": "Stout - Imperial / Double Pastry",
+    "prices": [
+      { "size": "473ml Can", "price": "26.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "93.00 AUD" }
+    ]
+  },
+  {
+    "name": "Rêve Coffee Stout",
+    "brewery": "Parish Brewing Co.",
+    "style": "Stout - Coffee",
+    "prices": [
+      { "size": "355ml Bottle", "price": "12.50 AUD" },
+      { "size": "355ml Bottle 4 pack", "price": "44.50 AUD" }
+    ]
+  },
+  {
+    "name": "More Time To Explain (2021)",
+    "brewery": "Bottle Logic Brewing",
+    "style": "Stout - Imperial / Double",
+    "prices": [{ "size": "500ml Bottle", "price": "79.50 AUD" }]
+  },
+  {
+    "name": "Study Break",
+    "brewery": "Bottle Logic Brewing",
+    "style": "Stout - Imperial / Double Milk",
+    "prices": [
+      { "size": "473ml Can", "price": "37.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "132.00 AUD" }
+    ]
+  },
+  {
+    "name": "Rum Barrel Aged - Baltic Porter (2021)",
+    "brewery": "Hawkers Beer",
+    "style": "Porter - Imperial / Double Baltic",
+    "prices": [
+      { "size": "440ml Can", "price": "27.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "97.00 AUD" }
+    ]
+  },
+  {
+    "name": "Anarchy Black Cold IPA",
+    "brewery": "Bonehead Brewing",
+    "style": "IPA - Cold",
+    "prices": [
+      { "size": "375ml Can", "price": "7.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "24.50 AUD" }
+    ]
+  },
+  {
+    "name": "Havoc",
+    "brewery": "Working Title Brew Co",
+    "style": "Pale Ale - New England / Hazy",
+    "prices": [
+      { "size": "500ml Can", "price": "12.00 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "41.00 AUD" }
+    ]
+  },
+  {
+    "name": "Broz Broz Night Night",
+    "brewery": "The Veil Brewing Co.",
+    "style": "IPA - Imperial / Double",
+    "prices": [
+      { "size": "473ml Can", "price": "20.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "71.00 AUD" }
+    ]
+  },
+  {
+    "name": "Welcome To The Nectaron® Experience",
+    "brewery": "One Drop Brewing Co",
+    "style": "IPA - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "15.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "51.50 AUD" }
+    ]
+  },
+  {
+    "name": "Diamond Hands",
+    "brewery": "Hargreaves Hill",
+    "style": "IPA - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "11.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "41.00 AUD" }
+    ]
+  },
+  {
+    "name": "Super Chill",
+    "brewery": "Akasha Brewing Company",
+    "style": "Pale Ale - American",
+    "prices": [
+      { "size": "375ml Can", "price": "7.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "24.50 AUD" }
+    ]
+  },
+  {
+    "name": "River City Pils",
+    "brewery": "Range Brewing",
+    "style": "Pilsner - Other",
+    "prices": [
+      { "size": "440ml Can", "price": "7.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "25.50 AUD" }
+    ]
+  },
+  {
+    "name": "By All Means",
+    "brewery": "Alefarm Brewing",
+    "style": "Pale Ale - American",
+    "prices": [
+      { "size": "440ml Can", "price": "12.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "43.00 AUD" }
+    ]
+  },
+  {
+    "name": "Multipass",
+    "brewery": "Deeds Brewing",
+    "style": "Pale Ale - American",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "39.00 AUD" }
+    ]
+  },
+  {
+    "name": "Firehouse 51 Pale Ale",
+    "brewery": "Firehouse 51 Brewing Co",
+    "style": "Pale Ale - American",
+    "prices": [
+      { "size": "375ml Can", "price": "5.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "19.00 AUD" }
+    ]
+  },
+  {
+    "name": "Beyond Borders",
+    "brewery": "Embolden Beer Company",
+    "style": "Lager - Pale",
+    "prices": [
+      { "size": "473ml Can", "price": "11.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "38.00 AUD" }
+    ]
+  },
+  {
+    "name": "Karl's Big Day Out",
+    "brewery": "Deeds Brewing",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "14.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "48.50 AUD" }
+    ]
+  },
+  {
+    "name": "Lagahoo",
+    "brewery": "Deeds Brewing",
+    "style": "Stout - Other",
+    "prices": [
+      { "size": "440ml Can", "price": "12.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "41.50 AUD" }
+    ]
+  },
+  {
+    "name": "MODERN SOLUTIONS",
+    "brewery": "Banks Brewing",
+    "style": "IPA - Red",
+    "prices": [
+      { "size": "500ml Can", "price": "15.00 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "50.50 AUD" }
+    ]
+  },
+  {
+    "name": "JUICY HOOPS ",
+    "brewery": "Banks Brewing",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "500ml Can", "price": "16.00 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "54.00 AUD" }
+    ]
+  },
+  {
+    "name": "4. Violet Beauregarde's Blueberry Breakfast Bagel",
+    "brewery": "Akasha Brewing Company",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "150ml", "price": "4.50 AUD" },
+      { "size": "Pot", "price": "7.50 AUD" },
+      { "size": "Schooner", "price": "10.50 AUD" },
+      { "size": "1L Takeaway", "price": "19.00 AUD" }
+    ]
+  },
+  {
+    "name": "8. The Shape of Hops To Come (Double Edition)",
+    "brewery": "Akasha Brewing Company",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "150ml", "price": "7.00 AUD" },
+      { "size": "Pot", "price": "11.50 AUD" },
+      { "size": "Schooner", "price": "16.50 AUD" },
+      { "size": "1L Takeaway", "price": "33.00 AUD" },
+      { "size": "375ml Can", "price": "10.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "35.50 AUD" }
+    ]
+  },
+  {
+    "name": "12. Apple Cider",
+    "brewery": "Napoleone Cider",
+    "style": "Cider - Traditional / Apfelwein",
+    "prices": [
+      { "size": "150ml", "price": "4.00 AUD" },
+      { "size": "Pot", "price": "6.00 AUD" },
+      { "size": "Schooner", "price": "9.00 AUD" },
+      { "size": "1L Takeaway", "price": "17.00 AUD" },
+      { "size": "Mug", "price": "8.50 AUD" },
+      { "size": "Add A Shot", "price": "15.00 AUD" }
+    ]
+  },
+  {
+    "name": "Dopesmoker WCIPA - Mutation Program #0008",
+    "brewery": "KAIJU! Beer",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "12.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "40.50 AUD" }
+    ]
+  },
+  {
+    "name": "Space Lord NEIPA - Mutation Program #0007",
+    "brewery": "KAIJU! Beer",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "12.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "40.50 AUD" }
+    ]
+  },
+  {
+    "name": "Rock, Flag & Eagle",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "500ml Can", "price": "17.00 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "58.00 AUD" }
+    ]
+  },
+  {
+    "name": "High Speed Pass",
+    "brewery": "Mountain Culture Beer Co.",
+    "style": "IPA - Milkshake",
+    "prices": [
+      { "size": "500ml Can", "price": "16.00 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "54.00 AUD" }
+    ]
+  },
+  {
+    "name": "Written In Water",
+    "brewery": "Verdant Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "13.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "44.00 AUD" }
+    ]
+  },
+  {
+    "name": "Putty (2022)",
+    "brewery": "Verdant Brewing Co",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "15.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "52.50 AUD" }
+    ]
+  },
+  {
+    "name": "People, Money, Space, Time",
+    "brewery": "Verdant Brewing Co",
+    "style": "Pale Ale - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "36.00 AUD" }
+    ]
+  },
+  {
+    "name": "Neal Gets Things Done",
+    "brewery": "Verdant Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "13.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "44.00 AUD" }
+    ]
+  },
+  {
+    "name": "Light Bulb",
+    "brewery": "Verdant Brewing Co",
+    "style": "Pale Ale - XPA (Extra Pale)",
+    "prices": [
+      { "size": "440ml Can", "price": "8.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "26.00 AUD" }
+    ]
+  },
+  {
+    "name": "Even Sharks Need Water",
+    "brewery": "Verdant Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "13.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "44.00 AUD" }
+    ]
+  },
+  {
+    "name": "Dreaming Of Big Skies",
+    "brewery": "Track Brewing Company",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "9.00 AUD" },
+      { "size": "440ml Can", "price": "30.50 AUD" }
+    ]
+  },
+  {
+    "name": "Same Old Song",
+    "brewery": "Overtone Brewing Co",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "17.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "62.50 AUD" }
+    ]
+  },
+  {
+    "name": "Lost In Ancnoc",
+    "brewery": "Overtone Brewing Co",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "24.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "87.00 AUD" }
+    ]
+  },
+  {
+    "name": "Comet Glow",
+    "brewery": "Overtone Brewing Co",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "17.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "62.50 AUD" }
+    ]
+  },
+  {
+    "name": "How To Cook A Wolf 4 Your 5th Birthday",
+    "brewery": "Dig Brew Co",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "7.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "23.00 AUD" }
+    ]
+  },
+  {
+    "name": "California Blueberry Maple Sour",
+    "brewery": "Dig Brew Co",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "39.50 AUD" }
+    ]
+  },
+  {
+    "name": "Tufts of Twine In Upper Moutere",
+    "brewery": "Cloudwater Brew Co.",
+    "style": "Pilsner - Other",
+    "prices": [
+      { "size": "440ml Can", "price": "13.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "47.50 AUD" }
+    ]
+  },
+  {
+    "name": "PARTY! MCI Imperial Stout 7th Birthday",
+    "brewery": "Cloudwater Brew Co.",
+    "style": "Stout - Imperial / Double Pastry",
+    "prices": [
+      { "size": "440ml Can", "price": "27.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "96.50 AUD" }
+    ]
+  },
+  {
+    "name": "PARTY! DIPA 7th Birthday",
+    "brewery": "Cloudwater Brew Co.",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Hummel",
+    "brewery": "Cloudwater Brew Co.",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "10.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "34.00 AUD" }
+    ]
+  },
+  {
+    "name": "05|India Pale Ale – West Coast (2022)",
+    "brewery": "Brew By Numbers",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "14.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "50.50 AUD" }
+    ]
+  },
+  {
+    "name": "6. Whisky Barrel Aged - Imperial Stout (2022) (Coffee Edition)",
+    "brewery": "Hawkers Beer",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "150ml", "price": "11.00 AUD" },
+      { "size": "Pot", "price": "17.00 AUD" },
+      { "size": "Schooner", "price": "25.50 AUD" },
+      { "size": "1L Takeaway", "price": "49.00 AUD" }
+    ]
+  },
+  {
+    "name": "7. Rum Barrel Aged - Imperial Stout (2021)",
+    "brewery": "Hawkers Beer",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "150ml", "price": "11.00 AUD" },
+      { "size": "Pot", "price": "17.00 AUD" },
+      { "size": "Schooner", "price": "25.50 AUD" },
+      { "size": "1L Takeaway", "price": "49.00 AUD" }
+    ]
+  },
+  {
+    "name": "5. Imperial Stout  (2022)",
+    "brewery": "Hawkers Beer",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "150ml", "price": "8.50 AUD" },
+      { "size": "Pot", "price": "13.50 AUD" },
+      { "size": "Schooner", "price": "20.00 AUD" },
+      { "size": "1L Takeaway", "price": "38.00 AUD" },
+      { "size": "440ml Can", "price": "17.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "58.00 AUD" }
+    ]
+  },
+  {
+    "name": "Rhubarb & Custard Sour",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "330ml Can", "price": "10.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "35.50 AUD" }
+    ]
+  },
+  {
+    "name": "Pump Up The Jam",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "Fruit Beer",
+    "prices": [
+      { "size": "330ml Can", "price": "10.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "35.50 AUD" }
+    ]
+  },
+  {
+    "name": "Peaches And Cream",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "IPA - Milkshake",
+    "prices": [
+      { "size": "330ml Can", "price": "11.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "38.00 AUD" }
+    ]
+  },
+  {
+    "name": "Key Lime Lager",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "Lager - Pale",
+    "prices": [
+      { "size": "330ml Can", "price": "10.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "35.50 AUD" }
+    ]
+  },
+  {
+    "name": "Five Dollar Shake",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "IPA - Milkshake",
+    "prices": [
+      { "size": "330ml Can", "price": "10.50 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Cwtch",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "Red Ale - American Amber / Red",
+    "prices": [
+      { "size": "330ml Can", "price": "10.50 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Clwb Tropica Non Alc.",
+    "brewery": "Tiny Rebel Brewing Co",
+    "style": "Non-Alcoholic Beer - IPA",
+    "prices": [
+      { "size": "330ml Can", "price": "9.50 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "32.50 AUD" }
+    ]
+  },
+  {
+    "name": "Bourbon Barrel Aged - Imperial Stout (2022) (Cacao & Vanilla Edition)",
+    "brewery": "Hawkers Beer",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "28.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "97.00 AUD" }
+    ]
+  },
+  {
+    "name": "Bourbon Barrel Aged - Imperial Stout (2022) (Maple Edition)",
+    "brewery": "Hawkers Beer",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "28.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "97.00 AUD" }
+    ]
+  },
+  {
+    "name": "Alter Ego - West (Idaho 7)",
+    "brewery": "Hawkers Beer",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Alter Ego - East (Idaho 7)",
+    "brewery": "Hawkers Beer",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Sunset Strip",
+    "brewery": "Working Title Brew Co",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "500ml Can", "price": "14.50 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "49.00 AUD" }
+    ]
+  },
+  {
+    "name": "Reign Supreme",
+    "brewery": "Working Title Brew Co",
+    "style": "Cream Ale",
+    "prices": [
+      { "size": "500ml Can", "price": "15.00 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "51.00 AUD" }
+    ]
+  },
+  {
+    "name": "Good Time",
+    "brewery": "Working Title Brew Co",
+    "style": "Stout - Milk / Sweet",
+    "prices": [
+      { "size": "500ml Can", "price": "16.50 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "55.00 AUD" }
+    ]
+  },
+  {
+    "name": "Frequency",
+    "brewery": "Working Title Brew Co",
+    "style": "IPA - Imperial / Double",
+    "prices": [
+      { "size": "500ml Can", "price": "15.00 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "51.00 AUD" }
+    ]
+  },
+  {
+    "name": "Rerouting…",
+    "brewery": "White Bay Beer Co.",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "14.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "47.00 AUD" }
+    ]
+  },
+  {
+    "name": "Rarity California IPA",
+    "brewery": "White Bay Beer Co.",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "14.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "47.00 AUD" }
+    ]
+  },
+  {
+    "name": "Little Darling",
+    "brewery": "White Bay Beer Co.",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "355ml Can", "price": "9.50 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "31.50 AUD" }
+    ]
+  },
+  {
+    "name": "Cheeky Hot Toddy Spiced Ale",
+    "brewery": "Bonehead Brewing",
+    "style": "Spiced / Herbed Beer",
+    "prices": [
+      { "size": "375ml Can", "price": "7.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "24.50 AUD" }
+    ]
+  },
+  {
+    "name": "Tropical Pale Ale",
+    "brewery": "3 Ravens Brewery",
+    "style": "Pale Ale - Australian",
+    "prices": [
+      { "size": "375ml Can", "price": "6.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "19.00 AUD" }
+    ]
+  },
+  {
+    "name": "New World IPA",
+    "brewery": "3 Ravens Brewery",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "375ml Can", "price": "7.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "23.00 AUD" }
+    ]
+  },
+  {
+    "name": "Juicy IPA",
+    "brewery": "3 Ravens Brewery",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "375ml Can", "price": "7.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "24.50 AUD" }
+    ]
+  },
+  {
+    "name": "The Kalash 2022",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "17.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "59.00 AUD" }
+    ]
+  },
+  {
+    "name": "W Seltzer - Classic Lime",
+    "brewery": "Wayward Brewing",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "330ml Can", "price": "5.00 AUD" },
+      { "size": "330 ml Can 4 Pack", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "W Seltzer - Watermelon",
+    "brewery": "Wayward Brewing",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "330ml Can", "price": "5.00 AUD" },
+      { "size": "330mL Can 4 Packs", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "W Seltzer - Juicy Peach",
+    "brewery": "Wayward Brewing",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "330ml Can", "price": "5.00 AUD" },
+      { "size": "330 ml Can 4 Pack", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "W Seltzer - Summer Berries",
+    "brewery": "Wayward Brewing",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "330ml Can", "price": "5.00 AUD" },
+      { "size": "330 ml Can 4 Pack", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "W Seltzer - Tropical Mango",
+    "brewery": "Wayward Brewing",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "330ml Can", "price": "5.00 AUD" },
+      { "size": "330 ml Can 4 Pack", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "Another Lager",
+    "brewery": "Heaps Normal",
+    "style": "Non-Alcoholic Beer - Lager",
+    "prices": [
+      { "size": "375ml Can", "price": "4.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "13.50 AUD" }
+    ]
+  },
+  {
+    "name": "Omne Trium Perfectum: Blackcurrant, Coffee & Cacao Nib",
+    "brewery": "Garage Project",
+    "style": "Sour - Fruited",
+    "prices": [{ "size": "375ml Bottle", "price": "16.00 AUD" }]
+  },
+  {
+    "name": "Omne Trium Perfectum: Rose, Saffron & Lemon Zest",
+    "brewery": "Garage Project",
+    "style": "Sour - Fruited",
+    "prices": [{ "size": "375ml Bottle", "price": "16.00 AUD" }]
+  },
+  {
+    "name": "Anytime Pale Ale",
+    "brewery": "Temple Brewing Co.",
+    "style": "Pale Ale - American",
+    "prices": [
+      { "size": "355ml Can", "price": "5.00 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "16.50 AUD" }
+    ]
+  },
+  {
+    "name": "Starry Sky",
+    "brewery": "Temple Brewing Co.",
+    "style": "Stout - Imperial / Double Coffee",
+    "prices": [
+      { "size": "440ml Can", "price": "14.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "49.00 AUD" }
+    ]
+  },
+  {
+    "name": "Shikuwasa & Ginger Seltzer",
+    "brewery": "Temple Brewing Co.",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "355ml Can", "price": "5.50 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "19.00 AUD" }
+    ]
+  },
+  {
+    "name": "Rice XPA",
+    "brewery": "Temple Brewing Co.",
+    "style": "Pale Ale - XPA (Extra Pale)",
+    "prices": [
+      { "size": "355ml Can", "price": "6.00 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "19.50 AUD" }
+    ]
+  },
+  {
+    "name": "Muda Bourbon / Maple Syrup BA (Silver Series)",
+    "brewery": "Pühaste Brewery",
+    "style": "Stout - Imperial / Double Pastry",
+    "prices": [
+      { "size": "330ml Bottle", "price": "21.50 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "73.00 AUD" }
+    ]
+  },
+  {
+    "name": "Beans & Biscuits",
+    "brewery": "Pühaste Brewery",
+    "style": "Stout - Imperial / Double Pastry",
+    "prices": [
+      { "size": "330ml Can", "price": "13.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "44.00 AUD" }
+    ]
+  },
+  {
+    "name": "Smoothie Loops",
+    "brewery": "Pühaste Brewery",
+    "style": "Sour - Smoothie / Pastry",
+    "prices": [
+      { "size": "330ml Can", "price": "9.50 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "32.50 AUD" }
+    ]
+  },
+  {
+    "name": "Neukölln",
+    "brewery": "Põhjala",
+    "style": "Sour - Fruited Berliner Weisse",
+    "prices": [
+      { "size": "330ml Can", "price": "9.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "29.50 AUD" }
+    ]
+  },
+  {
+    "name": "Orange Gose",
+    "brewery": "Põhjala",
+    "style": "Sour - Fruited Gose",
+    "prices": [
+      { "size": "330ml Can", "price": "8.50 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "28.00 AUD" }
+    ]
+  },
+  {
+    "name": "Gone Camping (Cellar Series)",
+    "brewery": "Põhjala",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "330ml Bottle", "price": "19.00 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "65.00 AUD" }
+    ]
+  },
+  {
+    "name": "Bänger",
+    "brewery": "Põhjala",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "330ml Bottle", "price": "14.50 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "48.50 AUD" }
+    ]
+  },
+  {
+    "name": "Banaananen (Cellar Series)",
+    "brewery": "Põhjala",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "330ml Bottle", "price": "20.00 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "68.00 AUD" }
+    ]
+  },
+  {
+    "name": "Jätku Leiba (Cellar Series)",
+    "brewery": "Põhjala",
+    "style": "Porter - Imperial / Double",
+    "prices": [
+      { "size": "330ml Bottle", "price": "19.50 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "66.50 AUD" }
+    ]
+  },
+  {
+    "name": "Rukkiväli",
+    "brewery": "Põhjala",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "330ml Bottle", "price": "12.00 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "40.50 AUD" }
+    ]
+  },
+  {
+    "name": "Tripping In Vitamin C",
+    "brewery": "Range Brewing",
+    "style": "IPA - Triple New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "17.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "59.50 AUD" }
+    ]
+  },
+  {
+    "name": "Squeeze",
+    "brewery": "Range Brewing",
+    "style": "Pale Ale - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "9.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "32.50 AUD" }
+    ]
+  },
+  {
+    "name": "Quick Hands",
+    "brewery": "Fox Friday Craft Brewery",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "12.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "42.00 AUD" }
+    ]
+  },
+  {
+    "name": "Brewhouse Series: Rauchbier",
+    "brewery": "Bonehead Brewing",
+    "style": "Rauchbier",
+    "prices": [
+      { "size": "375ml Can", "price": "6.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "20.50 AUD" }
+    ]
+  },
+  {
+    "name": "Lupulin Fog NEIIPA",
+    "brewery": "Akasha Brewing Company",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "375ml Can", "price": "11.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "38.00 AUD" }
+    ]
+  },
+  {
+    "name": "Ocean of Oneness",
+    "brewery": "Garage Project",
+    "style": "IPA - Sour",
+    "prices": [
+      { "size": "440ml Can", "price": "15.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "53.00 AUD" }
+    ]
+  },
+  {
+    "name": "Just ‘Cause You Feel It - Hāpi Sessions Vol 7: Green Cheek",
+    "brewery": "Garage Project",
+    "style": "IPA - Imperial / Double",
+    "prices": [{ "size": "440ml Can", "price": "15.50 AUD" }]
+  },
+  {
+    "name": "Engeltjes Pis",
+    "brewery": "Garage Project",
+    "style": "Sour - Flanders Red Ale",
+    "prices": [{ "size": "750ml Bottle", "price": "62.00 AUD" }]
+  },
+  {
+    "name": "Turbo Fuzz",
+    "brewery": "Garage Project",
+    "style": "IPA - Triple New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "16.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "54.50 AUD" }
+    ]
+  },
+  {
+    "name": "Tip of the Spear",
+    "brewery": "Deeds Brewing",
+    "style": "Pilsner - German",
+    "prices": [
+      { "size": "440ml Can", "price": "11.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "38.00 AUD" }
+    ]
+  },
+  {
+    "name": "Terebellum",
+    "brewery": "Modern Times Beer",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "473ml Can", "price": "11.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "40.00 AUD" }
+    ]
+  },
+  {
+    "name": "Lexington Queen",
+    "brewery": "New Anthem Beer Project",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "473ml Can", "price": "17.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "61.00 AUD" }
+    ]
+  },
+  {
+    "name": "Helios",
+    "brewery": "Mortalis Brewing Company",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "473ml Can", "price": "24.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "85.50 AUD" }
+    ]
+  },
+  {
+    "name": "Black IPA",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "prices": [
+      { "size": "375ml Can", "price": "8.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "27.00 AUD" }
+    ]
+  },
+  {
+    "name": "Hazy IPA Hop Showcase #09 HBC630",
+    "brewery": "The Garden Brewery",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "12.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "43.00 AUD" }
+    ]
+  },
+  {
+    "name": "Hazy Mid",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Pale Ale - New England / Hazy",
+    "prices": [
+      { "size": "375ml Can", "price": "4.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "15.50 AUD" }
+    ]
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "Pale Ale - Australian",
+    "prices": [
+      { "size": "375ml Can", "price": "5.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "IPA",
+    "brewery": "Fury And Son Brewing Company",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "375ml Can", "price": "6.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "20.50 AUD" }
+    ]
+  },
+  {
+    "name": "Bourbon Barrel Aged Imperial Stout",
+    "brewery": "Blackman's Brewery",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "330ml Can", "price": "11.50 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "38.00 AUD" }
+    ]
+  },
+  {
+    "name": "Angry Reg",
+    "brewery": "Blackman's Brewery",
+    "style": "IPA - Imperial / Double",
+    "prices": [
+      { "size": "500ml Can", "price": "16.50 AUD" },
+      { "size": "500mL Can 4 Pack", "price": "55.00 AUD" }
+    ]
+  },
+  {
+    "name": "Original Pilsner",
+    "brewery": "Parish Brewing Co.",
+    "style": "Pilsner - German",
+    "prices": [
+      { "size": "355ml Can", "price": "9.00 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "31.00 AUD" }
+    ]
+  },
+  {
+    "name": "Country Lager",
+    "brewery": "Mog Brew",
+    "style": "Lager - Helles",
+    "prices": [
+      { "size": "375ml Can", "price": "5.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "Mum's Pilsner",
+    "brewery": "Bonehead Brewing",
+    "style": "Pilsner - Czech",
+    "prices": [
+      { "size": "375ml Can", "price": "6.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "20.50 AUD" }
+    ]
+  },
+  {
+    "name": "Junior",
+    "brewery": "Bonehead Brewing",
+    "style": "Pale Ale - Belgian",
+    "prices": [
+      { "size": "375ml Can", "price": "6.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "20.50 AUD" }
+    ]
+  },
+  {
+    "name": "Revered Ale",
+    "brewery": "Bonehead Brewing",
+    "style": "Red Ale - American Amber / Red",
+    "prices": [
+      { "size": "375ml Can", "price": "6.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "20.50 AUD" }
+    ]
+  },
+  {
+    "name": "XPA",
+    "brewery": "Deeds Brewing",
+    "style": "Pale Ale - XPA (Extra Pale)",
+    "prices": [
+      { "size": "375ml Can", "price": "4.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "13.50 AUD" }
+    ]
+  },
+  {
+    "name": "Juice Train ",
+    "brewery": "Deeds Brewing",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "375ml Can", "price": "7.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "23.50 AUD" }
+    ]
+  },
+  {
+    "name": "Pulsating Fractals",
+    "brewery": "Ever Grain Brewing Co.",
+    "style": "IPA - Imperial / Double New England / Hazy",
+    "prices": [
+      { "size": "473ml Can", "price": "16.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "58.50 AUD" }
+    ]
+  },
+  {
+    "name": "Easy To Find",
+    "brewery": "The Veil Brewing Co.",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "473ml Can", "price": "16.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "57.00 AUD" }
+    ]
+  },
+  {
+    "name": "Onward Ever Onward",
+    "brewery": "White Bay Beer Co.",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "14.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "47.00 AUD" }
+    ]
+  },
+  {
+    "name": "Dolcé Noir Imperial Stout Vintage 2022",
+    "brewery": "White Bay Beer Co.",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "15.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "51.00 AUD" }
+    ]
+  },
+  {
+    "name": "Smoked Lager",
+    "brewery": "Burnley Brewing",
+    "style": "Rauchbier",
+    "prices": [
+      { "size": "440ml Can", "price": "7.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "22.50 AUD" }
+    ]
+  },
+  {
+    "name": "White IPA",
+    "brewery": "Burnley Brewing",
+    "style": "IPA - White / Wheat",
+    "prices": [
+      { "size": "440ml Can", "price": "11.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "39.00 AUD" }
+    ]
+  },
+  {
+    "name": "Up All Night",
+    "brewery": "Burnley Brewing",
+    "style": "IPA - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "14.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "49.00 AUD" }
+    ]
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "Burnley Brewing",
+    "style": "Pale Ale - Australian",
+    "prices": [
+      { "size": "440ml Can", "price": "7.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "24.50 AUD" }
+    ]
+  },
+  {
+    "name": "Helles",
+    "brewery": "Burnley Brewing",
+    "style": "Lager - Helles",
+    "prices": [
+      { "size": "440ml Can", "price": "8.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "25.50 AUD" }
+    ]
+  },
+  {
+    "name": "Blood Orange & Passionfruit Seltzer",
+    "brewery": "Burnley Brewing",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "355ml Can", "price": "5.50 AUD" },
+      { "size": "355ml Can 4 Packs", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "Finger Lime & Lemon Myrtle",
+    "brewery": "Burnley Brewing",
+    "style": "Hard Seltzer",
+    "prices": [
+      { "size": "355ml Can", "price": "5.50 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "17.50 AUD" }
+    ]
+  },
+  {
+    "name": "Blaze of Haze",
+    "brewery": "Prancing Pony Brewery",
+    "style": "Pale Ale - New England / Hazy",
+    "prices": [
+      { "size": "375ml Can", "price": "7.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "23.00 AUD" }
+    ]
+  },
+  {
+    "name": "Double Black Ale",
+    "brewery": "Prancing Pony Brewery",
+    "style": "IPA - Black / Cascadian Dark Ale",
+    "prices": [
+      { "size": "375ml Can", "price": "9.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "31.50 AUD" }
+    ]
+  },
+  {
+    "name": "Easy Ale",
+    "brewery": "Recreation Brewing",
+    "style": "Other",
+    "prices": [
+      { "size": "330ml Can", "price": "4.00 AUD" },
+      { "size": "330 ml Can 4 Pack", "price": "13.50 AUD" }
+    ]
+  },
+  {
+    "name": "Hopulence",
+    "brewery": "Bacchus Brewing Co.",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "375ml Can", "price": "11.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "39.00 AUD" }
+    ]
+  },
+  {
+    "name": "Maximum Effort",
+    "brewery": "Deeds Brewing",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "15.00 AUD" },
+      { "size": "440ml Can", "price": "50.50 AUD" }
+    ]
+  },
+  {
+    "name": "Four Legs Good",
+    "brewery": "Garage Project",
+    "style": "Table Beer",
+    "prices": [
+      { "size": "330ml Can", "price": "5.50 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "15.00 AUD" }
+    ]
+  },
+  {
+    "name": "Epuni Street Bitter",
+    "brewery": "Garage Project",
+    "style": "Bitter - Extra Special / Strong (ESB)",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Thought Vacation",
+    "brewery": "Range Brewing",
+    "style": "IPA - American",
+    "prices": [
+      { "size": "440ml Can", "price": "12.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "40.00 AUD" }
+    ]
+  },
+  {
+    "name": "Window of Opportunity",
+    "brewery": "Hawkers Beer",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "37.00 AUD" }
+    ]
+  },
+  {
+    "name": "Spitfire",
+    "brewery": "Hawkers Beer",
+    "style": "IPA - Red",
+    "prices": [
+      { "size": "440ml Can", "price": "11.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "39.00 AUD" }
+    ]
+  },
+  {
+    "name": "Bourbon Barrel Aged - Imperial Stout (2022)",
+    "brewery": "Hawkers Beer",
+    "style": "Stout - Imperial / Double",
+    "prices": [
+      { "size": "440ml Can", "price": "28.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "97.00 AUD" }
+    ]
+  },
+  {
+    "name": "Mind Ya Head XPA",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Non-Alcoholic Beer - Pale Ale",
+    "prices": [
+      { "size": "375ml Can", "price": "4.50 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "14.50 AUD" }
+    ]
+  },
+  {
+    "name": "Stars Align Stout",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Non-Alcoholic Beer - Porter / Stout",
+    "prices": [
+      { "size": "375ml Can", "price": "5.00 AUD" },
+      { "size": "375mL Can 4 Pack", "price": "16.00 AUD" }
+    ]
+  },
+  {
+    "name": "DDH American Pale Ale",
+    "brewery": "Innate Brewers",
+    "style": "Pale Ale - American",
+    "prices": [
+      { "size": "440ml Can", "price": "11.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "36.50 AUD" }
+    ]
+  },
+  {
+    "name": "Renegade",
+    "brewery": "Innate Brewers",
+    "style": "IPA - Red",
+    "prices": [
+      { "size": "440ml Can", "price": "12.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "40.50 AUD" }
+    ]
+  },
+  {
+    "name": "Barrel Aged Double ESB",
+    "brewery": "Hargreaves Hill",
+    "style": "Bitter - Extra Special / Strong (ESB)",
+    "prices": [
+      { "size": "440ml Can", "price": "14.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "49.00 AUD" }
+    ]
+  },
+  {
+    "name": "Juice Forsyth",
+    "brewery": "Brew York",
+    "style": "IPA - New England / Hazy",
+    "prices": [
+      { "size": "440ml Can", "price": "12.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "40.00 AUD" }
+    ]
+  },
+  {
+    "name": "Ten Dollar Shake 2022 ",
+    "brewery": "Siren Craft Brew",
+    "style": "IPA - Milkshake",
+    "prices": [
+      { "size": "440ml Can", "price": "13.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "46.00 AUD" }
+    ]
+  },
+  {
+    "name": "Zero Five",
+    "brewery": "Thornbridge Brewery",
+    "style": "Non-Alcoholic Beer - Pale Ale",
+    "prices": [
+      { "size": "330ml Bottle", "price": "4.50 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "15.50 AUD" }
+    ]
+  },
+  {
+    "name": "Calypso",
+    "brewery": "Siren Craft Brew",
+    "style": "Sour - Other",
+    "prices": [
+      { "size": "330ml Can", "price": "7.00 AUD" },
+      { "size": "330mL Can 4 Pack", "price": "23.00 AUD" }
+    ]
+  },
+  {
+    "name": "Lager Lager Lager",
+    "brewery": "Wander Beyond Brewing",
+    "style": "Pilsner - Other",
+    "prices": [
+      { "size": "440ml Can", "price": "13.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "44.50 AUD" }
+    ]
+  },
+  {
+    "name": "Madrugada Obscura",
+    "brewery": "Jolly Pumpkin Artisan Ales",
+    "style": "Sour - Other",
+    "prices": [
+      { "size": "473ml Can", "price": "14.00 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "48.00 AUD" }
+    ]
+  },
+  {
+    "name": "Clementina",
+    "brewery": "Jolly Pumpkin Artisan Ales",
+    "style": "Farmhouse Ale - Saison",
+    "prices": [
+      { "size": "473ml Can", "price": "13.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "46.00 AUD" }
+    ]
+  },
+  {
+    "name": "Frucht: Passion Fruit (2022)",
+    "brewery": "The Bruery Terreux",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "473ml Can", "price": "11.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "38.50 AUD" }
+    ]
+  },
+  {
+    "name": "Oro de Calabaza",
+    "brewery": "Jolly Pumpkin Artisan Ales",
+    "style": "Belgian Strong Golden Ale",
+    "prices": [
+      { "size": "473ml Can", "price": "13.50 AUD" },
+      { "size": "473ml / 4pk Cans", "price": "46.00 AUD" }
+    ]
+  },
+  {
+    "name": "Knuckle Buster Cold IPA",
+    "brewery": "Rogue Ales",
+    "style": "IPA - Cold",
+    "prices": [
+      { "size": "355ml Can", "price": "9.00 AUD" },
+      { "size": "355mL Can 4 Pack", "price": "31.00 AUD" }
+    ]
+  },
+  {
+    "name": "Halfway To Nowhere",
+    "brewery": "Range Brewing",
+    "style": "Sour - Fruited Berliner Weisse",
+    "prices": [
+      { "size": "440ml Can", "price": "9.50 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "32.00 AUD" }
+    ]
+  },
+  {
+    "name": "Hello Sunshine",
+    "brewery": "Gage Roads Brew Co ",
+    "style": "Cider - Traditional / Apfelwein",
+    "prices": [
+      { "size": "330mL Can 4 Packs", "price": "14.00 AUD" },
+      { "size": "330ml Can", "price": "4.00 AUD" }
+    ]
+  },
+  {
+    "name": "Double Barrel",
+    "brewery": "Boatrocker Brewers & Distillers",
+    "style": "Wild Ale - Other",
+    "prices": [{ "size": "375ml Bottle", "price": "18.00 AUD" }]
+  },
+  {
+    "name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "style": "Belgian Quadrupel",
+    "prices": [
+      { "size": "330ml Bottle", "price": "9.50 AUD" },
+      { "size": "330ml Bottle 4 Pack", "price": "33.50 AUD" }
+    ]
+  },
+  {
+    "name": "Zombie Pop 4 - Pineapple Imperial Sour",
+    "brewery": "Hop Nation Brewing Co",
+    "style": "Sour - Fruited",
+    "prices": [
+      { "size": "440ml Can", "price": "13.00 AUD" },
+      { "size": "440ml Can 4 Pack", "price": "45.50 AUD" }
+    ]
+  },
+  {
     "name": "Lager",
     "brewery": "TWØBAYS",
     "style": "Gluten-Free",

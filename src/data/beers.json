@@ -1,5 +1,144 @@
 [
   {
+    "name": "Willie Smith's BONE DRY Apple Cider",
+    "brewery": "Willie Smith's Cider Makers",
+    "style": "Cider - Dry",
+    "date": "08/02/22"
+  },
+  {
+    "name": "Bearbrass",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Stout - Milk / Sweet",
+    "date": "07/31/22"
+  },
+  {
+    "name": "Into the Wood: Rye Whiskey Barrel-Aged Imperial Stout",
+    "brewery": "Stomping Ground Brewing Co.",
+    "style": "Stout - Imperial / Double",
+    "date": "07/31/22"
+  },
+  {
+    "name": "Raspberry Wheat Beer",
+    "brewery": "Mount Pleasant Rd Brewers",
+    "style": "Wheat Beer - Witbier / Blanche",
+    "date": "07/26/22"
+  },
+  {
+    "name": "Jubel (2015)",
+    "brewery": "Deschutes Brewery",
+    "style": "Winter Ale",
+    "date": "07/26/22"
+  },
+  {
+    "name": "Pomme",
+    "brewery": "Alesong Brewing & Blending",
+    "style": "Cider - Graff",
+    "date": "07/26/22"
+  },
+  {
+    "name": "Cola Creamsicle",
+    "brewery": "3 Ravens Brewery",
+    "style": "Sour - Other",
+    "date": "07/24/22"
+  },
+  {
+    "name": "Mango & Pineapple Sparkling Hard Tea",
+    "brewery": "Collective Arts Brewing",
+    "style": "Flavored Malt Beverage",
+    "date": "07/24/22"
+  },
+  {
+    "name": "Aquavit Barrel Aged - Wheatwine (2018) - Peach",
+    "brewery": "Hawkers Beer",
+    "style": "Wheat Beer - Wheat Wine",
+    "date": "07/24/22"
+  },
+  {
+    "name": "Little Rośe Skin Contact Farmhouse Ale",
+    "brewery": "Molly Rose Brewing",
+    "style": "Farmhouse Ale - Other",
+    "date": "07/23/22"
+  },
+  {
+    "name": "Living Beer 5 - Smoked Citrus Viet Sour",
+    "brewery": "Urbanaut Brewing",
+    "style": "Historical Beer - Lichtenhainer",
+    "date": "07/19/22"
+  },
+  {
+    "name": "Arrogant Bastard Ale",
+    "brewery": "Arrogant Consortia",
+    "style": "Strong Ale - American",
+    "date": "07/19/22"
+  },
+  {
+    "name": "Jumping The Shark (2017)",
+    "brewery": "Moon Dog Craft Brewery",
+    "style": "Freeze-Distilled Beer",
+    "date": "07/17/22"
+  },
+  {
+    "name": "Chateau Aro Solera",
+    "brewery": "Garage Project",
+    "style": "Grape Ale - Italian",
+    "date": "07/16/22"
+  },
+  {
+    "name": "Shadow Work",
+    "brewery": "Grimm Artisanal Ales",
+    "style": "Sour - Flanders Oud Bruin",
+    "date": "07/12/22"
+  },
+  {
+    "name": "Funky Monkey",
+    "brewery": "Boatrocker Brewers & Distillers",
+    "style": "Wild Ale - Other",
+    "date": "07/10/22"
+  },
+  {
+    "name": "Oude Geuze Boon (2018-2019)",
+    "brewery": "Brouwerij Boon",
+    "style": "Lambic - Gueuze",
+    "date": "07/10/22"
+  },
+  {
+    "name": "Brown Ale",
+    "brewery": "On Point Brewery",
+    "style": "Brown Ale - American",
+    "date": "07/05/22"
+  },
+  {
+    "name": "MOG (Red & Black Raspberries)",
+    "brewery": "Bellwoods Brewery",
+    "style": "Wild Ale - American",
+    "date": "07/03/22"
+  },
+  {
+    "name": "Pale Ale",
+    "brewery": "On Point Brewery",
+    "style": "Pale Ale - American",
+    "date": "07/03/22"
+  },
+  {
+    "name": "Spontandryhop Citra",
+    "brewery": "Mikkeller",
+    "style": "Lambic - Other",
+    "date": "07/03/22"
+  },
+  { "name": "Red IPA", "brewery": "On Point Brewery", "style": "IPA - Red", "date": "07/02/22" },
+  {
+    "name": "Strawberry Sour",
+    "brewery": "On Point Brewery",
+    "style": "Sour - Fruited",
+    "date": "07/02/22"
+  },
+  {
+    "name": "Passionfruit Mojito Sour",
+    "brewery": "Jetty Road",
+    "style": "Sour - Fruited Gose",
+    "date": "07/01/22"
+  },
+  {
     "name": "Into The 'Wood: Monk’s Tipple",
     "brewery": "Stomping Ground Brewing Co.",
     "style": "Belgian Tripel",
