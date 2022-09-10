@@ -1,4 +1,46 @@
 [
+  { "name": "Madrugada Obscura", "brewery": "Jolly Pumpkin Artisan Ales", "style": "Sour - Other", "date": "09/04/22" },
+  {
+    "name": "It's Genghis Can",
+    "brewery": "BrewHeart",
+    "style": "IPA - Triple New England / Hazy",
+    "date": "09/04/22"
+  },
+  {
+    "name": "Pineapple Bob Bourbon Pants",
+    "brewery": "Westside Ale Works",
+    "style": "Sour - Other",
+    "date": "09/04/22"
+  },
+  {
+    "name": "Oro de Calabaza",
+    "brewery": "Jolly Pumpkin Artisan Ales",
+    "style": "Belgian Strong Golden Ale",
+    "date": "08/28/22"
+  },
+  { "name": "Tip of the Spear", "brewery": "Deeds Brewing", "style": "Pilsner - German", "date": "08/28/22" },
+  { "name": "Into the Forest, I Go", "brewery": "Hawkers Beer", "style": "Sour - Fruited", "date": "08/26/22" },
+  {
+    "name": "Porter Baltique",
+    "brewery": "LTM - Les Trois Mousquetaires",
+    "style": "Porter - Imperial / Double Baltic",
+    "date": "08/21/22"
+  },
+  { "name": "Smoothie Loops", "brewery": "Pühaste Brewery", "style": "Sour - Smoothie / Pastry", "date": "08/21/22" },
+  { "name": "Smoked Lager", "brewery": "Burnley Brewing", "style": "Rauchbier", "date": "08/14/22" },
+  {
+    "name": "Lichtenhainer",
+    "brewery": "Dollar Bill Brewing",
+    "style": "Historical Beer - Lichtenhainer",
+    "date": "08/14/22"
+  },
+  { "name": "Four Legs Good", "brewery": "Garage Project", "style": "Table Beer", "date": "08/14/22" },
+  {
+    "name": "Party Starter",
+    "brewery": "Hawkers Beer",
+    "style": "IPA - Triple New England / Hazy",
+    "date": "08/13/22"
+  },
   {
     "name": "Willie Smith's BONE DRY Apple Cider",
     "brewery": "Willie Smith's Cider Makers",
